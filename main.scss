@@ -101,7 +101,7 @@ body {
 
    // header
 
-   header {position:fixed;}
+   header {position:fixed;z-index:9999;}
 
    .hero {
      padding-top:100px;
@@ -125,3 +125,8 @@ body {
    }
 
    // main
+
+   img.intervenants {
+     width:200px;
+     height:300px;
+   }

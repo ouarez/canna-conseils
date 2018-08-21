@@ -1,0 +1,13 @@
+main_nav:
+  - title: Accueil
+    url: /
+  - title: Les Conférences
+    url: /conferences
+  - title: Intervenants
+    url: /intervenants
+  - title: Partenaires
+    url: /partenaires
+  - title: À propos
+    url: /a-propos
+  - title: Inscriptions
+    url: /inscriptions

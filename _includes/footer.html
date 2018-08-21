@@ -1,0 +1,49 @@
+<footer class="w-100 bg-dark-gray gray pa3 pa4-l">
+
+<div class="container flex flex-wrap pt3">
+
+  <div class="w-100 w-third">
+
+    <a href="/" alt="{{site.data.settings.site_name}}" class="no-underline">
+      <h1 class="f2 white ttu alt-font mt2 mb0">{{site.data.settings.site_name}}</h1>
+      <span class="f5 white ttu tracked-tight dib pt2 pt0-l">{{site.data.settings.site_slogan}}</span>
+    </a>
+
+  </div>
+
+  <div class="w-100 w-third">
+
+    <h4 class="alt-font white ttu b mv3">Contactez-nous</h4>
+    <div class="mv2">
+      <span class="lh-copy">{{site.data.settings.address_1}}</span>
+      <br/>
+      <span class="lh-copy">{{site.data.settings.address_2}}</span>
+    </div>
+    <div class="mv2">
+      <i class="fas fa-phone mr2"></i><span class="lh-copy">{{site.data.settings.site_tel}}</span>
+      <br/>
+      <i class="fas fa-at mr2"></i><span class="lh-copy">{{site.data.settings.site_email}}</span>
+    </div>
+    <div class="mv3">
+      <a href="https://facebook.com"><i class="fab fa-facebook-f mr3 moon-gray f3"></i></a>
+      <a href="https://twitter.com"><i class="fab fa-twitter mr3 moon-gray f3"></i></a>
+      <a href="https://youtube.com"><i class="fab fa-youtube mr3 moon-gray f3"></i></a>
+    </div>
+
+  </div>
+
+  <div class="w-100 w-third">
+
+    <h4 class="alt-font white ttu b mv3">Liens Rapides</h4>
+
+    <nav class="footer">
+      {% for item in site.data.navigation.main_nav %}
+        <a class="f5 gray alt-font db link lh-copy {% if item.url == page.url %}active{% endif %}" href="{{item.url}}">{{item.title}}</a>
+      {% endfor %}
+    </nav>
+
+  </div>
+
+</div>
+
+</footer>

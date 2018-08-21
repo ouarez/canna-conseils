@@ -1,0 +1,127 @@
+---
+---
+// variables
+$main-font: 'Signika', sans-serif;
+$alt-font: 'Oswald', sans-serif;
+$font-weight: 500;
+$green: #4dc511;
+$light-blue: #428bca;
+
+.main-font {font-family:$main-font;}
+.alt-font {font-family:$alt-font;}
+
+.green {color:$green;}
+.light-blue {color:$light-blue;}
+
+.bg-green {background-color: $green;}
+
+.container {
+  max-width:1200px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+body {
+    font-family: $main-font;
+    color: #333;
+    background-color:#fff;
+}
+
+.vh-85 {
+  height:85vh;
+  min-height:700px;
+}
+
+.link {
+  text-decoration:none;
+  &:hover {text-decoration: underline;}
+}
+
+.shadow {
+  background:
+      linear-gradient(
+        rgba(0, 0, 0, 0.6),
+        rgba(0, 0, 0, 0.6)
+      );
+}
+
+.cover {
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center center;
+}
+
+.text-shadow {text-shadow:1px 3px 3px #444;}
+
+.f-huge {font-size:3.5em;}
+
+.underliner {
+  border:dotted #999 2px;
+  padding:1px;
+  width:80px;
+}
+
+.hidden {
+  display:none;
+}
+
+// typography
+
+ b,strong {
+   font-weight:900;
+ }
+
+  p,li {
+    line-height:1.5;
+  }
+
+   h1,h2 {
+     margin:1em 0;
+     font-family:$main-font;
+     font-weight:$font-weight;
+   }
+
+   h3,h4,h5,h6 {
+     margin:0.5em 0;
+     font-family:$main-font;
+     font-weight:$font-weight;
+   }
+
+   h1 {font-size:2.5rem;}
+   h2 {font-size:2.25rem;}
+   h3 {font-size:1.75rem;}
+   h4 {font-size:1.25rem;}
+   h5 {font-size:1rem;}
+   h6 {font-size:0.75rem;}
+
+   p,li,label,input,select,span,button {
+     font-family: $main-font;
+     font-weight:$font-weight;
+   }
+
+   // header
+
+   header {position:fixed;}
+
+   .hero {
+     padding-top:100px;
+   }
+
+   nav.main,nav.mobile {
+     a {
+       text-decoration:none;
+       &:hover {border-bottom:solid #fff 3px;transition: border-width 0.2s linear;}
+     }
+     a.active {border-bottom:solid #fff 3px;}
+   }
+
+   .countdown {
+     div {
+       width:180px;
+       height:180px;
+
+       span {margin-top:52px;}
+     }
+   }
+
+   // main

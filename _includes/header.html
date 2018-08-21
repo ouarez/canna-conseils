@@ -1,0 +1,53 @@
+<header class="w-100 bg-green ph2 ph4-l">
+
+  <div class="flex flex-wrap pt3 pv3-l justify-around">
+
+    <a href="/" alt="{{site.data.settings.site_name}}" class="ml-auto mr-auto ml0-l mr0-l no-underline tc tl-l">
+      <h1 class="f1 white ttu alt-font mv0">{{site.data.settings.site_name}}</h1>
+      <span class="f5 white ttu tracked-tight dib pt2 pt0-l">{{site.data.settings.site_slogan}}</span>
+    </a>
+
+    <nav class="main dn db-l tr mt3 ml5 pt2">
+      {% for item in site.data.navigation.main_nav %}
+        <a class="f5 white alt-font mr4 pb2 {% if item.url == page.url %}active{% endif %}" href="{{item.url}}">{{item.title}}</a>
+      {% endfor %}
+    </nav>
+
+    <nav class="mobile w-100 dn-l pv3 tc">
+      {% for item in site.data.navigation.main_nav %}
+        <a class="dib pv3 f5 white alt-font mr3 pb2 {% if item.url == page.url %}active{% endif %}" href="{{item.url}}">{{item.title}}</a>
+      {% endfor %}
+    </nav>
+
+  </div> <!-- end container -->
+
+</header>
+
+<div class="w-100 hero cover" style="background-image:url('{{page.cover_image}}');">
+  <div class="container pv3 flex flex-wrap">
+
+    {% if page.layout == "home" %}
+      <div class="w-100 home ph3 ph4-l tc">
+        <h1 class="w-100 white ttu f-huge b text-shadow mv4">{{page.slogan1}}</h1>
+        <h2 class="w-100 white ttu tracked f3 b text-shadow">{{page.slogan2}}</h2>
+      </div>
+
+      {% include countdown.html %}
+
+      <div class="w-100 mv4">
+        <a href="/inscriptions" class="link white">
+          <button class="db white bg-green f5 b ttu bn br4 pv3 ph5 ml-auto mr-auto pointer grow">Inscrivez-vous dès maintenant!</button>
+        </a>
+      </div>
+
+    {% else %}
+
+    <div class="w-100 home ph3 ph4-l tc pv4">
+      <h1 class="w-100 white ttu f2 alt-font b text-shadow mv4">{{page.slogan1}}</h1>
+      <h2 class="w-100 white ttu tracked f3 alt-font b text-shadow mv3">{{page.slogan2}}</h2>
+    </div>
+
+    {% endif %}
+
+  </div>
+</div>

@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+<div class="w-100 pv4" style="background-image:url('/img/bg-light.png');">
+
+  <div class="container ph3 ph4-l flex flex-wrap">
+    <h2 class="b ttu">{{page.intro_title}}</h2>
+    <div class="w-100 w-60-l pr5-l">
+      {{page.intro_text | markdownify}}
+    </div>
+    <div class="w-100 w-40-l bg-green white br4 mv3 pv4 ph3">
+      <h3 class="f2 b ttu tc mb4">La semaine du cannabis</h3>
+
+      <div class="w-100 w-80-l ml-auto mr-auto mv3 tc tl-l">
+        <i class="fas fa-calendar-alt mr2 mr3-l f4"></i>
+        <span class="f4">Lundi 24 Sept. - Samedi 29 Sept.</span>
+      </div>
+      <div class="w-100 w-80-l ml-auto mr-auto mv3 tc tl-l">
+        <i class="far fa-clock mr2 mr3-l f4"></i>
+        <span class="f4">08:00 - 18:00</span>
+      </div>
+      <div class="w-100 w-80-l ml-auto mr-auto mv3 tc tl-l">
+        <i class="fas fa-map-marker-alt mr2 mr3-l f4"></i>
+        <span class="f4">Novotel Montréal Centre</span>
+      </div>
+      <div class="w-100 ml-auto mr-auto mt5 tc">
+        <button class="w-100 w-80-l input-reset ba b--white bw1 br4 bg-white green b ph4 pv3 ttu f4">Inscription</button>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<div class="w-100 pv5">
+
+  <div class="container ph3 ph4-l flex flex-wrap">
+
+    <h2 class="w-100 b ttu mv2">Programme de la journée</h2>
+    <div class="underliner"></div>
+
+    <div class="w-100 mt4">
+
+      <div class="bg-green ttu white pv3 ph4">
+        <h3 class="b f3">prenez une longueur d'avance dans l'industrie du cannabis</h3>
+      </div>
+
+      {% assign conferences = site.pages | where: 'layout','conferences' %}
+
+      {% for item in conferences %}
+
+        {% for schedule in item.schedules %}
+
+        <div class="slider bg-light-gray black pa4 flex flex-wrap tc tl-l mv2 {% if schedule.desc %}pointer{%endif%}">
+          <span class="w-100 w-20-l b mv2 f4 alt-font">{{schedule.time}}</span>
+          <span class="w-100 w-70-l mv2 f4 alt-font">{{schedule.title}}</span>
+          {% if schedule.desc %}
+            <i class="w-100 w-10-l fas fa-angle-down f3 mt2"></i>
+            <div class="hidden pt3 mr3 tj">
+              {{schedule.desc | markdownify}}
+            </div>
+          {% endif %}
+        </div>
+
+        {% endfor %}
+
+      {% endfor %}
+
+    </div>
+
+  </div>
+
+</div> <!-- end schedule -->

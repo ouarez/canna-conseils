@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="w-100 pv5">
+
+  <div class="container ph3 ph4-l flex flex-wrap">
+
+    <h2 class="w-100 b ttu mv2">Programme de la journée</h2>
+    <div class="underliner"></div>
+
+    <div class="w-100 mt4">
+
+      <div class="bg-green ttu white pv3 ph4">
+        <h3 class="b f3">prenez une longueur d'avance dans l'industrie du cannabis</h3>
+      </div>
+
+      {% for schedule in page.schedules %}
+
+      <div class="slider bg-light-gray black pa4 flex flex-wrap tc tl-l mv2 {% if schedule.desc %}pointer{%endif%}">
+        <span class="w-100 w-20-l b mv2 f4 alt-font">{{schedule.time}}</span>
+        <span class="w-100 w-70-l mv2 f4 alt-font">{{schedule.title}}</span>
+        {% if schedule.desc %}
+          <i class="w-100 w-10-l fas fa-angle-down f3 mt2"></i>
+          <div class="hidden pt3 mr3 tj">
+            {{schedule.desc | markdownify}}
+          </div>
+        {% endif %}
+      </div>
+
+      {% endfor %}
+
+    </div>
+
+  </div>
+
+</div>

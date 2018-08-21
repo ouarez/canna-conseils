@@ -1,0 +1,58 @@
+<div class="countdown flex ml-auto mr-auto mv5">
+
+  <div class="mh2 tc">
+    <div class="ba b--dotted b--white bw2 br-100 tc">
+      <span id="days" class="white b f-huge hero-font dib text-shadow dib"></span>
+    </div>
+    <p class="white b f4 hero-font ttu text-shadow mv2">Jours</p>
+  </div>
+
+  <div class="mh2 tc">
+    <div class="ba b--dotted b--white bw2 br-100 tc">
+      <span id="hours" class="white b f-huge hero-font dib text-shadow"></span>
+    </div>
+    <p class="white b f4 hero-font ttu text-shadow mv2">Heures</p>
+  </div>
+
+  <div class="mh2 tc">
+    <div class="ba b--dotted b--white bw2 br-100 tc">
+      <span id="minutes" class="white b f-huge hero-font dib text-shadow"></span>
+    </div>
+    <p class="white b f4 hero-font ttu text-shadow mv2">Minutes</p>
+  </div>
+
+  <div class="mh2 tc">
+    <div class="ba b--dotted b--white bw2 br-100 tc">
+      <span id="seconds" class="white b f-huge hero-font dib text-shadow"></span>
+    </div>
+    <p class="white b f4 hero-font ttu text-shadow mv2">Secondes</p>
+  </div>
+
+</div> <!-- end countdown -->
+
+<script>
+var deadline = new Date("sep 23, 2018 20:08:00").getTime();
+console.log(deadline);
+
+var x = setInterval(function() {
+
+  var now = new Date().getTime();
+  var t = deadline - now;
+  var days = Math.floor(t / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((t%(1000 * 60 * 60 * 24))/(1000 * 60 * 60));
+  var minutes = Math.floor((t % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((t % (1000 * 60)) / 1000);
+  document.getElementById("days").innerHTML =days ;
+  document.getElementById("hours").innerHTML =hours;
+  document.getElementById("minutes").innerHTML = minutes;
+  document.getElementById("seconds").innerHTML =seconds;
+  if (t < 0) {
+  		clearInterval(x);
+  		document.getElementById("days").innerHTML ='0';
+  		document.getElementById("hours").innerHTML ='0';
+  		document.getElementById("minutes").innerHTML ='0' ;
+  		document.getElementById("seconds").innerHTML = '0';
+    }
+
+}, 1000);
+</script>

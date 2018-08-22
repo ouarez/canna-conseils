@@ -35,7 +35,7 @@ collections:
           - {label: "Titre de l'horaire", name: "horaire_title", widget: "string"}
           - {label: "Slogan de l'horaire", name: "horaire_slogan", widget: "string"}
           - {label: "Titre Intervenants", name: "intervenants_title", widget: "string"}
-      - name: "home"
+      - name: "intervenants"
         file: "intervenants.md"
         label: "Éditer la page Intervenants"
         fields:

@@ -21,7 +21,7 @@ intervenants:
       démarches administratives mais aussi dans celles relatives au financement
       et aux partenariats stratégiques d’affaires.
     image: /img/maxime-guerin.png
-    job: 'Groupe SGF - Consultants en cannabis, une division de Saraïlis Avocats'
+    job: 'Avocat et Consultant en cannabis, Groupe SGF '
     name: "Maxime\_Guérin"
   - bio: >-
       À titre de vice-président principal, stratégie de marque, Stéphane

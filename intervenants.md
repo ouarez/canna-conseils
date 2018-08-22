@@ -82,5 +82,9 @@ intervenants:
     image: /img/photo-maheep-dhillon.jpg
     job: 'Vice-président développement corporatif, Emerald Health Therapeutics Inc.'
     name: Maheep Dhillon
+  - bio: "Détenteur d’un doctorat en changement social, d’une maîtrise en administration des affaires (MBA) \vet d’un baccalauréat en sciences sociales, Yvan-Marcel Boily a créé le Système ProfileSoft \vqui a été utilisé par plus de 1 000 organisations \vpour l’appréciation de leurs ressources humaines.\n\nÀ ce jour, des dizaines de milliers de personnes exerçant près de 250 fonctions différentes ont été « profilées » à des fins : d’appréciation du potentiel avant l’embauche, de développement professionnel pour identifier les besoins de formation et de perfectionnement, de réaffectation et choix de nouvelles carrières professionnelles.\n"
+    image: /img/marcel-boily.png
+    job: Président-fondateur de ProfileSoft Inc.
+    name: Yves-Marcel Boily
 ---
 

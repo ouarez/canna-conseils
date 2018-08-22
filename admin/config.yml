@@ -43,8 +43,8 @@ collections:
           - {label: "Titre", name: "title", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/" }
           - {label: "Description", name: "description", widget: "string"}
-          - {label: "Slogan 1", name: "slogan1", widget: "string"}
-          - {label: "Slogan 2", name: "slogan2", widget: "string"}
+          - {label: "Slogan 1", name: "slogan1", widget: "string", required: false}
+          - {label: "Slogan 2", name: "slogan2", widget: "string", required: false}
           - {label: "Image de couverture", name: "cover_image", widget: "image"}
           - label: "Intervenants"
             name: "intervenants"

@@ -35,3 +35,27 @@ collections:
           - {label: "Titre de l'horaire", name: "horaire_title", widget: "string"}
           - {label: "Slogan de l'horaire", name: "horaire_slogan", widget: "string"}
           - {label: "Titre Intervenants", name: "intervenants_title", widget: "string"}
+      - name: "home"
+        file: "intervenants.md"
+        label: "Éditer la page Intervenants"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Slogan 1", name: "slogan1", widget: "string"}
+          - {label: "Slogan 2", name: "slogan2", widget: "string"}
+          - {label: "Image de couverture", name: "cover_image", widget: "image"}
+          - label: "Profile"
+            name: "profile"
+            widget: "object"
+            fields:
+              - {label: "Public", name: "public", widget: "boolean", default: true}
+              - {label: "Name", name: "name", widget: "string"}
+              - label: "Birthdate"
+
+          - label: "Gallery"
+            name: "galleryImages"
+            widget: "list"
+            field:
+              - {label: Image, name: image, widget: image}

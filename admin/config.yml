@@ -52,5 +52,5 @@ collections:
             field:
               - {label: "Nom", name: "name", widget: "string"}
               - {label: "Photo", name: "image", widget: "image"}
-              - {label: "Emploi", name: "name", widget: "string"}
-              - {label: "Biographie", name: "name", widget: "text"}
+              - {label: "Emploi", name: "job", widget: "string"}
+              - {label: "Biographie", name: "bio", widget: "text"}

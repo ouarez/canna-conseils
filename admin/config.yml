@@ -46,16 +46,11 @@ collections:
           - {label: "Slogan 1", name: "slogan1", widget: "string"}
           - {label: "Slogan 2", name: "slogan2", widget: "string"}
           - {label: "Image de couverture", name: "cover_image", widget: "image"}
-          - label: "Profile"
-            name: "profile"
-            widget: "object"
-            fields:
-              - {label: "Public", name: "public", widget: "boolean", default: true}
-              - {label: "Name", name: "name", widget: "string"}
-              - label: "Birthdate"
-
-          - label: "Gallery"
-            name: "galleryImages"
+          - label: "Intervenants"
+            name: "intervenants"
             widget: "list"
             field:
-              - {label: Image, name: image, widget: image}
+              - {label: "Nom", name: "name", widget: "string"}
+              - {label: "Photo", name: "image", widget: "image"}
+              - {label: "Emploi", name: "name", widget: "string"}
+              - {label: "Biographie", name: "name", widget: "text"}

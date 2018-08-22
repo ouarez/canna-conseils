@@ -44,5 +44,18 @@ intervenants:
     image: /img/smailhiot_side_low.jpg
     job: 'Vice-président principal, stratégie de marque'
     name: Stéphane Mailhiot
+  - bio: >-
+      Angela Mustone est à l'origine de Produits Amour et Beauté, une
+      prestigieuse compagnie canadienne de cosmétiques. Actuellement,
+      l'entreprise détient deux marques de luxe : HighOnLove et Dr. Papa...... 
+
+
+      Mme Mustone détient un bachelor en commerce et un bachelor en marketing de
+      l'Université McGill. Au cours des quinze dernières années, elle a cultivé,
+      perfectionné et lancé une longue liste de produits cosmétiques pour des
+      marques bien connues en Europe, aux Etats-Unis, en Russie et en Chine.
+    image: /img/angela-mustone.png
+    job: Présidente de HighonLove
+    name: Angela Mustone
 ---
 

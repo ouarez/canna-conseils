@@ -23,5 +23,26 @@ intervenants:
     image: /img/maxime-guerin.png
     job: 'Groupe SGF - Consultants en cannabis, une division de Saraïlis Avocats'
     name: "Maxime\_Guérin"
+  - bio: >-
+      À titre de vice-président principal, stratégie de marque, Stéphane
+      Mailhiot pilote la planification stratégique de Havas Montréal. Avec son
+      équipe, il s’assure que le consommateur demeure au centre de tout ce que
+      Havas fait, il inspire la création et permet à ses clients d’atteindre
+      leurs objectifs.
+       
+      Stéphane Mailhiot est une voix reconnue de la publicité au Québec. Avec
+      Arnaud Granata d’Infopresse, il analyse et commente l’actualité du domaine
+      de la communication à Bêtes de pub, un segment de l’émission radiophonique
+      Médium large, sur les ondes d’ICI Radio-Canada Première. Ensemble, ils ont
+      écrit Tout ce que les publicitaires ne vous disent pas, publié aux
+      Éditions La Presse. Il est aussi chroniqueur pour L’actualité et RDI
+      Matin. Avant de se joindre à Havas Montréal, Stéphane était planificateur
+      stratégique chez lg2. Il est détenteur d’un baccalauréat en journalisme de
+      l’UQAM et d’un DESS en communication marketing de HEC Montréal. Depuis
+      2008, il enseigne Savoir convaincre : confrontation et persuasion à
+      l’Université de Sherbrooke.
+    image: /img/smailhiot_side_low.jpg
+    job: 'Vice-président principal, stratégie de marque'
+    name: Stéphane Mailhiot
 ---
 

@@ -96,5 +96,26 @@ intervenants:
     image: /img/marcel-boily.png
     job: Président-fondateur de ProfileSoft Inc.
     name: Yves-Marcel Boily
+  - bio: >-
+      Stephane Maurais a fondé Alco Prévention Canada en 1989 après des études
+      en administration (MBA) . Faisant figure de pionnier à cet époque en
+      prônant l’utilisation des alcootests comme moyen de prévention, Alco
+      Prévention Canada est maintenant un leader mondial au niveau de la
+      prévention alcool et drogue avec plus de 20 millions d’unités vendus à ce
+      jour. M. Maurais travaille maintenant dans plus de 35 pays prônant des
+      solutions innovatrices et efficaces.
+       
+      Plus récemment, il s’est intéressé à la problématique des drogues en
+      milieu de travail soit en 2012. Il a mis sur pied des programmes de
+      formation innovateurs , des webinaires pour les entreprises, des kiosques
+      interactifs ou à l’aide de lunettes simulant la prise de 1 à 4 joints les
+      employés sont invités à faire des activités sensibilisant les employés aux
+      dangers de se présenter au travail sous l’influence de drogues.
+      Finalement, il mettra sur le marché le 17 octobre prochai le cannabis
+      verdict, un test de dépistage salivaire unique qui permettra aux
+      consommateurs de savoir s’il dépasse la limite légale.
+       
+    job: 'Directeur général, Alco Prévention Canada'
+    name: Stéphane Maurais
 ---
 

@@ -118,5 +118,22 @@ intervenants:
     image: /img/stéphane-maurais.jpg
     job: 'Directeur général, Alco Prévention Canada'
     name: Stéphane Maurais
+  - bio: >-
+      En démarrant Montréal 420 Tours, une entreprise facilitant la relation
+      entre la clientèle canna-touristique, le gouvernement et l’industrie
+      actuelle, Alexis s’est engagé a mené un combat seul contre Goliath. Depuis
+      plus d’un an, il travaille sans relâche à promouvoir l’intégration des PME
+      et du tourisme dans le processus de la légalisation au Québec. Son
+      savoir-faire et sa passion lui ont permis de créer un service unique déjà
+      apprécié de la clientèle. C’est grâce à ses expériences professionnelles,
+      ses voyages et ses études en tourisme qu’Alexis est devenu la référence
+      dans le domaine du tourisme lié au cannabis dans sa province natale.
+      Toutefois, l’aventure ne fait que commencer. Son rêve : créer un système
+      relationnel efficace afin d’établir les assises de l’industrie
+      canna-touristique en regroupant tous les acteurs(actrices) actuels(les) et
+      futurs(es) autour de valeurs de perpétuité et de développement durable.
+    image: /img/alexis-turcotte-1-min.jpg
+    job: Fondateur de Montréal 420 Tours
+    name: Alexis Turcotte-Noël
 ---
 

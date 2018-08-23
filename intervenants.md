@@ -135,5 +135,16 @@ intervenants:
     image: /img/alexis-turcotte-1-min.jpg
     job: Fondateur de Montréal 420 Tours
     name: Alexis Turcotte-Noël
+  - bio: >-
+      Enrôlé comme soldat d'infanterie pour les Forces armées canadiennes,
+      l'expérience d'Alexander Main sur le champ de bataille l'a changé pour
+      toujours. Après avoir été diagnostiqué avec le SSPT, Alexander est passé
+      des médicaments sur ordonnance au cannabis médical pour contrôler ses
+      problèmes physiques et psychologiques. C'est alors qu'il a pris part au
+      programme de compassion pour Vétérans, programme qui aide les vétérans a
+      changer leurs medications au cannabis.
+    image: /img/alexander-main-min.jpg
+    job: 'Directeur du programme Veteran, Consult&Grow'
+    name: Alexander Main
 ---
 

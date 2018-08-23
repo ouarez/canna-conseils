@@ -184,5 +184,22 @@ intervenants:
     image: /img/charles-taerk-hi-res-min.jpg
     job: Président et chef de la direction - Faircourt Asset Management Inc.
     name: Charles Taerk
+  - bio: >-
+      Passionnée des défis et du dépassement de soi, Karine Clément est
+      Présidente et Co-Fondatrice de l'entreprise Hush-Kush. Cette dernière
+      aspire à intégrer esthétisme et authenticité au sein de l'industrie du
+      cannabis en développant et promouvant avec passion des accessoires
+      raffinés destinés aux fumeurs de cannabis. Avant de se lancer dans cette
+      aventure, Karine fut fondatrice et gestionnaire d'un appart-hôtel à Rome
+      pendant 4 ans, représentante d'un produit lors d'une mission commerciale
+      en Asie en 2014 et coordonnatrice au sein de la réputée firme de
+      développement immobilier KnightsBridge. La légalisation prochaine du
+      cannabis annoncée fut pour elle une révélation quant à l'immense
+      opportunité qu'offrait ce nouveau marché et contribuer à l'implantation de
+      cette industrie au quotidien est, selon elle, un privilège qui ne demande
+      qu'à être partagé.
+    image: /img/karine-min.jpg
+    job: Présidente et co-fondatrice de Hush Kush
+    name: Karine Clément
 ---
 

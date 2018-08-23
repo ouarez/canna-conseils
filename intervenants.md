@@ -115,6 +115,7 @@ intervenants:
       verdict, un test de dépistage salivaire unique qui permettra aux
       consommateurs de savoir s’il dépasse la limite légale.
        
+    image: /img/stéphane-maurais.jpg
     job: 'Directeur général, Alco Prévention Canada'
     name: Stéphane Maurais
 ---

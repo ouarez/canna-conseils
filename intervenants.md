@@ -144,7 +144,7 @@ intervenants:
       programme de compassion pour Vétérans, programme qui aide les vétérans a
       changer leurs medications au cannabis.
     image: /img/alexander-main-min.jpg
-    job: 'Directeur du programme Veteran, Consult&Grow'
+    job: 'Responsable affaires Vétérans, Consult&Grow'
     name: Alexander Main
   - image: /img/marc-antoine-chaput-min.jpg
     job: >-
@@ -201,5 +201,18 @@ intervenants:
     image: /img/karine-min.jpg
     job: Présidente et co-fondatrice de Hush Kush
     name: Karine Clément
+  - bio: >
+      Francis Hébert est un patient consommateur de cannabis medical depuis le
+      ''MMAR'' ayant fait des études en droit à l'université Laval. Maintenant
+      spécialisé dans la loi sur l'accès au cannabis médical, il offre de la
+      consultation pour les entreprises désireuses de prendre part dans
+      l'industrie du cannabis. Consult&Grow est la compagnie ayant offert la
+      consultation pour la première bière au cannabis au Canada et possède une
+      des plus grandes expertises en matiere d'extraction de cannabinoides.
+      Consult&Grow est également responsable pour l'acceptation de 20 licences
+      de producteurs licencié au Canada.
+    image: /img/francis-hebert-min.jpg
+    job: 'Président, Consult&Grow'
+    name: Francis Hébert
 ---
 

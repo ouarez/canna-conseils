@@ -214,5 +214,17 @@ intervenants:
     image: /img/francis-hebert-min.jpg
     job: 'Président, Consult&Grow'
     name: Francis Hébert
+  - bio: >-
+      À 18 ans, alors qu'il vivait à Amsterdam, on lui diagnostiqua un cancer du
+      lymphome de Hodgkins de stade 3. Avant cela, Jason Baran était un
+      consommateur qui aimait l'aspect récréatif du cannabis, après son
+      diagnostic, il s'est rendu compte des avantages médicaux que le cannabis
+      avait sur ses patients. C'est d'ici qu'est née sa passion pour les
+      aliments infusés, étant capable de guérir ses propres symptômes avec des
+      repas délicieux, naturels et cuisinés à la maison. Ce voyage l'a ensuite
+      mené à l'École culinaire de Montréal, où il a obtenu un diplôme en arts
+      culinaires du Collège Lasalle.
+    image: /img/jason-baran-min.jpg
+    name: Jason Baran
 ---
 

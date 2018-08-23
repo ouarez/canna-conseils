@@ -325,5 +325,24 @@ intervenants:
     image: /img/jason-moscovici-min.jpg
     job: 'Avocat et biochimiste, Robic'
     name: Jason Moscovici
+  - bio: >
+      Scott Pritchard est le conseiller principal pour le Québec et l'Est du
+      Canada à la CSE et ce, depuis 2008. Il est également président de
+      Pritchard Network Inc., une firme privée montréalaise de consultation
+      financière qu'il a fondée en 2003. PNI se spécialise dans l'aide aux
+      sociétés à petite capitalisation dans leurs relations avec le marché
+      public.
+
+      Avant de fonder PNI, M. Pritchard a beaucoup travaillé dans les médias,
+      d'abord à la Gazette de Montréal, puis au Montreal Business Magazine où il
+      était directeur des ventes et du marketing.
+
+      M. Pritchard est titulaire d'un baccalauréat ès arts (économie) de
+      l'Université Queen's, à Kingston, en Ontario. Il est également diplômé de
+      l'Université d'Aix-Marseille, le programme français de langue, de
+      littérature et d'histoire de troisième cycle.
+    image: /img/u7a-quwtf2s6bn1fjkcijtbsikp0wrplqzrogppzjcu-min.jpg
+    job: Président de Pritchard Network Inc.
+    name: Scott Pritchard
 ---
 

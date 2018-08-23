@@ -2,8 +2,8 @@
 layout: intervenants
 title: Intervenants
 description: Prenez une longueur d'avance dans l'industrie du cannabis
-slogan1: Nos conférenciers
-slogan2: Slogan 2
+slogan1: Nos intervenants
+slogan2: ''
 cover_image: /img/bg-page.jpg
 intervenants:
   - bio: >-
@@ -82,8 +82,19 @@ intervenants:
     image: /img/photo-maheep-dhillon.jpg
     job: 'Vice-président développement corporatif, Emerald Health Therapeutics Inc.'
     name: Maheep Dhillon
-  - bio: "Détenteur d’un doctorat en changement social, d’une maîtrise en administration des affaires (MBA) et d’un baccalauréat en sciences sociales, Yvan-Marcel Boily a créé le Système ProfileSoft qui a été utilisé par plus de 1 000 organisations pour l’appréciation de leurs ressources humaines. À ce jour, des dizaines de milliers de personnes exerçant près de 250 fonctions différentes ont été « profilées » à des fins : d’appréciation du potentiel avant l’embauche, de développement professionnel pour identifier les besoins de formation et de perfectionnement, de réaffectation et choix de nouvelles carrières professionnelles."
+  - bio: >-
+      Détenteur d’un doctorat en changement social, d’une maîtrise en
+      administration des affaires (MBA) et d’un baccalauréat en sciences
+      sociales, Yvan-Marcel Boily a créé le Système ProfileSoft qui a été
+      utilisé par plus de 1 000 organisations pour l’appréciation de leurs
+      ressources humaines. À ce jour, des dizaines de milliers de personnes
+      exerçant près de 250 fonctions différentes ont été « profilées » à des
+      fins : d’appréciation du potentiel avant l’embauche, de développement
+      professionnel pour identifier les besoins de formation et de
+      perfectionnement, de réaffectation et choix de nouvelles carrières
+      professionnelles.
     image: /img/marcel-boily.png
     job: Président-fondateur de ProfileSoft Inc.
     name: Yves-Marcel Boily
 ---
+

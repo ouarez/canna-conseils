@@ -151,5 +151,38 @@ intervenants:
       Conseiller en sécurité financière et Représentant en épargne collective,
       Groupe Investors
     name: Marc-Antoine Chaput
+  - bio: >-
+      Charles Taerk est co-fondateur de Faircourt Asset Management Inc.,
+      président et chef de la direction depuis la création de Faircourt en 2002,
+      dirigeant le développement et la distribution de tous les produits
+      structurés et fonds. Depuis sa création, Faircourt a été un innovateur
+      dans l'industrie canadienne des produits structurés, lançant plusieurs
+      premières pour des fonds canadiens, dont le premier Split Trust en 2003 ;
+      le premier PPN à effectuer des distributions ROC en 2005 ; le premier
+      fonds d'actions aurifères qui a utilisé des options pour effectuer des
+      distributions mensuelles en 2007. En 2016, Faircourt a créé UIT Funds, une
+      filiale à 100 % qui crée des solutions d'investissement uniques. En mars
+      2017, UIT Funds a lancé le premier fonds commun de placement activement
+      géré au Canada axé sur le secteur du cannabis, maintenant appelé
+      Ninepoint-UIT Alternative Health Fund (NPP 5420).    
+       
+      De 1999 à 2001, il a été vice-président et directeur général de Charles
+      Schwab Canada, Co. et membre de son comité exécutif. Ses responsabilités
+      comprenaient la direction du développement des services bancaires
+      d'investissement, de la syndication ainsi que de la recherche
+      institutionnelle. Auparavant, Charles a travaillé au sein du groupe
+      Corporate Finance chez Porthmeor Securities, où il a travaillé de 1996 à
+      1999, avant de devenir directeur en 1998. De 1994 à 1996, Charles a fondé
+      Faircourt Capital Corporation, une entreprise de services-conseils en
+      financement d'entreprises, travaillant avec des entreprises privées
+      canadiennes. Auparavant, Charles a passé huit ans au sein d'une grande
+      banque canadienne dans le secteur des prêts aux moyennes entreprises.
+      Charles est titulaire d'une maîtrise en économie internationale de la
+      School of International Affairs de la Graduate School de l'Université de
+      Pittsburgh en 1988. Il a obtenu son baccalauréat de l'Université Western
+      Ontario en 1986.
+    image: /img/charles-taerk-hi-res-min.jpg
+    job: Président et chef de la direction - Faircourt Asset Management Inc.
+    name: Charles Taerk
 ---
 

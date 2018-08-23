@@ -146,5 +146,10 @@ intervenants:
     image: /img/alexander-main-min.jpg
     job: 'Directeur du programme Veteran, Consult&Grow'
     name: Alexander Main
+  - image: /img/marc-antoine-chaput-min.jpg
+    job: >-
+      Conseiller en sécurité financière et Représentant en épargne collective,
+      Groupe Investors
+    name: Marc-Antoine Chaput
 ---
 

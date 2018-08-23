@@ -226,5 +226,43 @@ intervenants:
       culinaires du Collège Lasalle.
     image: /img/jason-baran-min.jpg
     name: Jason Baran
+  - bio: >-
+      Guillaume Endo est membre fondateur du cabinet Endo & Associés. Spécialisé
+      en droit commercial et en droit des affaires, il possède une vaste
+      expertise dans les domaines des fusions et acquisitions de PME, la
+      réorganisation d’entreprises et le commerce international, notamment dans
+      le secteur des hautes technologies.
+
+
+      Il a conseillé plusieurs entreprises étrangères dans la cadre
+      d’acquisitions au Canada dans les domaines des hautes technologies, de
+      l’immobilier et de la construction. Sa clientèle est principalement
+      composée de PME œuvrant dans des secteurs d’activité divers tels la
+      manufacture, l’import-export, les services et la distribution, ainsi que
+      d’importants propriétaires et promoteurs immobiliers.
+
+
+      Guillaume Endo a siégé sur différents conseils d’administration
+      d’entreprises œuvrant dans le commerce international et le secteur minier.
+
+
+      Il a également contribué à la mise en place de nombreux projets
+      humanitaires d’envergure internationale, dont le ICDAA-Legal Aid
+      Afghanistan Project à Kandahar et, au Sénégal, le projet de formation
+      d’avocats africains à la Cour pénale internationale du Centre Pearson. Il
+      a publié dans le domaine de la coopération internationale et du droit
+      international. Il a fait de courtes missions d’évaluation de projets en
+      Afrique de l’Ouest et est un avide défendeur de la méthode participative
+      dans le cadre du développement durable.
+
+
+      Il est titulaire d’un baccalauréat en droit de l’Université Laval (2000)
+      et d’une maîtrise en administration des affaires de HEC-Montréal (2002).
+
+
+      Il a été admis au Barreau du Québec en 2001.
+    image: /img/endo-min.png
+    job: Avocat et membre fondateur du cabinet Endo & Associés
+    name: Guillaume Endo
 ---
 

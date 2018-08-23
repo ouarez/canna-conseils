@@ -279,10 +279,10 @@ intervenants:
 
 
       Jason Moscovici pratique aussi à titre de conseiller légal pour
-      l’industrie du cannabis au Canada.Il est souvent sollicité pour participer
-      à des conférences et fournir son avis légal sur les multiples obstacles
-      règlementaires et opportunités auxquels les intervenants de cette
-      industrie font face.
+      l’industrie du cannabis au Canada. Il est souvent sollicité pour
+      participer à des conférences et fournir son avis légal sur les multiples
+      obstacles règlementaires et opportunités auxquels les intervenants de
+      cette industrie font face.
 
 
       Les clients de Jason Moscovici sont d’importantes petites, moyennes et

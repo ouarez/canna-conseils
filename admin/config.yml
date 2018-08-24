@@ -142,6 +142,7 @@ collections:
           - {label: "Slogan 1", name: "slogan1", widget: "string", required: false}
           - {label: "Slogan 2", name: "slogan2", widget: "string", required: false}
           - {label: "Image de couverture", name: "cover_image", widget: "image"}
+          - {label: "Texte", name: "content", widget: "markdown"}
           - label: "Journées"
             name: "days"
             widget: "list"

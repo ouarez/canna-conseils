@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Accueil
+title: Accueil - La semaine du cannabis
 permalink: /
 description: Prenez une longueur d'avance dans l'industrie du cannabis
 slogan1: La Semaine du Cannabis

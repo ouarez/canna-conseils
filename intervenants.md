@@ -175,7 +175,7 @@ intervenants:
 
       Découvrez lors de la semaine du Cannabis, comment il peut incorporer ce
       secteur à votre Portefeuille.
-    image: /img/marc-antoine-chaput-min.jpg
+    image: /img/marc-antoine-chaput.jpeg
     job: 'Conseiller en planification financière, Groupe Investors'
     name: Marc-Antoine Chaput
   - bio: >-
@@ -288,7 +288,7 @@ intervenants:
 
 
       Il a été admis au Barreau du Québec en 2001.
-    image: /img/endo-min.png
+    image: /img/Endo.png
     job: Avocat et membre fondateur du cabinet Endo & Associés
     name: Guillaume Endo
   - bio: >-

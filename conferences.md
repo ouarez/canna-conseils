@@ -20,17 +20,7 @@ schedules:
     title: >-
       S’approvisionner, distribuer et communiquer : les étapes clés pour
       connaître un canna-succès
-  - desc: >-
-      Selon Statistique Canada, le marché du Cannabis récréatif est estimé à 6
-      milliards de dollars. De nombreux investisseurs ont compris la « machine à
-      cash » que ce marché représente. Ainsi, ce n’est pas moins de 77 Canadiens
-      qui sont déjà devenus millionnaires et ce, avant même que la production
-      récréative soit légalisée. De fait, ils ont su investir intelligemment
-      leur argent. Si vous aussi vous souhaitez diversifier votre portefeuille
-      d’investissements grâce au cannabis, voici :
-
-        - Les principes de base d’un investissement durable
-        - Les fonds d’investissements rentables sur le marché du cannabis
+  - desc: "Selon Statistique Canada, le marché du Cannabis récréatif est estimé à 6,5 milliards de dollars. De nombreux investisseurs ont compris la « machine à cash » que ce marché représente. Ainsi, d’après le Journal de Montréal, ce n’est pas moins de 77 Canadiens qui sont déjà devenus millionnaires et ce, avant même que la production récréative soit légalisée. De fait, ils ont su investir intelligemment leur argent. Si vous aussi vous souhaitez diversifier votre portefeuille d’investissements grâce au cannabis, voici des exemples des sujets traités :\r\n\n•\tLes principes de base d’un investissement durable\r\n\n•\tIntégrer un fond spécialisé dans le cannabis au portefeuille des clients\r\n\n•\tLa pondération du secteur du cannabis dans le patrimoine des clients\r\n\n•\tLes fonds d’investissements rentables sur le marché du cannabis"
     time: 11h15 - 11h45
     title: >-
       Quand la feuille de cannabis remplace la feuille d’érable, les actions

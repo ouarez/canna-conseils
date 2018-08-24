@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="w-100 pv5">
+
+  <div class="container ph3 ph4-l flex flex-wrap">
+
+    <h2 class="w-100 b ttu mv2">{{page.intro_title}}</h2>
+    <div class="underliner"></div>
+
+    <div class="w-100 pv3">
+      {{page.intro_text | markdownify}}
+    </div>
+
+    <h2 class="w-100 b ttu mv2">{{page.thematiques_title}}</h2>
+    <div class="underliner"></div>
+
+    <div class="w-100 pv3">
+      {{page.thematiques_text | markdownify}}
+    </div>
+
+    <div class="w-100 pv3 flex flex-wrap">
+
+    {% for thematique in page.thematiques %}
+      <div class="w-100 w-50-l flex mb4">
+        <div class="w3 mr4 tc"><i class="f1 {{thematique.icon}}"></i></div>
+        <div>
+          <span class="b f3">{{thematique.title}}</span>
+          <br/>
+          <span class="f4 gray">{{thematique.text}}</span>
+        </div>
+      </div>
+    {% endfor %}
+
+    </div>
+
+  </div>
+</div>

@@ -29,11 +29,11 @@ intro_text: >-
 
 
   Professionnels, investisseurs, médecins, restaurateurs, jardiniers,
-  agriculteurs ou tout simplement curieux nos formations s'adressent à vous!
+  agriculteurs ou tout simplement curieux nos formations s'adressent à vous !
 
 
   **Notre prochaine semaine de conférence débute le 24 septembre. Inscrivez-vous
-  dès maintenant!**
+  dès maintenant !**
 event_title: La semaine du cannabis
 event_days: Lundi 24 Sept. - Samedi 29 Sept.
 event_time: '08:00 - 18:00'

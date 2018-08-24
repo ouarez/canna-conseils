@@ -36,4 +36,28 @@ layout: default
     </div>
 
   </div>
+
+</div>
+
+
+<div class="w-100 pv5 cover" style="background-image:url('{{page.facts_bg}}');">
+
+  <div class="container ph3 ph4-l flex flex-wrap">
+
+    <div class="w-100 mb5">
+      <h2 class="b ttu mv3 tc white">{{page.facts_title}}</h2>
+      <div class="underliner ml-auto mr-auto"></div>
+    </div>
+
+    {% for fact in page.facts %}
+
+    <div class="w-100 w-25-l pr3-l">
+      <i class="f-huge white mr3 {{fact.icon}}"></i>
+      <span class="f-huge white ttu b alt-font">{{fact.number}}</span>
+      <span class="f4 white ttu b alt-font dib mt2">{{fact.desc}}</span>
+    </div>
+
+    {% endfor %}
+
+  </div>
 </div>

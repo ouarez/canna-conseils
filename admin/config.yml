@@ -120,3 +120,13 @@ collections:
               - {label: Titre, name: title, widget: string}
               - {label: Icône (Font Awesome), name: icon, widget: string}
               - {label: Texte, name: text, widget: string}
+
+          - {label: "Titre Chiffres", name: "facts_title", widget: "string"}
+          - {label: "Image Chiffres", name: "facts_bg", widget: "image"}
+          - label: "Chiffres"
+            name: "facts"
+            widget: "list"
+            fields:
+              - {label: Chiffre, name: number, widget: string}
+              - {label: Icône (Font Awesome), name: icon, widget: string}
+              - {label: Texte, name: desc, widget: string}

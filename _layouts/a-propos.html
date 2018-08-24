@@ -23,12 +23,12 @@ layout: default
     <div class="w-100 pv3 flex flex-wrap">
 
     {% for thematique in page.thematiques %}
-      <div class="w-100 w-50-l flex mb4">
+      <div class="w-100 w-50-l flex mb4 pr3 pr5-l">
         <div class="w3 mr4 tc"><i class="f1 {{thematique.icon}}"></i></div>
-        <div>
-          <span class="b f3">{{thematique.title}}</span>
+        <div class="mt1">
+          <span class="b f4">{{thematique.title}}</span>
           <br/>
-          <span class="f4 gray">{{thematique.text}}</span>
+          <span class="f5 gray">{{thematique.text}}</span>
         </div>
       </div>
     {% endfor %}

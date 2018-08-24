@@ -35,6 +35,19 @@ collections:
           - {label: "Titre de l'horaire", name: "horaire_title", widget: "string"}
           - {label: "Slogan de l'horaire", name: "horaire_slogan", widget: "string"}
           - {label: "Titre Intervenants", name: "intervenants_title", widget: "string"}
+          - {label: "Titre Réservations", name: "reservation_title", widget: "string"}
+          - label: "Réservations Boîte 1"
+            name: "reservation_box_1"
+            widget: "object"
+            fields:
+              - {label: "Titre", name: "reservation_title_1", widget: "string"}
+              - {label: "Prix", name: "reservation_price_1", widget: "string"}
+              - {label: "Prix (sous-texte)", name: "reservation_subtext_1", widget: "string"}
+              - label: "Liste des forfaits inclus"
+                name: "reservation_features_1"
+                widget: "list"
+                fields:
+                  - {label: Description, name: desc, widget: string}
       - name: "intervenants"
         file: "intervenants.md"
         label: "Éditer la page Intervenants"

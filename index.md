@@ -43,5 +43,5 @@ event_link_text: Inscription
 horaire_title: Programme de la journée
 horaire_slogan: Prenez une longueur d'avance dans l'industrie du cannabis
 intervenants_title: Nos intervenants
+reservation_title: Réservez dès à présent
 ---
-

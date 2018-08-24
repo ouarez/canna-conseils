@@ -157,13 +157,13 @@ intervenants:
       long terme. Travaillant surtout avec des professionnels et entrepreneurs,
       son expertise dans différents aspects de la gestion financière vient
       donner une valeur ajoutée à ses clients.
-       
+
       Après avoir reçu une bourse d’études en 2012, il a complété un
       baccalauréat en administration des affaires à Morrisville State College
       dans l’état de New York. Il est depuis 2016, conseiller au Groupe
       Investors et complète présentement son titre de Planificateur Financier
       auprès de l’IQPF.
-       
+
       C’est en 2015 que Marc-Antoine a débuté ses investissements dans le
       secteur du cannabis. Ayant connu un succès immédiat, il  a développé un
       intérêt particulier pour ce secteur. C’est alors qu’il s’est mis à trouver
@@ -172,7 +172,7 @@ intervenants:
       devenu un expert de l’investissement du Cannabis au Québec. Grâce à ses
       connaissances approfondies sur le marché, il est capable d’incorporer ce
       secteur au portefeuille d’investissement de ses clients.
-       
+
       Découvrez lors de la semaine du Cannabis, comment il peut incorporer ce
       secteur à votre Portefeuille.
     image: /img/marc-antoine-chaput-min.jpg
@@ -375,8 +375,7 @@ intervenants:
 
       Il est titulaire de deux diplômes en commerce et en philosophie de
       l'Université Queen's, au Canada.
-    image: /img/nick-pateras-photo-edit-min.jpg
+    image: /img/nick-pateras-min.png
     job: 'Vice-président du développement, Lift & Co'
     name: Nick Pateras
 ---
-

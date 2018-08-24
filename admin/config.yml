@@ -54,3 +54,21 @@ collections:
               - {label: Photo, name: image, widget: image}
               - {label: Titre/poste, name: job, widget: string}
               - {label: Biographie, name: bio, widget: text}
+      - name: "conferences"
+        file: "conferences.md"
+        label: "Éditer la page Conférences"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/" }
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Slogan 1", name: "slogan1", widget: "string", required: false}
+          - {label: "Slogan 2", name: "slogan2", widget: "string", required: false}
+          - {label: "Image de couverture", name: "cover_image", widget: "image"}
+          - label: "Horaire"
+            name: "schedules"
+            widget: "list"
+            fields:
+              - {label: Heure, name: time, widget: string}
+              - {label: Titre, name: title, widget: string}
+              - {label: Description, name: desc, widget: markdown}

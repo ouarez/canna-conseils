@@ -136,16 +136,14 @@ layout: default
     <div class="w-100 w-50-l pointer grow">
       <a class="no-underline" href="/inscriptions">
         <div class="bg-white br4 mr3 pa3 pa4-l tc">
-          <span class="ttu b f3 black">Argent</span>
+          <span class="ttu b f3 black">{{page.reservation_box_1.title}}</span>
           <div class="w-100 pa3 mv3 bg-green white br4">
-            <span class="db ttu b f-huge">$250</span>
-            <span class="db f4">Accès illimité</span>
+            <span class="db ttu b f-huge">{{page.reservation_box_1.price}}</span>
+            <span class="db f4">{{page.reservation_box_1.subtext}}</span>
           </div>
-          <span class="gray db pv3 bb b--light-gray tl"><i class="far fa-check-square mr3"></i>Accès illimité aux conférences</span>
-          <span class="gray db pv3 bb b--light-gray tl"><i class="far fa-check-square mr3"></i>Journée complète</span>
-          <span class="gray db pv3 bb b--light-gray tl"><i class="far fa-check-square mr3"></i>Petit-déjeuner</span>
-          <span class="gray db pv3 bb b--light-gray tl"><i class="far fa-check-square mr3"></i>Connexion WIFI</span>
-          <span class="gray db pv3 tl"><i class="far fa-check-square mr3"></i>Taxes en sus</span>
+          {% for forfait in page.reservation_box_1.features %}
+            <span class="gray db pv3 bb b--light-gray tl"><i class="far fa-check-square mr3"></i>{{forfait.desc}}</span>
+          {% endfor %}
         </div>
       </a>
     </div>

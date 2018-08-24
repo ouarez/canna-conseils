@@ -45,14 +45,13 @@ horaire_slogan: Prenez une longueur d'avance dans l'industrie du cannabis
 intervenants_title: Nos intervenants
 reservation_title: Réservez dès à présent
 reservation_box_1:
-  reservation_features_1:
+  features:
     - desc: Accès illimité aux conférences
     - desc: Journée complète
     - desc: Petit-déjeuner
     - desc: Connexion WIFI
     - desc: Taxes en sus
-  reservation_price_1: 250$
-  reservation_subtext_1: Accès illimité
-  reservation_title_1: Argent
+  price: 250$
+  subtext: Accès illimité
+  title: Argent
 ---
-

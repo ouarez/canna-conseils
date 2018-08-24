@@ -40,14 +40,27 @@ collections:
             name: "reservation_box_1"
             widget: "object"
             fields:
-              - {label: "Titre", name: "reservation_title_1", widget: "string"}
-              - {label: "Prix", name: "reservation_price_1", widget: "string"}
-              - {label: "Prix (sous-texte)", name: "reservation_subtext_1", widget: "string"}
+              - {label: "Titre", name: "title", widget: "string"}
+              - {label: "Prix", name: "price", widget: "string"}
+              - {label: "Prix (sous-texte)", name: "subtext", widget: "string"}
               - label: "Liste des forfaits inclus"
-                name: "reservation_features_1"
+                name: "features"
                 widget: "list"
                 fields:
                   - {label: Description, name: desc, widget: string}
+          - label: "Réservations Boîte 2"
+            name: "reservation_box_2"
+            widget: "object"
+            fields:
+              - {label: "Titre", name: "title", widget: "string"}
+              - {label: "Prix", name: "price", widget: "string"}
+              - {label: "Prix (sous-texte)", name: "subtext", widget: "string"}
+              - label: "Liste des forfaits inclus"
+                name: "features"
+                widget: "list"
+                fields:
+                  - {label: Description, name: desc, widget: string}
+
       - name: "intervenants"
         file: "intervenants.md"
         label: "Éditer la page Intervenants"

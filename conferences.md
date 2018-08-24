@@ -10,20 +10,7 @@ schedules:
   - desc: "Après la ruée vers l’Or Noir, c’est la ruée vers l’Or Vert qui résonne dans tous les esprits. Selon les estimations, le marché Canadien du Cannabis pèserait près de 6,5 milliards de dollars. Toutes les parties prenantes seront bénéficiaires que ce soit les gouvernements qui espèrent une manne fiscale ou bien les entreprises qui prévoient des bénéfices importants. C’est pour cette raison que chacun se prépare au nouveau contexte créé par la légalisation de la marijuana. Profitez de la présence de nos experts pour tout savoir sur :\r\n\n•\tLes opportunités commerciales\r\n\n•\tLes nouvelles lois et réglementations\r\n\n•\tLes licences à obtenir\r\n\n•\tLes technologies et équipements disponibles\r\n\n•\tLes aménagements urbains à prévoir\r\n\n•\tLes formations nécessaires\r\n\n•\tLa reconversion des producteurs de fruits et légumes"
     time: 8h30 - 9h30
     title: Partez à la conquête de l’Or Vert
-  - desc: >-
-      Suite à la création d’entreprise, il est impératif de trouver des
-      financements permettant d’accélérer franchement le développement de son
-      projet. La levée de fonds est néanmoins un exercice délicat qui nécessite
-      beaucoup de préparation et une patience à toute épreuve. A long terme, les
-      financements durables permettent une meilleure gestion des risques et des
-      équilibres financiers. Toutefois, les entrepreneurs ont tout intérêt à
-      diversifier leurs sources de financements afin d’éviter toute dépendance
-      vis-à-vis l’une ou l’autre source de financement. Pour ce faire ils
-      peuvent recourir à des financements :
-
-        - Gouvernementaux
-        - Participatifs
-        - Privés
+  - desc: "Lors de la création d’entreprise, il est impératif pour les entrepreneurs et les investisseurs d’identifier les enjeux entourant la légalisation du cannabis, ainsi que la gestion des risques associés au projet et le rôle prépondérant d’une assurance. En explorant les différentes sources de financements permettant d’accélérer le développement de leurs activités, les entrepreneurs ont tout intérêt à diversifier leurs sources de financements afin d’éviter toute dépendance vis-à-vis de ces sources de financement. C’est pourquoi nos experts aborderont les sujets suivants :\r\n\n•\tAssurances et gestion de risques\r\n\n•\tLes financements privés\r\n\n•\tLes financements gouvernementaux\r\n\n•\tLes financements participatifs\r\n\n•\tL’expérience des Pays-Bas\r\n\n•\tComment les municipalités peuvent-elles attirer des investisseurs ? \r\n\n•\tLe rôle d’une audit lors de la démarche de lancement"
     time: 9h30 - 10h30
     title: Identifiez les différentes sources de financement pour votre entreprise
   - time: 10h30 - 10h45

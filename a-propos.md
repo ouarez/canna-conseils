@@ -5,7 +5,7 @@ description: Prenez une longueur d'avance dans l'industrie du cannabis
 slogan1: À propos de Canna Conseils
 slogan2: Notre vision du marché
 cover_image: /img/bg-page.jpg
-intro_title: Qui sommes-nous
+intro_title: Qui sommes-nous ?
 intro_text: >-
   Canna-Conseils est une association de Conseils à l’avant-garde de l’industrie
   du Cannabis. Elle est dédiée à livrer aux entrepreneurs ambitieux et aux PME

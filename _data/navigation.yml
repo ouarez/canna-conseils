@@ -5,8 +5,6 @@ main_nav:
     url: /conferences
   - title: Intervenants
     url: /intervenants
-  - title: Partenaires
-    url: /partenaires
   - title: À propos
     url: /a-propos
   - title: Inscriptions

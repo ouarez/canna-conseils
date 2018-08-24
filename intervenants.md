@@ -22,7 +22,7 @@ intervenants:
       et aux partenariats stratégiques d’affaires.
     image: /img/maxime-guerin.png
     job: 'Avocat et Consultant en cannabis, Groupe SGF '
-    name: "Maxime\_Guérin"
+    name: "Maxime Guérin"
   - bio: >-
       À titre de vice-président principal, stratégie de marque, Stéphane
       Mailhiot pilote la planification stratégique de Havas Montréal. Avec son
@@ -104,7 +104,7 @@ intervenants:
       prévention alcool et drogue avec plus de 20 millions d’unités vendus à ce
       jour. M. Maurais travaille maintenant dans plus de 35 pays prônant des
       solutions innovatrices et efficaces.
-       
+
       Plus récemment, il s’est intéressé à la problématique des drogues en
       milieu de travail soit en 2012. Il a mis sur pied des programmes de
       formation innovateurs , des webinaires pour les entreprises, des kiosques
@@ -114,8 +114,8 @@ intervenants:
       Finalement, il mettra sur le marché le 17 octobre prochai le cannabis
       verdict, un test de dépistage salivaire unique qui permettra aux
       consommateurs de savoir s’il dépasse la limite légale.
-       
-    image: /img/stéphane-maurais.jpg
+
+    image: /img/stéphane-maurais.jpg
     job: 'Directeur général, Alco Prévention Canada'
     name: Stéphane Maurais
   - bio: >-
@@ -165,7 +165,7 @@ intervenants:
       2017, UIT Funds a lancé le premier fonds commun de placement activement
       géré au Canada axé sur le secteur du cannabis, maintenant appelé
       Ninepoint-UIT Alternative Health Fund (NPP 5420).    
-       
+
       De 1999 à 2001, il a été vice-président et directeur général de Charles
       Schwab Canada, Co. et membre de son comité exécutif. Ses responsabilités
       comprenaient la direction du développement des services bancaires
@@ -224,7 +224,7 @@ intervenants:
       repas délicieux, naturels et cuisinés à la maison. Ce voyage l'a ensuite
       mené à l'École culinaire de Montréal, où il a obtenu un diplôme en arts
       culinaires du Collège Lasalle.
-    image: /img/jason-baran-min.jpg
+    image: /img/jason-baran.jpg
     name: Jason Baran
   - bio: >-
       Guillaume Endo est membre fondateur du cabinet Endo & Associés. Spécialisé
@@ -290,21 +290,14 @@ intervenants:
       domaines, dont:
 
 
-      · Industrie pharmaceutique
-
-      – Dispositifs médicaux
-
-      · Industrie alimentaire
-
-      · Industrie chimique
-
-      – Produits de santé naturels
-
-      · Industrie du divertissement
-
-      – Produits cosmétiques
-
-      · Produits de consommation
+      - Industrie pharmaceutique
+      - Dispositifs médicaux
+      - Industrie alimentaire
+      - Industrie chimique
+      - Produits de santé naturels
+      - Industrie du divertissement
+      - Produits cosmétiques
+      - Produits de consommation
 
 
       Jason Moscovici a obtenu son baccalauréat en biochimie (régime coopératif)
@@ -341,8 +334,7 @@ intervenants:
       l'Université Queen's, à Kingston, en Ontario. Il est également diplômé de
       l'Université d'Aix-Marseille, le programme français de langue, de
       littérature et d'histoire de troisième cycle.
-    image: /img/u7a-quwtf2s6bn1fjkcijtbsikp0wrplqzrogppzjcu-min.jpg
+    image: /img/Scott Pritchard.jpg
     job: Président de Pritchard Network Inc.
     name: Scott Pritchard
 ---
-

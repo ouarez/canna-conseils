@@ -3,7 +3,7 @@ layout: inscriptions
 title: Inscriptions
 description: Prenez une longueur d'avance dans l'industrie du cannabis
 slogan1: Inscriptions
-slogan2: Réservez votre place dès maintenant!
+slogan2: Réservez votre place dès maintenant !
 cover_image: /img/bg-page.jpg
 days:
   - day: Lundi 24 septembre
@@ -12,6 +12,7 @@ days:
   - day: Jeudi 27 septembre
   - day: Vendredi 28 septembre
   - day: Samedi 29 septembre
+  - day: Dimanche 30 septembre
 types:
   - type: Argent
   - type: Or

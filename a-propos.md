@@ -67,14 +67,20 @@ thematiques:
   - icon: fas fa-spa
     text: Avantages et Inconvénients d'une culture intérieure et extérieure.
     title: Culture et micro-culture
-
 facts_title: CHIFFRES CLÉS
 facts_bg: /img/bg-facts.png
 facts:
-  - number: 55
+  - desc: MILLION DE CONSOMMATEURS AU CANADA
     icon: fas fa-users
-    desc: MILLION DE CONSOMMATEURS AU CANADA
-  - number: 12,7%
-    icon: fas fa-chart
-    desc: DE LA POPULATION CANADIENNE CONSOMME DU CANNABIS
+    number: 55
+  - desc: DE LA POPULATION CANADIENNE CONSOMME DU CANNABIS
+    icon: fas fa-chart-pie
+    number: '12,7%'
+  - desc: MILLIARDS DE DOLLARS DE CHIFFRE D'AFFAIRES EN 2016
+    icon: fas fa-dollar-sign
+    number: '6'
+  - desc: MILLIARDS DE DOLLARS DE CHIFFRE D'AFFAIRES EN 2026
+    icon: fas fa-dollar-sign
+    number: '50'
 ---
+

@@ -7,15 +7,61 @@ cover_image: /img/bg-page.jpg
 schedules:
   - time: 8h00 - 8h30
     title: Accueil et Petit-déjeuner
-  - desc: "Après la ruée vers l’Or Noir, c’est la ruée vers l’Or Vert qui résonne dans tous les esprits. Selon les estimations, le marché Canadien du Cannabis pèserait près de 6,5 milliards de dollars. Toutes les parties prenantes seront bénéficiaires que ce soit les gouvernements qui espèrent une manne fiscale ou bien les entreprises qui prévoient des bénéfices importants. C’est pour cette raison que chacun se prépare au nouveau contexte créé par la légalisation de la marijuana. Profitez de la présence de nos experts pour tout savoir sur :\r\n\n•\tLes opportunités commerciales\r\n\n•\tLes nouvelles lois et réglementations\r\n\n•\tLes licences à obtenir\r\n\n•\tLes technologies et équipements disponibles\r\n\n•\tLes aménagements urbains à prévoir\r\n\n•\tLes formations nécessaires\r\n\n•\tLa reconversion des producteurs de fruits et légumes"
+  - desc: >-
+      Après la ruée vers l’Or Noir, c’est la ruée vers l’Or Vert qui résonne
+      dans tous les esprits. Selon les estimations, le marché Canadien du
+      Cannabis pèserait près de 6,5 milliards de dollars. Toutes les parties
+      prenantes seront bénéficiaires que ce soit les gouvernements qui espèrent
+      une manne fiscale ou bien les entreprises qui prévoient des bénéfices
+      importants. C’est pour cette raison que chacun se prépare au nouveau
+      contexte créé par la légalisation de la marijuana. Profitez de la présence
+      de nos experts pour tout savoir sur :
+
+
+      * Les opportunités commerciales
+
+      * Les nouvelles lois et réglementations
+
+      * Les licences à obtenir
+
+      * Les technologies et équipements disponibles
+
+      * Les aménagements urbains à prévoir
+
+      * Les formations nécessaires
+
+      * La reconversion des producteurs de fruits et légumes
     time: 8h30 - 9h30
     title: Partez à la conquête de l’Or Vert
-  - desc: "Lors de la création d’entreprise, il est impératif pour les entrepreneurs et les investisseurs d’identifier les enjeux entourant la légalisation du cannabis, ainsi que la gestion des risques associés au projet et le rôle prépondérant d’une assurance. En explorant les différentes sources de financements permettant d’accélérer le développement de leurs activités, les entrepreneurs ont tout intérêt à diversifier leurs sources de financements afin d’éviter toute dépendance vis-à-vis de ces sources de financement. C’est pourquoi nos experts aborderont les sujets suivants :\r\n\n•\tAssurances et gestion de risques\r\n\n•\tLes financements privés\r\n\n•\tLes financements gouvernementaux\r\n\n•\tLes financements participatifs\r\n\n•\tL’expérience des Pays-Bas\r\n\n•\tComment les municipalités peuvent-elles attirer des investisseurs ? \r\n\n•\tLe rôle d’une audit lors de la démarche de lancement"
+  - desc: >-
+      Lors de la création d’entreprise, il est impératif pour les entrepreneurs
+      et les investisseurs d’identifier les enjeux entourant la légalisation du
+      cannabis, ainsi que la gestion des risques associés au projet et le rôle
+      prépondérant d’une assurance. En explorant les différentes sources de
+      financements permettant d’accélérer le développement de leurs activités,
+      les entrepreneurs ont tout intérêt à diversifier leurs sources de
+      financements afin d’éviter toute dépendance vis-à-vis de ces sources de
+      financement. C’est pourquoi nos experts aborderont les sujets suivants :
+
+
+      * Assurances et gestion de risques
+
+      * Les financements privés
+
+      * Les financements gouvernementaux
+
+      * Les financements participatifs
+
+      * L’expérience des Pays-Bas
+
+      * Comment les municipalités peuvent-elles attirer des investisseurs ? 
+
+      * Le rôle d’une audit lors de la démarche de lancement
     time: 9h30 - 10h30
     title: 'Assurances et sources de financement '
   - time: 10h30 - 10h45
     title: Pause Café-Réseau
-  - desc: "Du processus de fabrication jusqu’à la vente du produit, tant de questions se posent. Comment optimiser sa chaine d’approvisionnement ? Tisser un réseau de distribution solide dans un marché émergent ? Quelle communication adopter face à un marché qui ne laisse personne indifférent ?  \r\n\nPour répondre à toutes ces interrogations, nos experts se focaliseront sur :\r\n\n•\tLes enjeux d’une chaine d’approvisionnement efficiente\r\n\n•\tLes spécificités de la distribution au Québec\r\n\n•\tLes logiciels informatiques\r\n\n•\tLa sécurité au service de l’approvisionnement\r\n\n•\tLes services de logistique\r\n\n•\tLe contrôle de qualité\r\n\n•\tLes différents canaux de communication\r\n\n•\tLe positionnement et l’image de marque\r\n\n•\tLes réseaux sociaux\r\n\n•\tLes tactiques de pointe de marketing dans l’industrie du cannabis"
+  - desc: "Du processus de fabrication jusqu’à la vente du produit, tant de questions se posent. Comment optimiser sa chaine d’approvisionnement ? Tisser un réseau de distribution solide dans un marché émergent ? Quelle communication adopter face à un marché qui ne laisse personne indifférent ?  \n\nPour répondre à toutes ces interrogations, nos experts se focaliseront sur :\n\n* Les enjeux d’une chaine d’approvisionnement efficiente\n* Les spécificités de la distribution au Québec\n* Les logiciels informatiques\n* La sécurité au service de l’approvisionnement\n\n•\tLes services de logistique\n\n•\tLe contrôle de qualité\n\n•\tLes différents canaux de communication\n\n•\tLe positionnement et l’image de marque\n\n•\tLes réseaux sociaux\n\n•\tLes tactiques de pointe de marketing dans l’industrie du cannabis"
     time: 10h45 - 11h15
     title: >-
       S’approvisionner, distribuer et communiquer : les étapes clés pour
@@ -30,7 +76,22 @@ schedules:
     title: 'Produits dérivés : le cannabis sous toutes ses formes'
   - time: 12h15 - 13h30
     title: Pause-déjeuner et présentation produits
-  - desc: "La consommation du Cannabis récréatif n’est même pas encore légalisée que son utilisation à des fins dites médicales est pratiquée depuis plusieurs années. De nombreuses études menées par des Laboratoires valident l’utilisation raisonnée du Cannabis thérapeutique pour certaines maladies.\r\n\n•\tTraitement de l’anxiété\r\n\n•\tDouleurs chroniques (migraine, fybromyalgie…)\r\n\n•\tChimiothérapie\r\n\n•\tTraitement contre l’épilepsie\r\n\n•\tSanté et prévention"
+  - desc: >-
+      La consommation du Cannabis récréatif n’est même pas encore légalisée que
+      son utilisation à des fins dites médicales est pratiquée depuis plusieurs
+      années. De nombreuses études menées par des Laboratoires valident
+      l’utilisation raisonnée du Cannabis thérapeutique pour certaines maladies.
+
+
+      * Traitement de l’anxiété
+
+      * Douleurs chroniques (migraine, fybromyalgie…)
+
+      * Chimiothérapie
+
+      * Traitement contre l’épilepsie
+
+      * Santé et prévention
     time: 13h30 - 14h00
     title: Les vertus thérapeutiques du cannabis
   - desc: "La mise en vigueur de la loi C-45 sur la légalisation du Cannabis Récréatif devrait renforcer le Tourisme Canadien qui attirait pas moins de 21 millions de visiteurs en 2017. Ce sont donc des milliards de dollars qui seront générés par cette seule industrie. Les prévisions indiquent une explosion du nombre de touristes motivés d’en apprendre davantage sur les effets du pot dès l’application de la loi. \r\n\n•\tLes opportunités à saisir \r\n\n•\tEtude de cas : l’expérience du Colorado\r\n\n•\t7 bonne idées pour recruter des clients américains et européens\r\n\n•\tLes centres de villégiature\r\n\n•\tLes nouveaux circuits touristiques"

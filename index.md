@@ -41,7 +41,7 @@ event_location: Novotel Montréal Centre
 event_link: /inscriptions
 event_link_text: Inscription
 horaire_title: Programme de la journée
-horaire_slogan: prenez une longueur d'avance dans l'industrie du cannabis
+horaire_slogan: Prenez une longueur d'avance dans l'industrie du cannabis
 intervenants_title: Nos intervenants
 ---
 

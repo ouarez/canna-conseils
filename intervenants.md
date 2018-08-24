@@ -375,7 +375,7 @@ intervenants:
 
       Il est titulaire de deux diplômes en commerce et en philosophie de
       l'Université Queen's, au Canada.
-    image: /img/nick-pateras-min.png
+    image: /img/nick-pateras-photo-edit-min.jpg
     job: 'Vice-président du développement, Lift & Co'
     name: Nick Pateras
 ---

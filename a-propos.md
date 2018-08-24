@@ -52,15 +52,20 @@ thematiques:
   - icon: fas fa-cannabis
     text: 'Chocolats, gâteaux, crèmes, huiles, briquets, pipes etc.'
     title: Produits dérivés
-  - text: Les vertus thérapeutiques
+  - icon: fas fa-briefcase-medical
+    text: Les vertus thérapeutiques
     title: Santé
-  - text: Les phénomènes légaux imprévus
+  - icon: fas fa-gavel
+    text: Les phénomènes légaux imprévus
     title: Droit
-  - text: Le choix des équipements
+  - icon: fas fa-wrench
+    text: Le choix des équipements
     title: Équipement
-  - text: Les nouvelles normes
+  - icon: fas fa-lock
+    text: Les nouvelles normes
     title: Sécurité
-  - text: Avantages et Inconvénients d'une culture intérieure et extérieure.
+  - icon: fas fa-spa
+    text: Avantages et Inconvénients d'une culture intérieure et extérieure.
     title: Culture et micro-culture
 ---
 

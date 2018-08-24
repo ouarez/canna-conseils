@@ -54,4 +54,17 @@ reservation_box_1:
   price: 250$
   subtext: Accès illimité
   title: Argent
+reservation_box_2:
+  features:
+    - desc: Accès illimité aux conférences
+    - desc: Journée complète
+    - desc: Petit-déjeuner
+    - desc: Connexion WIFI
+    - desc: Une table d'exposition
+    - desc: Un choix de rendez-vous avec 5 experts
+    - desc: Une carte de membre annuelle
+    - desc: Taxes en sus
+  price: 295$
+  subtext: Accès illimité
+  title: Or
 ---

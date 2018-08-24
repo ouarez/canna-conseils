@@ -91,6 +91,6 @@ collections:
             name: "thematiques"
             widget: "list"
             fields:
-              - {label: Icône (Font Awesome), name: icon, widget: string}
               - {label: Titre, name: title, widget: string}
+              - {label: Icône (Font Awesome), name: icon, widget: string}
               - {label: Texte, name: text, widget: string}

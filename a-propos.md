@@ -46,9 +46,11 @@ thematiques:
   - icon: fas fa-plane-departure
     text: Une nouvelle expérience des plus attractives
     title: Tourisme
-  - text: Du marché noir au marché légal
+  - icon: fas fa-boxes
+    text: Du marché noir au marché légal
     title: Approvisionnement
-  - text: 'Chocolats, gâteaux, crèmes, huiles, briquets, pipes etc.'
+  - icon: fas fa-cannabis
+    text: 'Chocolats, gâteaux, crèmes, huiles, briquets, pipes etc.'
     title: Produits dérivés
   - text: Les vertus thérapeutiques
     title: Santé

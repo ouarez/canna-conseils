@@ -25,56 +25,22 @@ schedules:
     title: >-
       Quand la feuille de cannabis remplace la feuille d’érable, les actions
       montent en flèche
-  - desc: >-
-      En dépit de ce que l’on peut penser, la légalisation du Cannabis récréatif
-      ouvre bien plus de portes que la simple consommation traditionnelle. Les
-      entrepreneurs ne manquent pas de créativité pour faire fructifier leurs
-      investissements. C’est le cas par exemple d’un laboratoire de 15 600 m2
-      proche d’Ottawa qui développe très sérieusement des solutions alternatives
-      (crèmes, potions etc.…) à base de Cannabis. Les opportunités sont infinies
-      et ne dépendent que d’un brin d’audace et d’une profonde imagination.
-
-        - De nouvelles habitudes alimentaires : boissons, breuvages et friandises
-        - De nouveaux horizons cosmétiques : crèmes, lotions et maquillage
+  - desc: "En dépit de ce que l’on peut penser, la légalisation du Cannabis récréatif ouvre bien plus de portes que la simple consommation traditionnelle. Les entrepreneurs ne manquent pas de créativité pour faire fructifier leurs investissements tout en élargissant leur gamme de produits. C’est le cas par exemple d’un laboratoire de 15 600 m2 proche d’Ottawa qui développe très sérieusement des solutions alternatives (crèmes, potions etc.…) à base de Cannabis. Les opportunités sont infinies et ne dépendent que d’un brin d’audace et d’une profonde imagination :\r\n\n•\tDe nouvelles habitudes de consommation : Vins, spiritueux, bière, breuvages et friandises\r\n\n•\tDe nouveaux horizons en cosmétiques : crèmes, lotions et maquillage\r\n\n•\tDes niches pour tous les accessoires"
     time: 11h45 - 12h15
     title: 'Produits dérivés : le cannabis sous toutes ses formes'
   - time: 12h15 - 13h30
     title: Pause-déjeuner et présentation produits
-  - desc: >-
-      La consommation du Cannabis récréatif n’est même pas encore légalisée que
-      son utilisation à des fins dites médicales est pratiquée depuis plusieurs
-      années. De nombreuses études menées par des Laboratoires valident
-      l’utilisation raisonnée du Cannabis thérapeutique pour certaines maladies.
-
-        - Traitement de l’anxiété,
-        - Douleurs chroniques (migraine, fybromyalgie…)
-        - Chimiothérapie
+  - desc: "La consommation du Cannabis récréatif n’est même pas encore légalisée que son utilisation à des fins dites médicales est pratiquée depuis plusieurs années. De nombreuses études menées par des Laboratoires valident l’utilisation raisonnée du Cannabis thérapeutique pour certaines maladies.\r\n\n•\tTraitement de l’anxiété\r\n\n•\tDouleurs chroniques (migraine, fybromyalgie…)\r\n\n•\tChimiothérapie\r\n\n•\tTraitement contre l’épilepsie\r\n\n•\tSanté et prévention"
     time: 13h30 - 14h00
     title: Les vertus thérapeutiques du cannabis
-  - desc: >-
-      La mise en vigueur de la loi C-45 sur la légalisation du Cannabis
-      Récréatif devrait renforcer le Tourisme Canadien qui attirait pas moins de
-      21 millions de visiteurs en 2017. Ce sont donc des milliards de dollars
-      qui seront générés par cette seule industrie. Les prévisions indiquent une
-      explosion du nombre de touristes motivés d’en apprendre davantage sur les
-      vertus du pot dès l’application de la loi.
-
-        - Les opportunités à saisir
-        - Etude de cas : l’expérience du Colorado
+  - desc: "La mise en vigueur de la loi C-45 sur la légalisation du Cannabis Récréatif devrait renforcer le Tourisme Canadien qui attirait pas moins de 21 millions de visiteurs en 2017. Ce sont donc des milliards de dollars qui seront générés par cette seule industrie. Les prévisions indiquent une explosion du nombre de touristes motivés d’en apprendre davantage sur les effets du pot dès l’application de la loi. \r\n\n•\tLes opportunités à saisir \r\n\n•\tEtude de cas : l’expérience du Colorado\r\n\n•\t7 bonne idées pour recruter des clients américains et européens\r\n\n•\tLes centres de villégiature\r\n\n•\tLes nouveaux circuits touristiques"
     time: 14h00 - 15h00
     title: Découvrez les opportunités du canna-tourisme
-  - desc: >-
-      Au sein d’une industrie en plein essor, la création d’emploi est une
-      conséquence logique s’expliquant par un besoin en main d’œuvre afin de
-      répondre aux attentes du marché. Notre expert vous donnera toutes les
-      clefs pour travailler dans cette industrie
-
-      - Les diplômes à obtenir - Les plans de carrière - Les agences de
-      placements
+  - desc: "Au sein d’une industrie en plein essor, la création d’emploi est une conséquence logique s’expliquant par un besoin en main d’œuvre afin de répondre aux attentes des employeurs. Nos experts vous donneront toutes les clefs pour travailler dans cette industrie\r\n\n•\tCe que recherchent les employeurs\r\n\n•\tLes diplômes nécessaires\r\n\n•\tLe plan de carrière\r\n\n•\tL’expérience professionnelle du marché noir : un atout ?"
     time: 15h00 - 16h00
     title: 'Le cannabis : remède contre le chômage ?'
   - desc: >-
-      Échangez avec nos experts, posez-leur toutes vos questions, présentez-leur
+      Echangez avec nos experts, posez-leur toutes vos questions, présentez-leur
       vos projets et vos CV. Ils se feront un plaisir de vous aiguiller au mieux
       pour que vos attentes se réalisent.
     time: 16h00 - 18h00

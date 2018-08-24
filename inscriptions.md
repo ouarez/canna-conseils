@@ -12,7 +12,6 @@ days:
   - day: Jeudi 27 septembre
   - day: Vendredi 28 septembre
   - day: Samedi 29 septembre
-  - day: Dimanche 30 septembre
 types:
   - type: Argent
   - type: Or

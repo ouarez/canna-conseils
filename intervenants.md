@@ -359,5 +359,24 @@ intervenants:
     image: /img/Scott Pritchard.jpg
     job: Président de Pritchard Network Inc.
     name: Scott Pritchard
+  - bio: >-
+      Nick Pateras est vice-président du développement chez Lift & Co, la plus
+      importante plateforme de médias, de technologie et de produits du cannabis
+      au Canada. Lift & Co. a pour mission d'habiliter les consommateurs à
+      prendre des décisions éclairées en matière de cannabis. Lift & Co.
+      recueille et diffuse d'importantes données dans le but de combler le fossé
+      informationnel entre les acheteurs et les vendeurs.
+
+      Avant de rejoindre Lift & Co, Nick a passé plusieurs années dans le
+      secteur pharmaceutique chez Johnson & Johnson Inc, où il a dirigé les
+      activités de OTC et de Health & Beauty. Son expérience dans le domaine de
+      la santé l'a amené à se tourner vers le cannabis, après avoir longtemps
+      plaidé pour la reconnaissance de ses nombreuses applications médicales.
+
+      Il est titulaire de deux diplômes en commerce et en philosophie de
+      l'Université Queen's, au Canada.
+    image: /img/nick-pateras-min.png
+    job: 'Vice-président du développement, Lift & Co'
+    name: Nick Pateras
 ---
 

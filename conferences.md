@@ -15,24 +15,10 @@ schedules:
     title: Identifiez les différentes sources de financement pour votre entreprise
   - time: 10h30 - 10h45
     title: Pause Café-Réseau
-  - desc: >-
-      Du processus de fabrication jusqu’à la vente du produit, tant de questions
-      se posent. Comment optimiser sa chaine d’approvisionnement ? Comment
-      tisser un réseau de distribution solide dans un marché émergent ? Quelle
-      communication adopter face à un marché qui ne laisse personne indifférent
-      ?
-
-
-      Pour répondre à toutes ces interrogations nous nous focaliserons sur :
-
-
-        - Les enjeux d’une chaine d’approvisionnement efficace
-        - Les spécificités de la distribution au Québec
-        - Les logiciels de gestion de stocks
-        - Les différents canaux de communication et de distribution
+  - desc: "Du processus de fabrication jusqu’à la vente du produit, tant de questions se posent. Comment optimiser sa chaine d’approvisionnement ? Tisser un réseau de distribution solide dans un marché émergent ? Quelle communication adopter face à un marché qui ne laisse personne indifférent ?  \r\n\nPour répondre à toutes ces interrogations, nos experts se focaliseront sur :\r\n\n•\tLes enjeux d’une chaine d’approvisionnement efficiente\r\n\n•\tLes spécificités de la distribution au Québec\r\n\n•\tLes logiciels informatiques\r\n\n•\tLa sécurité au service de l’approvisionnement\r\n\n•\tLes services de logistique\r\n\n•\tLe contrôle de qualité\r\n\n•\tLes différents canaux de communication\r\n\n•\tLe positionnement et l’image de marque\r\n\n•\tLes réseaux sociaux\r\n\n•\tLes tactiques de pointe de marketing dans l’industrie du cannabis"
     time: 10h45 - 11h15
     title: >-
-      S’approvisionner, communiquer et distribuer : les étapes clés pour
+      S’approvisionner, distribuer et communiquer : les étapes clés pour
       connaître un canna-succès
   - desc: >-
       Selon Statistique Canada, le marché du Cannabis récréatif est estimé à 6

@@ -22,7 +22,7 @@ intervenants:
       et aux partenariats stratégiques d’affaires.
     image: /img/maxime-guerin.png
     job: 'Avocat et Consultant en cannabis, Groupe SGF '
-    name: "Maxime Guérin"
+    name: Maxime Guérin
   - bio: >-
       À titre de vice-président principal, stratégie de marque, Stéphane
       Mailhiot pilote la planification stratégique de Havas Montréal. Avec son
@@ -114,7 +114,6 @@ intervenants:
       Finalement, il mettra sur le marché le 17 octobre prochai le cannabis
       verdict, un test de dépistage salivaire unique qui permettra aux
       consommateurs de savoir s’il dépasse la limite légale.
-
     image: /img/stéphane-maurais.jpg
     job: 'Directeur général, Alco Prévention Canada'
     name: Stéphane Maurais
@@ -146,10 +145,38 @@ intervenants:
     image: /img/alexander-main-min.jpg
     job: 'Responsable affaires Vétérans, Consult&Grow'
     name: Alexander Main
-  - image: /img/marc-antoine-chaput-min.jpg
-    job: >-
-      Conseiller en sécurité financière et Représentant en épargne collective,
-      Groupe Investors
+  - bio: >-
+      Marc-Antoine est un conseiller en planification financière au sein du
+      Groupe Investors. Il est un professionnel des finances personnelles, un
+      généraliste qui peut analyser les aspects stimulants et complexes de la
+      situation financière de ses clients, élaborer un plan d’action
+      personnalisé et référer, au besoin, à des spécialistes. En tant que
+      professionnel qui exerce un rôle-conseil, son rôle est principalement de
+      faire croître le patrimoine de manière graduelle et durable pour permettre
+      à ses clients d’atteindre leurs objectifs financiers à court, moyen et
+      long terme. Travaillant surtout avec des professionnels et entrepreneurs,
+      son expertise dans différents aspects de la gestion financière vient
+      donner une valeur ajoutée à ses clients.
+       
+      Après avoir reçu une bourse d’études en 2012, il a complété un
+      baccalauréat en administration des affaires à Morrisville State College
+      dans l’état de New York. Il est depuis 2016, conseiller au Groupe
+      Investors et complète présentement son titre de Planificateur Financier
+      auprès de l’IQPF.
+       
+      C’est en 2015 que Marc-Antoine a débuté ses investissements dans le
+      secteur du cannabis. Ayant connu un succès immédiat, il  a développé un
+      intérêt particulier pour ce secteur. C’est alors qu’il s’est mis à trouver
+      des solutions d’investissement dans ce secteur pour ses clients. Au cours
+      des trois dernières années, il s’est spécialisé dans le domaine et est
+      devenu un expert de l’investissement du Cannabis au Québec. Grâce à ses
+      connaissances approfondies sur le marché, il est capable d’incorporer ce
+      secteur au portefeuille d’investissement de ses clients.
+       
+      Découvrez lors de la semaine du Cannabis, comment il peut incorporer ce
+      secteur à votre Portefeuille.
+    image: /img/marc-antoine-chaput-min.jpg
+    job: 'Conseiller en planification financière, Groupe Investors'
     name: Marc-Antoine Chaput
   - bio: >-
       Charles Taerk est co-fondateur de Faircourt Asset Management Inc.,
@@ -290,14 +317,9 @@ intervenants:
       domaines, dont:
 
 
-      - Industrie pharmaceutique
-      - Dispositifs médicaux
-      - Industrie alimentaire
-      - Industrie chimique
-      - Produits de santé naturels
-      - Industrie du divertissement
-      - Produits cosmétiques
-      - Produits de consommation
+      - Industrie pharmaceutique - Dispositifs médicaux - Industrie alimentaire
+      - Industrie chimique - Produits de santé naturels - Industrie du
+      divertissement - Produits cosmétiques - Produits de consommation
 
 
       Jason Moscovici a obtenu son baccalauréat en biochimie (régime coopératif)
@@ -338,3 +360,4 @@ intervenants:
     job: Président de Pritchard Network Inc.
     name: Scott Pritchard
 ---
+

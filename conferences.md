@@ -34,7 +34,7 @@ schedules:
 
       * La reconversion des producteurs de fruits et légumes
     time: 8h30 - 9h30
-    title: Partez à la conquête de l’Or Vert
+    title: Partez à la conquête de l’Or Vert et profitez de cette économie émergente
   - desc: >-
       Lors de la création d’entreprise, il est impératif pour les entrepreneurs
       et les investisseurs d’identifier les enjeux entourant la légalisation du

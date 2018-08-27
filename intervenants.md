@@ -42,7 +42,7 @@ intervenants:
       2008, il enseigne Savoir convaincre : confrontation et persuasion à
       l’Université de Sherbrooke.
     image: /img/smailhiot_side_low.jpg
-    job: 'Vice-président principal, stratégie de marque'
+    job: 'Vice-président principal, stratégie de marque - Havas'
     name: Stéphane Mailhiot
   - bio: >-
       Angela Mustone est à l'origine de Produits Amour et Beauté, une
@@ -379,3 +379,4 @@ intervenants:
     job: 'Vice-président du développement, Lift & Co'
     name: Nick Pateras
 ---
+

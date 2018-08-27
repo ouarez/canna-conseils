@@ -2,7 +2,7 @@
 layout: a-propos
 title: À propos
 description: Prenez une longueur d'avance dans l'industrie du cannabis
-slogan1: À propos de Canna Conseils
+slogan1: À propos de Canna-Conseils
 slogan2: Notre vision du marché
 cover_image: /img/bg-page.jpg
 intro_title: Qui sommes-nous ?
@@ -24,7 +24,7 @@ intro_text: >-
   la consommation du Cannabis Récréatif soit légalisée… !
 
 
-  Nos semaines de formation disponibles en Anglais et en Français sont à la
+  Nos semaines de formation disponibles en anglais et en français sont à la
   carte. Vous avez donc la possibilité de sélectionner les journées qui vous
   intéressent et de cibler en priorité les domaines qui nécessitent des
   éclaircissements. Les journées se décomposent en une première partie de

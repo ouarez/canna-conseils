@@ -7,23 +7,6 @@ slogan2: ''
 cover_image: /img/bg-page.jpg
 intervenants:
   - bio: >-
-      Maxime Guérin est associé de la firme Sarailis Avocats et est responsable
-      du département du cabinet en droit du travail et de l&#39;emploi et exerce
-      aussi en litige civil et commercial, principalement dans le domaine
-      immobilier en plus d&#39;avoir développé une pratique spécialisée dans
-      l'industrie du cannabis. Il est diplômé de l’université Laval en 2012 et
-      est membre du Barreau du Québec depuis 2014. C’est au sein de Groupe SGF -
-      Consultants en cannabis, une division de Saraïlis Avocats, que Me Guérin a
-      développé une expertise afin d’accompagner les demandeurs de licences de
-      producteurs autorisés auprès de Santé Canada en plus d’aider les
-      entrepreneurs de tous horizons à développer leurs projets d’affaires dans
-      l’industrie du cannabis. Il accompagne les entrepreneurs dans leurs
-      démarches administratives mais aussi dans celles relatives au financement
-      et aux partenariats stratégiques d’affaires.
-    image: /img/maxime-guerin.png
-    job: 'Avocat et Consultant en cannabis, Groupe SGF '
-    name: Maxime Guérin
-  - bio: >-
       À titre de vice-président principal, stratégie de marque, Stéphane
       Mailhiot pilote la planification stratégique de Havas Montréal. Avec son
       équipe, il s’assure que le consommateur demeure au centre de tout ce que
@@ -44,6 +27,23 @@ intervenants:
     image: /img/smailhiot_side_low.jpg
     job: 'Vice-président principal, stratégie de marque - Havas'
     name: Stéphane Mailhiot
+  - bio: >-
+      Maxime Guérin est associé de la firme Sarailis Avocats et est responsable
+      du département du cabinet en droit du travail et de l&#39;emploi et exerce
+      aussi en litige civil et commercial, principalement dans le domaine
+      immobilier en plus d&#39;avoir développé une pratique spécialisée dans
+      l'industrie du cannabis. Il est diplômé de l’université Laval en 2012 et
+      est membre du Barreau du Québec depuis 2014. C’est au sein de Groupe SGF -
+      Consultants en cannabis, une division de Saraïlis Avocats, que Me Guérin a
+      développé une expertise afin d’accompagner les demandeurs de licences de
+      producteurs autorisés auprès de Santé Canada en plus d’aider les
+      entrepreneurs de tous horizons à développer leurs projets d’affaires dans
+      l’industrie du cannabis. Il accompagne les entrepreneurs dans leurs
+      démarches administratives mais aussi dans celles relatives au financement
+      et aux partenariats stratégiques d’affaires.
+    image: /img/maxime-guerin.png
+    job: 'Avocat et Consultant en cannabis, Groupe SGF '
+    name: Maxime Guérin
   - bio: >-
       Angela Mustone est à l'origine de Produits Amour et Beauté, une
       prestigieuse compagnie canadienne de cosmétiques. Actuellement,

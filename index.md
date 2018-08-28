@@ -15,7 +15,8 @@ intro_text: >-
   prendre conscience en une formation accélérée des tenants et aboutissants de
   l’industrie la plus prometteuse de notre décennie. Les participants auront
   donc l’opportunité d’étudier un large éventail de sujets tels que la culture,
-  les produits dérivés, les financements & investissements, le tourisme et plus
+  l'approvisionnement, la distribution, la communication, les produits dérivés,
+  les financements & investissements, la santeé, le tourisme, l'emploi et plus
   encore. La diversité des thèmes abordés par nos conférenciers fait la force de
   nos formations et nous autorise ainsi à étudier ce marché à forte valeur
   ajouté dans sa globalité.
@@ -28,10 +29,15 @@ intro_text: >-
   soit légalisée.
 
 
-  Professionnels, investisseurs, assureurs, gestionnaires, recruteurs, médecins,
-  restaurateurs, architectes, entrepreneurs en construction, formateurs,
-  agriculteurs, fabricants de serres ou tout simplement curieux, nos formations
-  s'adressent à vous !
+  Cet événement va permettre à de nombreux corps de métier de mettre à profit
+  leur expertise dans l'industrie émergente du cannabis et d'élargir leur
+  clientèle. 
+
+
+  Ainsi, que vous soyez professionnels, investisseurs, assureurs, gestionnaires,
+  recruteurs, médecins, restaurateurs, architectes, entrepreneurs en
+  construction, formateurs, agriculteurs, fabricants de serres ou tout
+  simplement curieux, nos formations s'adressent à vous !
 
 
   **Notre prochaine semaine de conférence débute le 24 septembre. Inscrivez-vous

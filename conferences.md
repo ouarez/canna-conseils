@@ -176,7 +176,7 @@ schedules:
 
       * 7 bonne idées pour recruter des clients américains et européens
 
-      * Les centres de villégiature
+      * Les centres de villégiature s'adaptent
 
       * Les nouveaux circuits touristiques
     time: 14h00 - 15h00

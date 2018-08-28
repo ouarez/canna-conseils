@@ -176,7 +176,7 @@ intervenants:
       Découvrez lors de la semaine du Cannabis, comment il peut incorporer ce
       secteur à votre Portefeuille.
     image: /img/marc-antoine-chaput.jpeg
-    job: 'Conseiller en planification financière, Groupe Investors'
+    job: Conseiller en planification financière - Groupe Investors
     name: Marc-Antoine Chaput
   - bio: >-
       Charles Taerk est co-fondateur de Faircourt Asset Management Inc.,

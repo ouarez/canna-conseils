@@ -378,5 +378,19 @@ intervenants:
     image: /img/nick-pateras-min.png
     job: 'Vice-président du développement, Lift & Co'
     name: Nick Pateras
+  - bio: >-
+      Patrick Leroux travaille au bureau de Marsh à Montréal depuis 1991 et est
+      membre de l’équipe de direction. Il collabore étroitement avec
+      gestionnaires, propriétaires et financiers afin de les assister dans la
+      gestion des risques. Patrick Leroux vulgarise pour ces derniers en quoi
+      l’industrie de l’assurance commerciale est pertinente pour leur réalité
+      commerciale. De plus, il facilite l’accessibilité à la propriété
+      intellectuelle disponible chez Marsh telle que le partage de comparable
+      (‘’benchmarking’’), meilleurs practice selon le secteur, assurances
+      collectives, plan de continuité d’affaires et cyber protection pour n’en
+      nommer que quelques-unes. 
+    image: /img/patrick-leroux-1-min.jpg
+    job: Administrateur délégué - Marsh
+    name: Patrick Leroux
 ---
 

@@ -8,7 +8,9 @@ slogan1: >-
 cover_image: /img/bg-page.jpg
 schedules:
   - time: 8h00 - 8h30
-    title: Accueil et Petit-déjeuner
+    title: >-
+      Accueil et Petit-déjeuner - Échangez vos cartes d'affaire et présentez
+      votre expertise
   - desc: >-
       Après la ruée vers l’Or Noir, c’est la ruée vers l’Or Vert qui résonne
       dans tous les esprits. Selon les estimations, le marché Canadien du

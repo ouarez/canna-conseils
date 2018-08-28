@@ -11,7 +11,7 @@ cover_link: /inscriptions
 intro_title: Qu’est-ce que la semaine du Cannabis ?
 intro_text: >-
   La Semaine du Cannabis est une formation sur mesure d’une durée de 6 jours.
-  Cette semaine permet concrètement aux participants, 25 personnes par jour, de
+  Cette semaine permet concrètement aux participants, 20 personnes par jour, de
   prendre conscience en une formation accélérée des tenants et aboutissants de
   l’industrie la plus prometteuse de notre décennie. Les participants auront
   donc l’opportunité d’étudier un large éventail de sujets tels que la culture,
@@ -23,13 +23,15 @@ intro_text: >-
 
   A l’aide d’experts confirmés, les participants apprendront à développer un
   lourd avantage concurrentiel au sein d’un marché rempli d’opportunités. En
-  effet, d'après Le Journal de Montréal, pas moins de 77 Canadiens sont déjà
+  effet, d'après _Le Journal de Montréal_, pas moins de 77 Canadiens sont déjà
   devenus millionnaires avant même que la consommation du cannabis récréatif
   soit légalisée.
 
 
-  Professionnels, investisseurs, médecins, restaurateurs, jardiniers,
-  agriculteurs ou tout simplement curieux, nos formations s'adressent à vous !
+  Professionnels, investisseurs, assureurs, gestionnaires, recruteurs, médecins,
+  restaurateurs, architectes, entrepreneurs en construction, formateurs,
+  agriculteurs, fabricants de serres ou tout simplement curieux, nos formations
+  s'adressent à vous !
 
 
   **Notre prochaine semaine de conférence débute le 24 septembre. Inscrivez-vous

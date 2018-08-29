@@ -41,12 +41,10 @@ intervenants:
 
 
       Il a été admis au Barreau du Québec en 2001.
+    conferences: []
     image: /img/Endo.png
     job: Avocat et membre fondateur du cabinet Endo & Associés
     name: Guillaume Endo
-    conferences:
-      - name: Partez à la conquête de l’Or Vert
-        date: Lundi 24 septembre, 08h30
   - bio: >-
       Jason Moscovici se spécialise en litige de propriété intellectuelle et en
       litige commercial. Il possède une formation juridique et scientifique qui
@@ -420,3 +418,4 @@ intervenants:
     job: Président-fondateur de ProfileSoft Inc.
     name: Yves-Marcel Boily
 ---
+

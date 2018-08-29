@@ -24,6 +24,19 @@ layout: default
           <i class="w-100 w-10-l fas fa-angle-down f3 mt2"></i>
           <div class="hidden pt3 mr3 tj">
             {{schedule.desc | markdownify}}
+            <div class="w-100 mt4 ph2 flex">
+              {% for intervenant in schedule.intervenants %}
+                <div class="bubble w-100 w-25-l br4 bg-green white flex mr3">
+                  <div>
+                    <img class="icon" src="{{intervenant.image}}" alt="{{intervenant.name}}"/>
+                  </div>
+                  <div class="ph3 pv2 mt1">
+                    <span class="b lh-copy f5">{{intervenant.name}}</span><br/>
+                    <span class="f6">{{intervenant.days}}</span>
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
           </div>
         {% endif %}
       </div>

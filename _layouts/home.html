@@ -61,11 +61,27 @@ layout: default
 
         <div class="slider bg-light-gray black pa4 flex flex-wrap tc tl-l mv2 {% if schedule.desc %}pointer{%endif%}">
           <span class="w-100 w-20-l b mv2 f4 alt-font">{{schedule.time}}</span>
-          <span class="w-100 w-70-l mv2 f4 alt-font">{{schedule.title}}</span>
+          <span class="w-100 w-60-l mv2 f4 alt-font">{{schedule.title}}</span>
           {% if schedule.desc %}
-            <i class="w-100 w-10-l fas fa-angle-down f3 mt2"></i>
+            <div class="w-100 w-20-l tr dt mt1">
+              <span class="dtc v-btm pv2 b">En savoir plus</span>
+              <i class="fas fa-angle-down f4 mt2"></i>
+            </div>
             <div class="hidden pt3 mr3 tj">
               {{schedule.desc | markdownify}}
+              <div class="w-100 mt4 ph2 flex">
+                {% for intervenant in schedule.intervenants %}
+                  <div class="bubble w-100 w-25-l br4 bg-green white flex mr3">
+                    <div>
+                      <img class="icon" src="{{intervenant.image}}" alt="{{intervenant.name}}"/>
+                    </div>
+                    <div class="ph3 pv2 mt1">
+                      <span class="b lh-copy f5">{{intervenant.name}}</span><br/>
+                      <span class="f6">{{intervenant.days}}</span>
+                    </div>
+                  </div>
+                {% endfor %}
+              </div>
             </div>
           {% endif %}
         </div>

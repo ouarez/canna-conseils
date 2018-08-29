@@ -37,6 +37,10 @@ schedules:
       * La reconversion des producteurs de fruits et légumes
     time: 8h30 - 9h30
     title: Partez à la conquête de l’Or Vert et profitez de cette économie émergente
+    intervenants:
+      - image: /img/alexis-turcotte-1-min.jpg
+        name: Alexis Turcotte
+        days: Lundi, Mardi et Mercredi
   - desc: >-
       Lors de la création d’entreprise, il est impératif pour les entrepreneurs
       et les investisseurs d’identifier les enjeux entourant la légalisation du
@@ -58,7 +62,7 @@ schedules:
 
       * L’expérience des Pays-Bas
 
-      * Comment les municipalités peuvent-elles attirer des investisseurs ? 
+      * Comment les municipalités peuvent-elles attirer des investisseurs ?
 
       * Le rôle d’une audit lors de la démarche de lancement
     time: 9h30 - 10h30
@@ -167,10 +171,10 @@ schedules:
       21 millions de visiteurs en 2017. Ce sont donc des milliards de dollars
       qui seront générés par cette seule industrie. Les prévisions indiquent une
       explosion du nombre de touristes motivés d’en apprendre davantage sur les
-      effets du pot dès l’application de la loi. 
+      effets du pot dès l’application de la loi.
 
 
-      * Les opportunités à saisir 
+      * Les opportunités à saisir
 
       * Etude de cas : l’expérience du Colorado
 
@@ -206,4 +210,3 @@ schedules:
   - time: 18h00
     title: Cocktail de Clôture
 ---
-

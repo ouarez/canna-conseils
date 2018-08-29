@@ -263,6 +263,9 @@ intervenants:
       opportunité qu'offrait ce nouveau marché et contribuer à l'implantation de
       cette industrie au quotidien est, selon elle, un privilège qui ne demande
       qu'à être partagé.
+
+
+      https://vimeo.com/287315328
     image: /img/karine-min.jpg
     job: Présidente et co-fondatrice de Hush Kush
     name: Karine Clément

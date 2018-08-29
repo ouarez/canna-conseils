@@ -90,6 +90,9 @@ intervenants:
 
 
       Jason Moscovici est membre du comité des sciences de la vie de Robic.
+
+
+      https://vimeo.com/287314980
     image: /img/jason-moscovici-min.jpg
     job: 'Avocat et biochimiste, Robic'
     name: Jason Moscovici

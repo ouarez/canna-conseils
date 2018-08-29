@@ -90,6 +90,9 @@ intervenants:
 
 
       Jason Moscovici est membre du comité des sciences de la vie de Robic.
+
+
+      https://vimeo.com/287314980
     image: /img/jason-moscovici-min.jpg
     job: 'Avocat et biochimiste, Robic'
     name: Jason Moscovici
@@ -107,6 +110,9 @@ intervenants:
       l’industrie du cannabis. Il accompagne les entrepreneurs dans leurs
       démarches administratives mais aussi dans celles relatives au financement
       et aux partenariats stratégiques d’affaires.
+
+
+      https://vimeo.com/287315989
     image: /img/maxime-guerin.png
     job: 'Avocat et Consultant en cannabis, Groupe SGF '
     name: Maxime Guérin
@@ -121,6 +127,9 @@ intervenants:
       (‘’benchmarking’’), meilleurs practice selon le secteur, assurances
       collectives, plan de continuité d’affaires et cyber protection pour n’en
       nommer que quelques-unes. 
+
+
+      https://vimeo.com/287316485
     image: /img/patrick-leroux-1-min.jpg
     job: Administrateur délégué - Marsh
     name: Patrick Leroux
@@ -142,6 +151,9 @@ intervenants:
       l’UQAM et d’un DESS en communication marketing de HEC Montréal. Depuis
       2008, il enseigne Savoir convaincre : confrontation et persuasion à
       l’Université de Sherbrooke.
+
+
+      https://vimeo.com/287316855
     image: /img/smailhiot_side_low.jpg
     job: 'Vice-président principal, stratégie de marque - Havas'
     name: Stéphane Mailhiot
@@ -263,10 +275,13 @@ intervenants:
       opportunité qu'offrait ce nouveau marché et contribuer à l'implantation de
       cette industrie au quotidien est, selon elle, un privilège qui ne demande
       qu'à être partagé.
+
+
+      https://vimeo.com/287315328
     image: /img/karine-min.jpg
     job: Présidente et co-fondatrice de Hush Kush
     name: Karine Clément
-  - bio: >
+  - bio: >-
       Francis Hébert est un patient consommateur de cannabis medical depuis le
       ''MMAR'' ayant fait des études en droit à l'université Laval. Maintenant
       spécialisé dans la loi sur l'accès au cannabis médical, il offre de la
@@ -276,6 +291,9 @@ intervenants:
       des plus grandes expertises en matiere d'extraction de cannabinoides.
       Consult&Grow est également responsable pour l'acceptation de 20 licences
       de producteurs licencié au Canada.
+
+
+      https://vimeo.com/287314351
     image: /img/francis-hebert-min.jpg
     job: 'Président, Consult&Grow'
     name: Francis Hébert
@@ -287,6 +305,9 @@ intervenants:
       problèmes physiques et psychologiques. C'est alors qu'il a pris part au
       programme de compassion pour Vétérans, programme qui aide les vétérans a
       changer leurs medications au cannabis.
+
+
+      https://vimeo.com/287313858
     image: /img/alexander-main-min.jpg
     job: 'Responsable affaires Vétérans, Consult&Grow'
     name: Alexander Main

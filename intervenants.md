@@ -187,6 +187,9 @@ intervenants:
 
       Découvrez lors de la semaine du Cannabis, comment il peut incorporer ce
       secteur à votre Portefeuille.
+
+
+      https://vimeo.com/287315768
     image: /img/marc-antoine-chaput.jpeg
     job: Conseiller en planification financière - Groupe Investors
     name: Marc-Antoine Chaput

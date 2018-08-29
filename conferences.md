@@ -35,12 +35,9 @@ schedules:
       * Les formations nécessaires
 
       * La reconversion des producteurs de fruits et légumes
+    intervenants: []
     time: 8h30 - 9h30
     title: Partez à la conquête de l’Or Vert et profitez de cette économie émergente
-    intervenants:
-      - image: /img/alexis-turcotte-1-min.jpg
-        name: Alexis Turcotte
-        days: Lundi, Mardi et Mercredi
   - desc: >-
       Lors de la création d’entreprise, il est impératif pour les entrepreneurs
       et les investisseurs d’identifier les enjeux entourant la légalisation du
@@ -210,3 +207,4 @@ schedules:
   - time: 18h00
     title: Cocktail de Clôture
 ---
+

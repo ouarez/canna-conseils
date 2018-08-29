@@ -110,6 +110,9 @@ intervenants:
       l’industrie du cannabis. Il accompagne les entrepreneurs dans leurs
       démarches administratives mais aussi dans celles relatives au financement
       et aux partenariats stratégiques d’affaires.
+
+
+      https://vimeo.com/287315989
     image: /img/maxime-guerin.png
     job: 'Avocat et Consultant en cannabis, Groupe SGF '
     name: Maxime Guérin

@@ -266,7 +266,7 @@ intervenants:
     image: /img/karine-min.jpg
     job: Présidente et co-fondatrice de Hush Kush
     name: Karine Clément
-  - bio: >
+  - bio: >-
       Francis Hébert est un patient consommateur de cannabis medical depuis le
       ''MMAR'' ayant fait des études en droit à l'université Laval. Maintenant
       spécialisé dans la loi sur l'accès au cannabis médical, il offre de la
@@ -276,6 +276,9 @@ intervenants:
       des plus grandes expertises en matiere d'extraction de cannabinoides.
       Consult&Grow est également responsable pour l'acceptation de 20 licences
       de producteurs licencié au Canada.
+
+
+      https://vimeo.com/user88901946/review/287314351/c89aa3c9a2
     image: /img/francis-hebert-min.jpg
     job: 'Président, Consult&Grow'
     name: Francis Hébert

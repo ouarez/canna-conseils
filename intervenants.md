@@ -71,9 +71,21 @@ intervenants:
       domaines, dont:
 
 
-      - Industrie pharmaceutique - Dispositifs médicaux - Industrie alimentaire
-      - Industrie chimique - Produits de santé naturels - Industrie du
-      divertissement - Produits cosmétiques - Produits de consommation
+      * Industrie pharmaceutique
+
+      * Dispositifs médicaux
+
+      * Industrie alimentaire
+
+      * Industrie chimique
+
+      * Produits de santé naturels
+
+      * Industrie du divertissement
+
+      * Produits cosmétiques
+
+      * Produits de consommation
 
 
       Jason Moscovici a obtenu son baccalauréat en biochimie (régime coopératif)
@@ -91,12 +103,10 @@ intervenants:
 
 
       Jason Moscovici est membre du comité des sciences de la vie de Robic.
-
-
-      https://vimeo.com/287314980
     image: /img/jason-moscovici-min.jpg
     job: 'Avocat et biochimiste, Robic'
     name: Jason Moscovici
+    video: 'https://vimeo.com/287314980'
   - bio: >-
       Maxime Guérin est associé de la firme Sarailis Avocats et est responsable
       du département du cabinet en droit du travail et de l&#39;emploi et exerce

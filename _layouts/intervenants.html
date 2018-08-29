@@ -11,6 +11,12 @@ layout: default
       <div class="container flex flex-wrap">
         <div class="dib w-100 w-30-l pr4 mb3 mb0-l">
       	  <img class="intervenant mb3" src="{{intervenant.image}}" alt="{{intervenant.name}}"/>
+          <a class="no-underline" href="{{intervenant.video}}" alt="Lien vers la capsule de présentation">
+            <div class="w-90-l mv3 bg-light-gray ph3 pv2 br4 mr4 pointer dt">
+                <i class="fas fa-play-circle green f2 pr3"></i>
+                <span class="dtc v-mid blue link f5 ttu alt-font">Capsule de présentation</span>
+            </div>
+          </a>
           <span class="db f4 black b mv4 ml2">Conférences:</span>
           {% for conference in intervenant.conferences %}
           <div class="bg-green white br4 pv2 ph3 mr4-l">
@@ -29,7 +35,7 @@ layout: default
 
 
     <div class="w-100 w-third-l tc pointer grow pr3 pb5">
-      <a class="no-underline" data-fancybox data-src="#hidden-content{{forloop.index}}" href="javascript:;">
+      <a class="no-underline" data-fancybox data-touch="false" data-src="#hidden-content{{forloop.index}}" href="javascript:;">
         <img class="intervenants pb2" src="{{intervenant.image}}" alt="{{intervenant.name}}"/>
         <div class="w-100">
           <span class="db f4 black ttu b mv2">{{intervenant.name}}</span>

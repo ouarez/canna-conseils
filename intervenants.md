@@ -127,6 +127,9 @@ intervenants:
       (‘’benchmarking’’), meilleurs practice selon le secteur, assurances
       collectives, plan de continuité d’affaires et cyber protection pour n’en
       nommer que quelques-unes. 
+
+
+      https://vimeo.com/287316485
     image: /img/patrick-leroux-1-min.jpg
     job: Administrateur délégué - Marsh
     name: Patrick Leroux

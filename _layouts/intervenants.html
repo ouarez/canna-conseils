@@ -12,6 +12,12 @@ layout: default
         <div class="dib w-100 w-30-l pr4 mb3 mb0-l">
       	  <img class="intervenant mb3" src="{{intervenant.image}}" alt="{{intervenant.name}}"/>
           <span class="db f4 black b mv4 ml2">Conférences:</span>
+          {% for conference in intervenant.conferences %}
+          <div class="bg-green white br4 pv2 ph3 mr4-l">
+            <span class="b">{{conference.name}}</span><br/>
+            <span class="f5">{{conference.date}}</span>
+          </div>
+          {% endfor %}
         </div>
         <div class="dib w-100 w-60-l">
           <span class="db f4 black ttu b mv3">{{intervenant.name}}</span>

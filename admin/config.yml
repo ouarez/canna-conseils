@@ -82,6 +82,12 @@ collections:
               - {label: Photo, name: image, widget: image}
               - {label: Titre/poste, name: job, widget: string}
               - {label: Biographie, name: bio, widget: text}
+              - label: "Conférences"
+                name: "conferences"
+                widget: "list"
+                fields:
+                  - {label: Nom, name: name, widget: string}
+                  - {label: Date, name: date, widget: string}
       - name: "conferences"
         file: "conferences.md"
         label: "Éditer la page Conférences"

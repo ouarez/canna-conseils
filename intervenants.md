@@ -44,6 +44,9 @@ intervenants:
     image: /img/Endo.png
     job: Avocat et membre fondateur du cabinet Endo & Associés
     name: Guillaume Endo
+    conferences:
+      - name: Partez à la conquête de l’Or Vert
+        date: Lundi 24 septembre, 08h30
   - bio: >-
       Jason Moscovici se spécialise en litige de propriété intellectuelle et en
       litige commercial. Il possède une formation juridique et scientifique qui
@@ -126,7 +129,7 @@ intervenants:
       intellectuelle disponible chez Marsh telle que le partage de comparable
       (‘’benchmarking’’), meilleurs practice selon le secteur, assurances
       collectives, plan de continuité d’affaires et cyber protection pour n’en
-      nommer que quelques-unes. 
+      nommer que quelques-unes.
 
 
       https://vimeo.com/287316485
@@ -417,4 +420,3 @@ intervenants:
     job: Président-fondateur de ProfileSoft Inc.
     name: Yves-Marcel Boily
 ---
-

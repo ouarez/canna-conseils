@@ -281,7 +281,7 @@ intervenants:
       de producteurs licencié au Canada.
 
 
-      https://vimeo.com/user88901946/review/287314351/c89aa3c9a2
+      https://vimeo.com/287314351
     image: /img/francis-hebert-min.jpg
     job: 'Président, Consult&Grow'
     name: Francis Hébert

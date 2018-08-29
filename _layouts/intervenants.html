@@ -9,13 +9,18 @@ layout: default
 
     <div class="w-100 w-80-l ph2 hidden" id="hidden-content{{forloop.index}}">
       <div class="container flex flex-wrap">
-        <div class="dib w-100 w-30-l pr4">
-      	  <img class="intervenant" src="{{intervenant.image}}" alt="{{intervenant.name}}"/>
+        <div class="dib w-100 w-30-l pr4 mb3 mb0-l">
+      	  <img class="intervenant mb3" src="{{intervenant.image}}" alt="{{intervenant.name}}"/>
+          <span class="db f4 black b mv4 ml2">Conférences:</span>
+          <div class="bg-green white br4 pv2 ph3 mr4-l">
+            <span class="b">Partez à la conquête de l’Or Vert</span><br/>
+            <span class="f5">Lundi 24 septembre, 08h30</span>
+          </div>
         </div>
         <div class="dib w-100 w-60-l">
           <span class="db f4 black ttu b mv3">{{intervenant.name}}</span>
           <span class="db f5 gray mv2">{{intervenant.job}}</span>
-          <p>{{intervenant.bio}}</p>
+          {{intervenant.bio | markdownify}}
         </div>
       </div>
     </div>

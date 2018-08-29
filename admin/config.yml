@@ -30,6 +30,8 @@ collections:
           - {label: "Jours de l'évènement", name: "event_days", widget: "string"}
           - {label: "Heures de l'évènement", name: "event_time", widget: "string"}
           - {label: "Endroit de l'évènement", name: "event_location", widget: "string"}
+          - {label: "Addresse de l'évènement (ligne 1)", name: "event_address_1", widget: "string"}
+          - {label: "Addresse de l'évènement (ligne 2)", name: "event_address_2", widget: "string"}
           - {label: "Lien évènement", name: "event_link", widget: "string"}
           - {label: "Texte du lien évènement", name: "event_link_text", widget: "string"}
           - {label: "Titre de l'horaire", name: "horaire_title", widget: "string"}

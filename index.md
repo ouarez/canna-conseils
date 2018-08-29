@@ -31,7 +31,7 @@ intro_text: >-
 
   Cet événement va permettre à de nombreux corps de métier de mettre à profit
   leur expertise dans l'industrie émergente du cannabis et d'élargir leur
-  clientèle. 
+  clientèle.
 
 
   Ainsi, que vous soyez professionnels, investisseurs, assureurs, gestionnaires,
@@ -45,7 +45,9 @@ intro_text: >-
 event_title: La Semaine du Cannabis
 event_days: Lundi 24 Sept. - Samedi 29 Sept.
 event_time: '08:00 - 18:00'
-event_location: 'Novotel Montréal Centre, 1180 Rue de la Montagne'
+event_location: Novotel Montréal Centre
+event_address_1: 1180 Rue de la Montagne
+event_address_2: Montreal, QC H3G 1Z1
 event_link: /inscriptions
 event_link_text: Inscription
 horaire_title: Programme de la journée
@@ -75,4 +77,3 @@ reservation_box_2:
   subtext: Accès illimité
   title: Or
 ---
-

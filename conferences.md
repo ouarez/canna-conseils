@@ -196,6 +196,9 @@ schedules:
       - days: 'Présent le 24, 25, 26, et 27'
         image: /img/stéphane-maurais.jpg
         name: Stéphane Maurais
+      - days: Présent le 28 et le 29
+        image: /img/photo-maheep-dhillon.jpg
+        name: Maheep Dhillon
     time: 13h30 - 14h00
     title: Les vertus thérapeutiques du cannabis
   - desc: >-

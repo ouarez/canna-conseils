@@ -130,6 +130,7 @@ intervenants:
       l’industrie du cannabis. Il accompagne les entrepreneurs dans leurs
       démarches administratives mais aussi dans celles relatives au financement
       et aux partenariats stratégiques d’affaires.
+    company: Groupe SGF
     conferences:
       - date: 'Présent le 26, 27, 28 et 29'
         name: >-

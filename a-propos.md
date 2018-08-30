@@ -80,5 +80,8 @@ facts:
   - desc: MILLIARDS DE DOLLARS DE CHIFFRE D'AFFAIRES EN 2026
     icon: fas fa-dollar-sign
     number: '50'
+  - desc: MILLIARDS DE DOLLARS DE CHIFFRE D'AFFAIRES EN 2026
+    icon: fas fa-dollar-sign
+    number: '50'
 ---
 

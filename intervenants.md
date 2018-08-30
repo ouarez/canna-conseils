@@ -41,10 +41,17 @@ intervenants:
 
 
       Il a été admis au Barreau du Québec en 2001.
-    conferences: []
+    conferences:
+      - date: >-
+          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
+          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+        name: >-
+          Partez à la conquête de l'Or Vert et profitez de cette économie
+          émergente
     image: /img/Endo.png
     job: Avocat et membre fondateur du cabinet Endo & Associés
     name: Guillaume Endo
+    video: ''
   - bio: >-
       Jason Moscovici se spécialise en litige de propriété intellectuelle et en
       litige commercial. Il possède une formation juridique et scientifique qui
@@ -409,6 +416,11 @@ intervenants:
       relationnel efficace afin d’établir les assises de l’industrie
       canna-touristique en regroupant tous les acteurs(actrices) actuels(les) et
       futurs(es) autour de valeurs de perpétuité et de développement durable.
+    conferences:
+      - date: >-
+          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
+          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+        name: Découvrez les opportunités du canna-tourisme
     image: /img/alexis-turcotte-1-min.jpg
     job: Fondateur de Montréal 420 Tours
     name: Alexis Turcotte-Noël

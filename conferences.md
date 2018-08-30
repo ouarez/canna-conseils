@@ -39,7 +39,7 @@ schedules:
       - days: Présent tous les jours
         image: /img/Endo.png
         name: Guillaume Endo
-      - days: 'Présent le mercredi, le jeudi, le vendredi et le samedi'
+      - days: 'Présent le 26, 27, 28 et 29'
         image: /img/maxime_guerin-4-min.png
         name: Maxime Guérin
     time: 8h30 - 9h30

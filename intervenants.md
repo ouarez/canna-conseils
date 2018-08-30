@@ -386,6 +386,11 @@ intervenants:
       Finalement, il mettra sur le marché le 17 octobre prochai le cannabis
       verdict, un test de dépistage salivaire unique qui permettra aux
       consommateurs de savoir s’il dépasse la limite légale.
+    conferences:
+      - date: >-
+          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
+          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+        name: Les vertus thérapeutiques du cannabis
     image: /img/stéphane-maurais.jpg
     job: 'Directeur général, Alco Prévention Canada'
     name: Stéphane Maurais

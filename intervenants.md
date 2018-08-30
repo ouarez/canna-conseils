@@ -129,9 +129,7 @@ intervenants:
       démarches administratives mais aussi dans celles relatives au financement
       et aux partenariats stratégiques d’affaires.
     conferences:
-      - date: >-
-          Mercredi 26 septembre, Jeudi 27 septembre, Vendredi 28 septembre,
-          Samedi 29 septembre
+      - date: 'Présent le 26, 27, 28 et 29'
         name: >-
           Partez à la conquête de l'Or Vert et profitez de cette économie
           émergente
@@ -151,9 +149,7 @@ intervenants:
       collectives, plan de continuité d’affaires et cyber protection pour n’en
       nommer que quelques-unes.
     conferences:
-      - date: >-
-          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
-          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+      - date: Présent tous les jours
         name: Assurances et sources de financement
     image: /img/patrick-leroux-1-min.jpg
     job: Administrateur délégué - Marsh
@@ -178,9 +174,7 @@ intervenants:
       2008, il enseigne Savoir convaincre : confrontation et persuasion à
       l’Université de Sherbrooke.
     conferences:
-      - date: >-
-          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
-          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+      - date: Présent tous les jours
         name: >-
           S'approvisionner, distribuer et communiquer: les étapes clés pour
           connaître un canna-succès
@@ -219,9 +213,7 @@ intervenants:
       Découvrez lors de la semaine du Cannabis, comment il peut incorporer ce
       secteur à votre Portefeuille.
     conferences:
-      - date: >-
-          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
-          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+      - date: Présent tous les jours
         name: >-
           Quand la feuille de cannabis remplace la feuille d'érable, les actions
           montent en flèche
@@ -278,6 +270,13 @@ intervenants:
 
       Il est titulaire de deux diplômes en commerce et en philosophie de
       l'Université Queen's, au Canada.
+    conferences:
+      - date: Lundi 24 septembre
+        name: >-
+          Conférence spéciale (en anglais) - L'émergence de marchés
+          internationaux, l'importance des marques et l'implication globale des
+          entreprises canadiennes de cannabis et des entrepreneurs qui
+          envisagent de s'implanter dans cette industrie
     image: /img/nick-pateras-min.png
     job: 'Vice-président du développement, Lift & Co'
     name: Nick Pateras
@@ -315,9 +314,7 @@ intervenants:
       cette industrie au quotidien est, selon elle, un privilège qui ne demande
       qu'à être partagé.
     conferences:
-      - date: >-
-          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
-          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+      - date: Présente tous les jours
         name: 'Produits dérivés: le cannabis sous toutes ses formes'
     image: /img/karine-min.jpg
     job: Présidente et co-fondatrice de Hush Kush

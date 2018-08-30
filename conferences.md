@@ -42,6 +42,8 @@ schedules:
       - days: 'Présent le 26, 27, 28 et 29'
         image: /img/maxime_guerin-4-min.png
         name: Maxime Guérin
+      - image: /img/jason-moscovici-min.jpg
+        name: Jason Moscovici
     time: 8h30 - 9h30
     title: Partez à la conquête de l’Or Vert et profitez de cette économie émergente
   - desc: >-

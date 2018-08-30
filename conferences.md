@@ -68,6 +68,10 @@ schedules:
       * Comment les municipalités peuvent-elles attirer des investisseurs ?
 
       * Le rôle d’une audit lors de la démarche de lancement
+    intervenants:
+      - days: Présent tous les jours
+        image: /img/patrick-leroux-1-min.jpg
+        name: Patrick Leroux
     time: 9h30 - 10h30
     title: 'Assurances et sources de financement '
   - time: 10h30 - 10h45

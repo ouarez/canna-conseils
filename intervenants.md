@@ -298,12 +298,10 @@ intervenants:
       des plus grandes expertises en matiere d'extraction de cannabinoides.
       Consult&Grow est également responsable pour l'acceptation de 20 licences
       de producteurs licencié au Canada.
-
-
-      https://vimeo.com/287314351
     image: /img/francis-hebert-min.jpg
     job: 'Président, Consult&Grow'
     name: Francis Hébert
+    video: 'https://vimeo.com/287314351'
   - bio: >-
       Enrôlé comme soldat d'infanterie pour les Forces armées canadiennes,
       l'expérience d'Alexander Main sur le champ de bataille l'a changé pour

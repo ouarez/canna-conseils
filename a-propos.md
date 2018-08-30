@@ -36,7 +36,7 @@ thematiques_text: >-
   aborder les sujets suivants:
 thematiques:
   - icon: fas fa-spa
-    text: Avantages et Inconvénients d'une culture intérieure et extérieure.
+    text: Avantages et Inconvénients d'une culture intérieure et extérieure
     title: Culture et micro-culture
   - icon: fas fa-wrench
     text: Le choix des équipements
@@ -54,7 +54,7 @@ thematiques:
     text: Investir sur le marché du cannabis
     title: Investissement
   - icon: fas fa-cannabis
-    text: 'Chocolats, gâteaux, crèmes, huiles, briquets, pipes etc.'
+    text: 'Confiseries, pâtisseries, cosmétiques, accessoires, etc.'
     title: Produits dérivés
   - icon: fas fa-plane-departure
     text: Une nouvelle expérience des plus attractives

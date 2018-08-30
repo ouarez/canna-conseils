@@ -39,6 +39,9 @@ schedules:
       - days: Présent tous les jours
         image: /img/Endo.png
         name: Guillaume Endo
+      - days: 'Présent le mercredi, le jeudi, le vendredi et le samedi'
+        image: /img/maxime_guerin-4-min.png
+        name: Maxime Guérin
     time: 8h30 - 9h30
     title: Partez à la conquête de l’Or Vert et profitez de cette économie émergente
   - desc: >-

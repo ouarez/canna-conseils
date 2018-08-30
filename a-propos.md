@@ -36,34 +36,34 @@ thematiques_text: >-
   aborder les sujets suivants:
 thematiques:
   - icon: fas fa-spa
-    text: Avantages et Inconvénients d'une culture intérieure et extérieure
+    text: ''
     title: Culture et micro-culture
   - icon: fas fa-wrench
-    text: Le choix des équipements
+    text: ''
     title: Équipement
   - icon: fas fa-gavel
-    text: Les phénomènes légaux imprévus
+    text: ''
     title: Droit
   - icon: fas fa-boxes
-    text: Du marché noir au marché légal
+    text: ''
     title: Approvisionnement
   - icon: fas fa-lock
-    text: Les nouvelles normes
+    text: ''
     title: Sécurité
   - icon: fas fa-chart-line
-    text: Investir sur le marché du cannabis
+    text: ''
     title: Investissement
   - icon: fas fa-cannabis
-    text: 'Confiseries, pâtisseries, cosmétiques et accessoires'
+    text: ''
     title: Produits dérivés
   - icon: fas fa-plane-departure
-    text: Une nouvelle expérience des plus attractives
+    text: ''
     title: Tourisme
   - icon: fas fa-briefcase-medical
-    text: Les vertus thérapeutiques
+    text: ''
     title: Santé
   - icon: fas fa-briefcase
-    text: Plans de carrière et formations
+    text: ''
     title: Emploi
 facts_title: CHIFFRES CLÉS
 facts_bg: /img/bg-facts.png

@@ -110,6 +110,10 @@ intervenants:
 
 
       Jason Moscovici est membre du comité des sciences de la vie de Robic.
+    conferences:
+      - name: >-
+          Partez à la conquête de l'Or Vert et profitez de cette économie
+          émergente
     image: /img/jason-moscovici-min.jpg
     job: 'Avocat et biochimiste, Robic'
     name: Jason Moscovici
@@ -424,9 +428,7 @@ intervenants:
       verdict, un test de dépistage salivaire unique qui permettra aux
       consommateurs de savoir s’il dépasse la limite légale.
     conferences:
-      - date: >-
-          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
-          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+      - date: 'Présent le 24, 25, 26 et 27'
         name: Les vertus thérapeutiques du cannabis
     image: /img/stéphane-maurais.jpg
     job: 'Directeur général, Alco Prévention Canada'
@@ -447,9 +449,7 @@ intervenants:
       canna-touristique en regroupant tous les acteurs(actrices) actuels(les) et
       futurs(es) autour de valeurs de perpétuité et de développement durable.
     conferences:
-      - date: >-
-          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
-          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+      - date: Présent tous les jours
         name: Découvrez les opportunités du canna-tourisme
     image: /img/alexis-turcotte-1-min.jpg
     job: Fondateur de Montréal 420 Tours
@@ -467,9 +467,7 @@ intervenants:
       perfectionnement, de réaffectation et choix de nouvelles carrières
       professionnelles.
     conferences:
-      - date: >-
-          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
-          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+      - date: Présent tous les jours
         name: 'Le cannabis: remède contre le chômage'
     image: /img/marcel-boily.png
     job: Président-fondateur de ProfileSoft Inc.

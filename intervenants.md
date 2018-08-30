@@ -115,7 +115,7 @@ intervenants:
     image: /img/jason-moscovici-min.jpg
     job: 'Avocat et biochimiste, Robic'
     name: Jason Moscovici
-    video: 'https://vimeo.com/287314980'
+    video: 'https://vimeo.com/287499042'
   - bio: >-
       Maxime Guérin est associé de la firme Sarailis Avocats et est responsable
       du département du cabinet en droit du travail et de l&#39;emploi et exerce
@@ -130,7 +130,6 @@ intervenants:
       l’industrie du cannabis. Il accompagne les entrepreneurs dans leurs
       démarches administratives mais aussi dans celles relatives au financement
       et aux partenariats stratégiques d’affaires.
-    company: Groupe SGF
     conferences:
       - date: 'Présent le 26, 27, 28 et 29'
         name: >-

@@ -150,6 +150,11 @@ intervenants:
       (‘’benchmarking’’), meilleurs practice selon le secteur, assurances
       collectives, plan de continuité d’affaires et cyber protection pour n’en
       nommer que quelques-unes.
+    conferences:
+      - date: >-
+          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
+          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+        name: Assurances et sources de financement
     image: /img/patrick-leroux-1-min.jpg
     job: Administrateur délégué - Marsh
     name: Patrick Leroux
@@ -172,6 +177,13 @@ intervenants:
       l’UQAM et d’un DESS en communication marketing de HEC Montréal. Depuis
       2008, il enseigne Savoir convaincre : confrontation et persuasion à
       l’Université de Sherbrooke.
+    conferences:
+      - date: >-
+          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
+          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+        name: >-
+          S'approvisionner, distribuer et communiquer: les étapes clés pour
+          connaître un canna-succès
     image: /img/smailhiot_side_low.jpg
     job: 'Vice-président principal, stratégie de marque - Havas'
     name: Stéphane Mailhiot
@@ -206,6 +218,13 @@ intervenants:
 
       Découvrez lors de la semaine du Cannabis, comment il peut incorporer ce
       secteur à votre Portefeuille.
+    conferences:
+      - date: >-
+          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
+          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+        name: >-
+          Quand la feuille de cannabis remplace la feuille d'érable, les actions
+          montent en flèche
     image: /img/marc-antoine-chaput.jpeg
     job: Conseiller en planification financière - Groupe Investors
     name: Marc-Antoine Chaput
@@ -295,6 +314,11 @@ intervenants:
       opportunité qu'offrait ce nouveau marché et contribuer à l'implantation de
       cette industrie au quotidien est, selon elle, un privilège qui ne demande
       qu'à être partagé.
+    conferences:
+      - date: >-
+          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
+          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+        name: 'Produits dérivés: le cannabis sous toutes ses formes'
     image: /img/karine-min.jpg
     job: Présidente et co-fondatrice de Hush Kush
     name: Karine Clément
@@ -309,6 +333,11 @@ intervenants:
       des plus grandes expertises en matiere d'extraction de cannabinoides.
       Consult&Grow est également responsable pour l'acceptation de 20 licences
       de producteurs licencié au Canada.
+    conferences:
+      - date: >-
+          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
+          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+        name: 'Produits dérivés: le cannabis sous toutes ses formes'
     image: /img/francis-hebert-min.jpg
     job: 'Président, Consult&Grow'
     name: Francis Hébert
@@ -321,6 +350,11 @@ intervenants:
       problèmes physiques et psychologiques. C'est alors qu'il a pris part au
       programme de compassion pour Vétérans, programme qui aide les vétérans a
       changer leurs medications au cannabis.
+    conferences:
+      - date: >-
+          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
+          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+        name: 'Produits dérivés: le cannabis sous toutes ses formes'
     image: /img/alexander-main-min.jpg
     job: 'Responsable affaires Vétérans, Consult&Grow'
     name: Alexander Main
@@ -335,6 +369,9 @@ intervenants:
       l'Université McGill. Au cours des quinze dernières années, elle a cultivé,
       perfectionné et lancé une longue liste de produits cosmétiques pour des
       marques bien connues en Europe, aux Etats-Unis, en Russie et en Chine.
+    conferences:
+      - date: 'Lundi 24 septembre, Samedi 29 septembre'
+        name: 'Produits dérivés: le cannabis sous toutes ses formes'
     image: /img/angela-mustone.png
     job: Présidente de HighonLove
     name: Angela Mustone
@@ -436,6 +473,11 @@ intervenants:
       professionnel pour identifier les besoins de formation et de
       perfectionnement, de réaffectation et choix de nouvelles carrières
       professionnelles.
+    conferences:
+      - date: >-
+          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
+          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+        name: 'Le cannabis: remède contre le chômage'
     image: /img/marcel-boily.png
     job: Président-fondateur de ProfileSoft Inc.
     name: Yves-Marcel Boily

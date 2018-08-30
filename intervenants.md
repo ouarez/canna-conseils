@@ -385,6 +385,7 @@ intervenants:
     image: /img/stéphane-maurais.jpg
     job: 'Directeur général, Alco Prévention Canada'
     name: Stéphane Maurais
+    video: 'https://vimeo.com/287317392'
   - bio: >-
       En démarrant Montréal 420 Tours, une entreprise facilitant la relation
       entre la clientèle canna-touristique, le gouvernement et l’industrie
@@ -402,6 +403,7 @@ intervenants:
     image: /img/alexis-turcotte-1-min.jpg
     job: Fondateur de Montréal 420 Tours
     name: Alexis Turcotte-Noël
+    video: 'https://vimeo.com/287314628'
   - bio: >-
       Détenteur d’un doctorat en changement social, d’une maîtrise en
       administration des affaires (MBA) et d’un baccalauréat en sciences
@@ -416,5 +418,6 @@ intervenants:
     image: /img/marcel-boily.png
     job: Président-fondateur de ProfileSoft Inc.
     name: Yves-Marcel Boily
+    video: 'https://vimeo.com/287318411'
 ---
 

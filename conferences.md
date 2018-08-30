@@ -137,7 +137,7 @@ schedules:
       * Les fonds d’investissements rentables sur le marché du cannabis
     intervenants:
       - days: Présent tous les jours
-        image: /img/marc-antoine-chaput-min.jpg
+        image: /img/marc-antoine-chaput.jpeg
         name: Marc-Antoine Chaput
     time: 11h15 - 11h45
     title: >-

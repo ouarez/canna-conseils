@@ -283,7 +283,7 @@ intervenants:
     conferences:
       - date: Lundi 24 septembre
         name: >-
-          Conférence spéciale (en anglais) - L'émergence de marchés
+          Conférence spéciale (en anglais) - L'émergence des marchés
           internationaux, l'importance des marques et l'implication globale des
           entreprises canadiennes de cannabis et des entrepreneurs qui
           envisagent de s'implanter dans cette industrie

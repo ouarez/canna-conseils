@@ -112,7 +112,7 @@ schedules:
     intervenants:
       - days: Présent tous les jours
         image: /img/smailhiot_side_low-min.jpg
-        name: Stéphane Mailhiot - Havas
+        name: Stéphane Mailhiot (Havas)
     time: 10h45 - 11h15
     title: >-
       S’approvisionner, distribuer et communiquer : les étapes clés pour

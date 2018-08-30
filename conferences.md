@@ -193,6 +193,10 @@ schedules:
       * Traitement contre l’épilepsie
 
       * Santé et prévention
+    intervenants:
+      - days: 'Présent le 24, 25, 26, et 27'
+        image: /img/stéphane-maurais.jpg
+        name: Stéphane Maurais
     time: 13h30 - 14h00
     title: Les vertus thérapeutiques du cannabis
   - desc: >-
@@ -213,6 +217,10 @@ schedules:
       * Les centres de villégiature s'adaptent
 
       * Les nouveaux circuits touristiques
+    intervenants:
+      - days: Présent tous les jours
+        image: /img/alexis-turcotte-1-min.jpg
+        name: Alexis Turcotte-Noël
     time: 14h00 - 15h00
     title: Découvrez les opportunités du canna-tourisme
   - desc: >-
@@ -229,6 +237,10 @@ schedules:
       * Le plan de carrière
 
       * L’expérience professionnelle du marché noir : un atout ?
+    intervenants:
+      - days: Présent tous les jours
+        image: /img/marcel-boily.png
+        name: Yves-Marcel Boily
     time: 15h00 - 16h00
     title: 'Le cannabis : remède contre le chômage ?'
   - desc: >-

@@ -121,9 +121,6 @@ intervenants:
       l’industrie du cannabis. Il accompagne les entrepreneurs dans leurs
       démarches administratives mais aussi dans celles relatives au financement
       et aux partenariats stratégiques d’affaires.
-
-
-      https://vimeo.com/287315989
     conferences:
       - date: Mercredi 26 septembre
         name: >-

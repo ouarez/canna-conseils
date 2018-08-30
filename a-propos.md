@@ -30,7 +30,7 @@ intro_text: >-
   consommation du Cannabis Récréatif soit légalisée… !
 thematiques_title: Nos thématiques
 thematiques_text: >-
-  Tous ces thèmes seront développés durant nos colloques et vous permettront à
+  Tous ces thèmes seront développés durant nos conférences et vous permettront à
   vous aussi d’offrir votre expertise à l’industrie du cannabis. Canna-Conseils
   et ses conférenciers vous donnent donc rendez-vous du 24 au 29 septembre pour
   aborder les sujets suivants:

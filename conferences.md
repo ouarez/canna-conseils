@@ -35,7 +35,12 @@ schedules:
       * Les formations nécessaires
 
       * La reconversion des producteurs de fruits et légumes
-    intervenants: []
+    intervenants:
+      - days: >-
+          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
+          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+        image: /img/Endo.png
+        name: Guillaume Endo
     time: 8h30 - 9h30
     title: Partez à la conquête de l’Or Vert et profitez de cette économie émergente
   - desc: >-

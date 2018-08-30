@@ -310,12 +310,10 @@ intervenants:
       problèmes physiques et psychologiques. C'est alors qu'il a pris part au
       programme de compassion pour Vétérans, programme qui aide les vétérans a
       changer leurs medications au cannabis.
-
-
-      https://vimeo.com/287313858
     image: /img/alexander-main-min.jpg
     job: 'Responsable affaires Vétérans, Consult&Grow'
     name: Alexander Main
+    video: 'https://vimeo.com/287313858'
   - bio: >-
       Angela Mustone est à l'origine de Produits Amour et Beauté, une
       prestigieuse compagnie canadienne de cosmétiques. Actuellement,

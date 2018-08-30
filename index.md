@@ -16,10 +16,10 @@ intro_text: >-
   l’industrie la plus prometteuse de notre décennie. Les participants auront
   donc l’opportunité d’étudier un large éventail de sujets tels que la culture,
   l'approvisionnement, la distribution, la communication, les produits dérivés,
-  les financements & investissements, la santeé, le tourisme, l'emploi et plus
+  les financements & investissements, la santé, le tourisme, l'emploi et plus
   encore. La diversité des thèmes abordés par nos conférenciers fait la force de
   nos formations et nous autorise ainsi à étudier ce marché à forte valeur
-  ajouté dans sa globalité.
+  ajoutée dans sa globalité.
 
 
   A l’aide d’experts confirmés, les participants apprendront à développer un
@@ -47,7 +47,7 @@ event_days: Lundi 24 Sept. - Samedi 29 Sept.
 event_time: '08:00 - 18:00'
 event_location: Novotel Montréal Centre
 event_address_1: 1180 Rue de la Montagne
-event_address_2: Montreal, QC H3G 1Z1
+event_address_2: 'Montreal, QC H3G 1Z1'
 event_link: /inscriptions
 event_link_text: Inscription
 horaire_title: Programme de la journée
@@ -77,3 +77,4 @@ reservation_box_2:
   subtext: Accès illimité
   title: Or
 ---
+

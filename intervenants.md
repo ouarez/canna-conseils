@@ -331,9 +331,7 @@ intervenants:
       Consult&Grow est également responsable pour l'acceptation de 20 licences
       de producteurs licencié au Canada.
     conferences:
-      - date: >-
-          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
-          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+      - date: Présent tous les jours
         name: 'Produits dérivés: le cannabis sous toutes ses formes'
     image: /img/francis-hebert-min.jpg
     job: 'Président, Consult&Grow'
@@ -348,9 +346,7 @@ intervenants:
       programme de compassion pour Vétérans, programme qui aide les vétérans a
       changer leurs medications au cannabis.
     conferences:
-      - date: >-
-          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
-          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+      - date: Présent tous les jours
         name: 'Produits dérivés: le cannabis sous toutes ses formes'
     image: /img/alexander-main-min.jpg
     job: 'Responsable affaires Vétérans, Consult&Grow'
@@ -367,7 +363,7 @@ intervenants:
       perfectionné et lancé une longue liste de produits cosmétiques pour des
       marques bien connues en Europe, aux Etats-Unis, en Russie et en Chine.
     conferences:
-      - date: 'Lundi 24 septembre, Samedi 29 septembre'
+      - date: Présente le 24 et le 29
         name: 'Produits dérivés: le cannabis sous toutes ses formes'
     image: /img/angela-mustone.png
     job: Présidente de HighonLove

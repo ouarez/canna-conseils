@@ -139,12 +139,10 @@ intervenants:
       (‘’benchmarking’’), meilleurs practice selon le secteur, assurances
       collectives, plan de continuité d’affaires et cyber protection pour n’en
       nommer que quelques-unes.
-
-
-      https://vimeo.com/287316485
     image: /img/patrick-leroux-1-min.jpg
     job: Administrateur délégué - Marsh
     name: Patrick Leroux
+    video: 'https://vimeo.com/287316485'
   - bio: >-
       À titre de vice-président principal, stratégie de marque, Stéphane
       Mailhiot pilote la planification stratégique de Havas Montréal. Avec son

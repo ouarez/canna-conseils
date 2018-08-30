@@ -133,6 +133,10 @@ schedules:
       * La pondération du secteur du cannabis dans le patrimoine des clients
 
       * Les fonds d’investissements rentables sur le marché du cannabis
+    intervenants:
+      - days: Présent tous les jours
+        image: /img/marc-antoine-chaput-min.jpg
+        name: Marc-Antoine Chaput
     time: 11h15 - 11h45
     title: >-
       Quand la feuille de cannabis remplace la feuille d’érable, les actions
@@ -154,6 +158,19 @@ schedules:
       * De nouveaux horizons en cosmétiques : crèmes, lotions et maquillage
 
       * Des niches pour tous les accessoires
+    intervenants:
+      - days: Présent tous les jours
+        image: /img/alexander-main-min.jpg
+        name: Alexander Main
+      - days: Présent tous les jours
+        image: /img/francis-hebert-min.jpg
+        name: Francis Hébert
+      - days: Présente tous les jours
+        image: /img/karine-min.jpg
+        name: Karine Clément
+      - days: Présente le 24 et le 29
+        image: /img/angela-mustone.png
+        name: Angela Mustone
     time: 11h45 - 12h15
     title: 'Produits dérivés : le cannabis sous toutes ses formes'
   - time: 12h15 - 13h30

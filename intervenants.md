@@ -123,8 +123,8 @@ intervenants:
       et aux partenariats stratégiques d’affaires.
     conferences:
       - date: >-
-          Mercredi 26 septembre           Jeudi 27 septembre       Vendredi 28
-          septembre      Samedi 29 septembre
+          Mercredi 26 septembre, Jeudi 27 septembre, Vendredi 28 septembre,
+          Samedi 29 septembre
         name: >-
           Partez à la conquête de l'Or Vert et profitez de cette économie
           émergente

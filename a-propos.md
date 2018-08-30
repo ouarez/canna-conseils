@@ -3,7 +3,7 @@ layout: a-propos
 title: À propos
 description: Prenez une longueur d'avance dans l'industrie du cannabis
 slogan1: À propos de Canna-Conseils
-slogan2: Notre vision du marché
+slogan2: ''
 cover_image: /img/bg-page.jpg
 intro_title: Qui sommes-nous ?
 intro_text: >-

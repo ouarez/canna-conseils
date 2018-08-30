@@ -40,7 +40,7 @@ schedules:
         image: /img/Endo.png
         name: Guillaume Endo
       - days: 'Présent le 26, 27, 28 et 29'
-        image: /img/maxime_guerin-4-min.png
+        image: /img/maxime-guerin.png
         name: Maxime Guérin
       - image: /img/jason-moscovici-min.jpg
         name: Jason Moscovici

@@ -124,6 +124,23 @@ intervenants:
 
 
       https://vimeo.com/287315989
+    conferences:
+      - date: Mercredi 26 septembre
+        name: >-
+          Partez à la conquête de l'Or Vert et profitez de cette économie
+          émergente
+      - date: Jeudi 27 septembre
+        name: >-
+          Partez à la conquête de l'Or Vert et profitez de cette économie
+          émergente
+      - date: Vendredi 28 septembre
+        name: >-
+          Partez à la conquête de l'Or Vert et profitez de cette économie
+          émergente
+      - date: Samedi 29 septembre
+        name: >-
+          Partez à la conquête de l'Or Vert et profitez de cette économie
+          émergente
     image: /img/maxime-guerin.png
     job: 'Avocat et Consultant en cannabis, Groupe SGF '
     name: Maxime Guérin

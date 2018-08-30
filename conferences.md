@@ -2,9 +2,8 @@
 layout: conferences
 title: Accueil
 description: Prenez une longueur d'avance dans l'industrie du cannabis
-slogan1: >-
-  La Semaine du Cannabis - Prenez une longueur d'avance dans l'industrie du
-  cannabis
+slogan1: La Semaine du Cannabis
+slogan2: Prenez une longueur d'avance dans l'industrie du cannabis
 cover_image: /img/bg-page.jpg
 schedules:
   - time: 8h00 - 8h30

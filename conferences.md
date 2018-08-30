@@ -111,7 +111,7 @@ schedules:
       * Les tactiques de pointe de marketing dans l’industrie du cannabis
     intervenants:
       - days: Présent tous les jours
-        image: /img/smailhiot_side_low-min.jpg
+        image: /img/smailhiot_side_low.jpg
         name: Stéphane Mailhiot
     time: 10h45 - 11h15
     title: >-

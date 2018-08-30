@@ -138,7 +138,8 @@ intervenants:
           Partez à la conquête de l'Or Vert et profitez de cette économie
           émergente
     image: /img/maxime-guerin.png
-    job: 'Avocat et Consultant en cannabis, Groupe SGF '
+    job: 'Avocat et Consultant en cannabis '
+    company: Groupe SGF
     name: Maxime Guérin
     video: 'https://vimeo.com/287315989'
   - bio: >-
@@ -474,4 +475,3 @@ intervenants:
     name: Yves-Marcel Boily
     video: 'https://vimeo.com/287318411'
 ---
-

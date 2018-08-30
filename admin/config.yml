@@ -81,6 +81,7 @@ collections:
               - {label: Nom, name: name, widget: string}
               - {label: Photo, name: image, widget: image}
               - {label: Titre/poste, name: job, widget: string}
+              - {label: Compagnie/Entreprise, name: company, widget: string}
               - {label: Lien vers vidéo, name: video, widget: string}
               - label: "Conférences"
                 name: "conferences"

@@ -122,19 +122,9 @@ intervenants:
       démarches administratives mais aussi dans celles relatives au financement
       et aux partenariats stratégiques d’affaires.
     conferences:
-      - date: Mercredi 26 septembre
-        name: >-
-          Partez à la conquête de l'Or Vert et profitez de cette économie
-          émergente
-      - date: Jeudi 27 septembre
-        name: >-
-          Partez à la conquête de l'Or Vert et profitez de cette économie
-          émergente
-      - date: Vendredi 28 septembre
-        name: >-
-          Partez à la conquête de l'Or Vert et profitez de cette économie
-          émergente
-      - date: Samedi 29 septembre
+      - date: >-
+          Mercredi 26 septembre, Jeudi 27 septembre, Vendredi 28 septembre,
+          Samedi 29 septembre
         name: >-
           Partez à la conquête de l'Or Vert et profitez de cette économie
           émergente

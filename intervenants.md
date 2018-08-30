@@ -161,12 +161,10 @@ intervenants:
       l’UQAM et d’un DESS en communication marketing de HEC Montréal. Depuis
       2008, il enseigne Savoir convaincre : confrontation et persuasion à
       l’Université de Sherbrooke.
-
-
-      https://vimeo.com/287316855
     image: /img/smailhiot_side_low.jpg
     job: 'Vice-président principal, stratégie de marque - Havas'
     name: Stéphane Mailhiot
+    video: 'https://vimeo.com/287316855'
   - bio: >-
       Marc-Antoine est un conseiller en planification financière au sein du
       Groupe Investors. Il est un professionnel des finances personnelles, un

@@ -36,9 +36,7 @@ schedules:
 
       * La reconversion des producteurs de fruits et légumes
     intervenants:
-      - days: >-
-          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
-          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+      - days: Présent tous les jours
         image: /img/Endo.png
         name: Guillaume Endo
     time: 8h30 - 9h30

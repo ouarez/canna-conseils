@@ -41,13 +41,14 @@ intervenants:
 
 
       Il a été admis au Barreau du Québec en 2001.
+    company: Endo & Associés
     conferences:
       - date: Présent tous les jours
         name: >-
           Partez à la conquête de l'Or Vert et profitez de cette économie
           émergente
     image: /img/Endo.png
-    job: Avocat et membre fondateur du cabinet Endo & Associés
+    job: Avocat et membre fondateur du cabinet
     name: Guillaume Endo
     video: ''
   - bio: >-
@@ -108,12 +109,13 @@ intervenants:
 
 
       Jason Moscovici est membre du comité des sciences de la vie de Robic.
+    company: Robic
     conferences:
       - name: >-
           Partez à la conquête de l'Or Vert et profitez de cette économie
           émergente
     image: /img/jason-moscovici-min.jpg
-    job: 'Avocat et biochimiste, Robic'
+    job: Avocat et biochimiste
     name: Jason Moscovici
     video: 'https://vimeo.com/287499042'
   - bio: >-
@@ -130,6 +132,7 @@ intervenants:
       l’industrie du cannabis. Il accompagne les entrepreneurs dans leurs
       démarches administratives mais aussi dans celles relatives au financement
       et aux partenariats stratégiques d’affaires.
+    company: Saraïlis Avocats
     conferences:
       - date: 'Présent le 26, 27, 28 et 29'
         name: >-
@@ -150,11 +153,12 @@ intervenants:
       (‘’benchmarking’’), meilleurs practice selon le secteur, assurances
       collectives, plan de continuité d’affaires et cyber protection pour n’en
       nommer que quelques-unes.
+    company: Marsh
     conferences:
       - date: Présent tous les jours
         name: Assurances et sources de financement
     image: /img/patrick-leroux-1-min.jpg
-    job: Administrateur délégué - Marsh
+    job: Administrateur délégué
     name: Patrick Leroux
     video: 'https://vimeo.com/287316485'
   - bio: >-
@@ -175,13 +179,14 @@ intervenants:
       l’UQAM et d’un DESS en communication marketing de HEC Montréal. Depuis
       2008, il enseigne Savoir convaincre : confrontation et persuasion à
       l’Université de Sherbrooke.
+    company: Havas
     conferences:
       - date: Présent tous les jours
         name: >-
           S'approvisionner, distribuer et communiquer: les étapes clés pour
           connaître un canna-succès
     image: /img/smailhiot_side_low.jpg
-    job: 'Vice-président principal, stratégie de marque - Havas'
+    job: 'Vice-président principal, stratégie de marque'
     name: Stéphane Mailhiot
     video: 'https://vimeo.com/287316855'
   - bio: >-
@@ -214,13 +219,14 @@ intervenants:
 
       Découvrez lors de la semaine du Cannabis, comment il peut incorporer ce
       secteur à votre Portefeuille.
+    company: Groupe Investors
     conferences:
       - date: Présent tous les jours
         name: >-
           Quand la feuille de cannabis remplace la feuille d'érable, les actions
           montent en flèche
     image: /img/marc-antoine-chaput.jpeg
-    job: Conseiller en planification financière - Groupe Investors
+    job: Conseiller en planification financière
     name: Marc-Antoine Chaput
     video: 'https://vimeo.com/287315768'
   - bio: >-
@@ -253,8 +259,9 @@ intervenants:
       School of International Affairs de la Graduate School de l'Université de
       Pittsburgh en 1988. Il a obtenu son baccalauréat de l'Université Western
       Ontario en 1986.
+    company: Faircourt Asset Management Inc.
     image: /img/charles-taerk-hi-res-min.jpg
-    job: Président et chef de la direction - Faircourt Asset Management Inc.
+    job: Président et chef de la direction
     name: Charles Taerk
   - bio: >-
       Nick Pateras est vice-président du développement chez Lift & Co, la plus
@@ -272,6 +279,7 @@ intervenants:
 
       Il est titulaire de deux diplômes en commerce et en philosophie de
       l'Université Queen's, au Canada.
+    company: Lift & Co
     conferences:
       - date: Lundi 24 septembre
         name: >-
@@ -280,7 +288,7 @@ intervenants:
           entreprises canadiennes de cannabis et des entrepreneurs qui
           envisagent de s'implanter dans cette industrie
     image: /img/nick-pateras-min.png
-    job: 'Vice-président du développement, Lift & Co'
+    job: Vice-président du développement
     name: Nick Pateras
   - bio: >
       Scott Pritchard est le conseiller principal pour le Québec et l'Est du
@@ -298,8 +306,9 @@ intervenants:
       l'Université Queen's, à Kingston, en Ontario. Il est également diplômé de
       l'Université d'Aix-Marseille, le programme français de langue, de
       littérature et d'histoire de troisième cycle.
+    company: Pritchard Network Inc.
     image: /img/Scott Pritchard.jpg
-    job: Président de Pritchard Network Inc.
+    job: Président
     name: Scott Pritchard
   - bio: >-
       Passionnée des défis et du dépassement de soi, Karine Clément est
@@ -315,11 +324,12 @@ intervenants:
       opportunité qu'offrait ce nouveau marché et contribuer à l'implantation de
       cette industrie au quotidien est, selon elle, un privilège qui ne demande
       qu'à être partagé.
+    company: Hush Kush
     conferences:
       - date: Présente tous les jours
         name: 'Produits dérivés: le cannabis sous toutes ses formes'
     image: /img/karine-min.jpg
-    job: Présidente et co-fondatrice de Hush Kush
+    job: Présidente et co-fondatrice
     name: Karine Clément
     video: 'https://vimeo.com/287315328'
   - bio: >-
@@ -332,11 +342,12 @@ intervenants:
       des plus grandes expertises en matiere d'extraction de cannabinoides.
       Consult&Grow est également responsable pour l'acceptation de 20 licences
       de producteurs licencié au Canada.
+    company: Consult&Grow
     conferences:
       - date: Présent tous les jours
         name: 'Produits dérivés: le cannabis sous toutes ses formes'
     image: /img/francis-hebert-min.jpg
-    job: 'Président, Consult&Grow'
+    job: Président
     name: Francis Hébert
     video: 'https://vimeo.com/287314351'
   - bio: >-
@@ -347,11 +358,12 @@ intervenants:
       problèmes physiques et psychologiques. C'est alors qu'il a pris part au
       programme de compassion pour Vétérans, programme qui aide les vétérans a
       changer leurs medications au cannabis.
+    company: Consult&Grow
     conferences:
       - date: Présent tous les jours
         name: 'Produits dérivés: le cannabis sous toutes ses formes'
     image: /img/alexander-main-min.jpg
-    job: 'Responsable affaires Vétérans, Consult&Grow'
+    job: Responsable affaires Vétérans
     name: Alexander Main
     video: 'https://vimeo.com/287313858'
   - bio: >-
@@ -364,11 +376,12 @@ intervenants:
       l'Université McGill. Au cours des quinze dernières années, elle a cultivé,
       perfectionné et lancé une longue liste de produits cosmétiques pour des
       marques bien connues en Europe, aux Etats-Unis, en Russie et en Chine.
+    company: HighonLove
     conferences:
       - date: Présente le 24 et le 29
         name: 'Produits dérivés: le cannabis sous toutes ses formes'
     image: /img/angela-mustone.png
-    job: Présidente de HighonLove
+    job: Présidente
     name: Angela Mustone
   - bio: >-
       Maheep Dhillon possède plus de 10 années d'expérience dans le
@@ -392,8 +405,9 @@ intervenants:
       actuellement sur le développement d’Agro-Biotech au Québec, sur
       l'acquisition d’opportunités, sur la recherche et la production du
       cannabis ainsi que sur la création de propriété intellectuelle.
+    company: Emerald Health Therapeutics Inc.
     image: /img/photo-maheep-dhillon.jpg
-    job: 'Vice-président développement corporatif, Emerald Health Therapeutics Inc.'
+    job: Vice-président développement corporatif
     name: Maheep Dhillon
   - bio: >-
       À 18 ans, alors qu'il vivait à Amsterdam, on lui diagnostiqua un cancer du
@@ -425,11 +439,12 @@ intervenants:
       Finalement, il mettra sur le marché le 17 octobre prochai le cannabis
       verdict, un test de dépistage salivaire unique qui permettra aux
       consommateurs de savoir s’il dépasse la limite légale.
+    company: Alco Prévention Canada
     conferences:
       - date: 'Présent le 24, 25, 26 et 27'
         name: Les vertus thérapeutiques du cannabis
     image: /img/stéphane-maurais.jpg
-    job: 'Directeur général, Alco Prévention Canada'
+    job: Directeur général
     name: Stéphane Maurais
     video: 'https://vimeo.com/287317392'
   - bio: >-
@@ -446,11 +461,12 @@ intervenants:
       relationnel efficace afin d’établir les assises de l’industrie
       canna-touristique en regroupant tous les acteurs(actrices) actuels(les) et
       futurs(es) autour de valeurs de perpétuité et de développement durable.
+    company: Montréal 420 Tours
     conferences:
       - date: Présent tous les jours
         name: Découvrez les opportunités du canna-tourisme
     image: /img/alexis-turcotte-1-min.jpg
-    job: Fondateur de Montréal 420 Tours
+    job: Fondateur
     name: Alexis Turcotte-Noël
     video: 'https://vimeo.com/287314628'
   - bio: >-
@@ -464,11 +480,12 @@ intervenants:
       professionnel pour identifier les besoins de formation et de
       perfectionnement, de réaffectation et choix de nouvelles carrières
       professionnelles.
+    company: ProfileSoft Inc.
     conferences:
       - date: Présent tous les jours
         name: 'Le cannabis: remède contre le chômage'
     image: /img/marcel-boily.png
-    job: Président-fondateur de ProfileSoft Inc.
+    job: Président-fondateur
     name: Yves-Marcel Boily
     video: 'https://vimeo.com/287318411'
 ---

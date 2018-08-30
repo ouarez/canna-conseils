@@ -42,9 +42,7 @@ intervenants:
 
       Il a été admis au Barreau du Québec en 2001.
     conferences:
-      - date: >-
-          Lundi 24 septembre, Mardi 25 septembre, Mercredi 26 septembre, Jeudi
-          27 septembre, Vendredi 28 septembre, Samedi 29 septembre
+      - date: Présent tous les jours
         name: >-
           Partez à la conquête de l'Or Vert et profitez de cette économie
           émergente
@@ -139,7 +137,6 @@ intervenants:
           émergente
     image: /img/maxime-guerin.png
     job: 'Avocat et Consultant en cannabis '
-    company: Groupe SGF
     name: Maxime Guérin
     video: 'https://vimeo.com/287315989'
   - bio: >-
@@ -475,3 +472,4 @@ intervenants:
     name: Yves-Marcel Boily
     video: 'https://vimeo.com/287318411'
 ---
+

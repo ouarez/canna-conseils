@@ -54,7 +54,7 @@ thematiques:
     text: Investir sur le marché du cannabis
     title: Investissement
   - icon: fas fa-cannabis
-    text: 'Confiseries, pâtisseries, cosmétiques, accessoires, etc.'
+    text: 'Confiseries, pâtisseries, cosmétiques et accessoires'
     title: Produits dérivés
   - icon: fas fa-plane-departure
     text: Une nouvelle expérience des plus attractives

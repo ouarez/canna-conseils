@@ -255,4 +255,3 @@ schedules:
   - time: 18h00
     title: Cocktail de Clôture
 ---
-

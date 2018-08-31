@@ -42,7 +42,7 @@ layout: default
 
 <div class="w-100 pv5 cover" style="background-image:url('{{page.facts_bg}}');">
 
-  <div class="ph3 ph5-l flex flex-wrap justify-around">
+  <div class="ph3 ph5-l flex flex-wrap">
 
     <div class="w-100 mb5">
       <h2 class="f1 b ttu mv3 tc white">{{page.facts_title}}</h2>
@@ -51,7 +51,7 @@ layout: default
 
     {% for fact in page.facts %}
 
-    <div class="w-100 w-20-l pr4-l">
+    <div class="w-100 w-25-l pr4-l mt3">
       <i class="f-huge white mr3 {{fact.icon}}"></i>
       <span class="f-huge white ttu b alt-font">{{fact.number}}</span>
       <span class="f4 white ttu b alt-font dib mt2 lh-copy">{{fact.desc}}</span>

@@ -77,6 +77,7 @@ layout: default
                     </div>
                     <div class="ph3 pv2 mt1">
                       <span class="b lh-copy f5">{{intervenant.name}}</span><br/>
+                      <span class="f5">{{intervenant.company}}</span><br/>
                       <span class="f6">{{intervenant.days}}</span>
                     </div>
                   </div>
@@ -113,13 +114,31 @@ layout: default
 
         <div class="w-100 w-80-l ph2 hidden" id="hidden-content{{forloop.index}}">
           <div class="container flex flex-wrap">
-            <div class="dib w-100 w-30-l pr4">
-          	  <img class="intervenant" src="{{intervenant.image}}" alt="{{intervenant.name}}"/>
+            <div class="dib w-100 w-30-l pr4 mb3 mb0-l">
+          	  <img class="intervenant mb3" src="{{intervenant.image}}" alt="{{intervenant.name}}"/>
+              {% unless intervenant.video == '' %}
+              {% if intervenant.video %}
+              <a class="no-underline" target="_blank" href="{{intervenant.video}}" alt="Lien vers la capsule de présentation">
+                <div class="w-90-l mv3 bg-light-gray ph3 pv2 br4 mr4 pointer dt">
+                    <i class="fas fa-play-circle green f2 pr3"></i>
+                    <span class="dtc v-mid blue link f5 ttu alt-font">Capsule de présentation</span>
+                </div>
+              </a>
+              {% endif %}
+              {% endunless %}
+              <span class="db f4 black b mv4 ml2">Conférences:</span>
+              {% for conference in intervenant.conferences %}
+              <div class="bg-green white br4 pv2 ph3 mr4-l">
+                <span class="b">{{conference.name}}</span><br/>
+                <span class="f5">{{conference.date}}</span>
+              </div>
+              {% endfor %}
             </div>
             <div class="dib w-100 w-60-l">
               <span class="db f4 black ttu b mv3">{{intervenant.name}}</span>
               <span class="db f5 gray mv2">{{intervenant.job}}</span>
-              <p>{{intervenant.bio}}</p>
+              <span class="db f5 gray mv2">{{intervenant.company}}</span>
+              {{intervenant.bio | markdownify}}
             </div>
           </div>
         </div>
@@ -131,6 +150,7 @@ layout: default
             <div class="w-100">
               <span class="db f4 black ttu b mv3">{{intervenant.name}}</span>
               <span class="db f5 gray mv2">{{intervenant.job}}</span>
+              <span class="db f5 gray mv1">{{intervenant.company}}</span>
             </div>
           </a>
         </div>

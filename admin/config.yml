@@ -113,6 +113,7 @@ collections:
                 fields:
                   - {label: Photo, name: image, widget: image}
                   - {label: Nom, name: name, widget: string}
+                  - {label: Compagnie, name: company, widget: string}
                   - {label: Journées, name: days, widget: string}
               - {label: Description, name: desc, widget: markdown}
 

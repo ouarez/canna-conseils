@@ -263,8 +263,8 @@ intervenants:
     conferences:
       - date: Samedi 29 septembre
         name: >-
-          Conférence spéciale (en anglais) sur les investissements dans
-          l'industrie du cannabis
+          Conférence spéciale (en anglais) - Les nouvelles possibilités
+          d'investissement dans l'industrie du cannabis
     image: /img/charles-taerk-hi-res-min.jpg
     job: Président et chef de la direction
     name: Charles Taerk

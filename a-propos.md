@@ -19,7 +19,7 @@ intro_text: >-
 
   Pour répondre aux entreprises qui souhaitent identifier de nouvelles sources
   de profits dans l’industrie du cannabis, Canna-Conseils propose un
-  accompagnement complet sous forme de conférence exclusives durant lesquelles
+  accompagnement complet sous forme de conférences exclusives durant lesquelles
   des experts interviendront pour valider les projets de professionnels et les
   aider à se lancer en affaires. Cet événement va permettre à de nombreux corps
   de métier de mettre à profit leur expertise dans l’industrie émergente du

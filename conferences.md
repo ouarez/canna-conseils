@@ -39,10 +39,12 @@ schedules:
         days: Présent tous les jours
         image: /img/Endo.png
         name: Guillaume Endo
-      - days: 'Présent le 26, 27, 28 et 29'
+      - company: Groupe SGF
+        days: 'Présent le 26, 27, 28 et 29'
         image: /img/maxime-guerin.png
         name: Maxime Guérin
-      - days: Présent le 24 et le 25
+      - company: Robic
+        days: Présent le 24 et le 25
         image: /img/jason-moscovici-min.jpg
         name: Jason Moscovici
     time: 8h30 - 9h30
@@ -72,7 +74,8 @@ schedules:
 
       * Le rôle d’une audit lors de la démarche de lancement
     intervenants:
-      - days: Présent tous les jours
+      - company: Marsh
+        days: Présent tous les jours
         image: /img/patrick-leroux-1-min.jpg
         name: Patrick Leroux
     time: 9h30 - 10h30
@@ -111,7 +114,8 @@ schedules:
 
       * Les tactiques de pointe de marketing dans l’industrie du cannabis
     intervenants:
-      - days: Présent tous les jours
+      - company: Havas
+        days: Présent tous les jours
         image: /img/smailhiot_side_low-min.jpg
         name: Stéphane Mailhiot
     time: 10h45 - 11h15
@@ -137,7 +141,8 @@ schedules:
 
       * Les fonds d’investissements rentables sur le marché du cannabis
     intervenants:
-      - days: Présent tous les jours
+      - company: Groupe Investors
+        days: Présent tous les jours
         image: /img/marc-antoine-chaput.jpeg
         name: Marc-Antoine Chaput
     time: 11h15 - 11h45
@@ -162,16 +167,20 @@ schedules:
 
       * Des niches pour tous les accessoires
     intervenants:
-      - days: Présent tous les jours
+      - company: Consult&Grow
+        days: Présent tous les jours
         image: /img/alexander-main-min.jpg
         name: Alexander Main
-      - days: Présent tous les jours
+      - company: Consult&Grow
+        days: Présent tous les jours
         image: /img/francis-hebert-min.jpg
         name: Francis Hébert
-      - days: Présente tous les jours
+      - company: Hush Kush
+        days: Présente tous les jours
         image: /img/karine-min.jpg
         name: Karine Clément
-      - days: Présente le 24 et le 29
+      - company: HighonLove
+        days: Présente le 24 et le 29
         image: /img/angela-mustone.png
         name: Angela Mustone
     time: 11h45 - 12h15

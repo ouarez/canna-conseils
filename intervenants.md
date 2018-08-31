@@ -411,6 +411,9 @@ intervenants:
       l'acquisition d’opportunités, sur la recherche et la production du
       cannabis ainsi que sur la création de propriété intellectuelle.
     company: Emerald Health Therapeutics Inc.
+    conferences:
+      - date: Présent le 28 et le 29
+        name: Les vertus thérapeutiques du cannabis
     image: /img/photo-maheep-dhillon.jpg
     job: Vice-président développement corporatif
     name: Maheep Dhillon

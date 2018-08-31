@@ -260,6 +260,11 @@ intervenants:
       Pittsburgh en 1988. Il a obtenu son baccalauréat de l'Université Western
       Ontario en 1986.
     company: Faircourt Asset Management Inc.
+    conferences:
+      - date: Samedi 29 septembre
+        name: >-
+          Conférence spéciale (en anglais) sur les investissements dans
+          l'industrie du cannabis
     image: /img/charles-taerk-hi-res-min.jpg
     job: Président et chef de la direction
     name: Charles Taerk

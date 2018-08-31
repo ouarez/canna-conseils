@@ -204,10 +204,12 @@ schedules:
 
       * Santé et prévention
     intervenants:
-      - days: 'Présent le 24, 25, 26, et 27'
+      - company: Alco Prévention Canada
+        days: 'Présent le 24, 25, 26, et 27'
         image: /img/stéphane-maurais.jpg
         name: Stéphane Maurais
-      - days: Présent le 28 et le 29
+      - company: Emerald Health Therapeutics Inc.
+        days: Présent le 28 et le 29
         image: /img/photo-maheep-dhillon.jpg
         name: Maheep Dhillon
     time: 13h30 - 14h00
@@ -231,7 +233,8 @@ schedules:
 
       * Les nouveaux circuits touristiques
     intervenants:
-      - days: Présent tous les jours
+      - company: Montréal 420 Tours
+        days: Présent tous les jours
         image: /img/alexis-turcotte-1-min.jpg
         name: Alexis Turcotte-Noël
     time: 14h00 - 15h00
@@ -251,7 +254,8 @@ schedules:
 
       * L’expérience professionnelle du marché noir : un atout ?
     intervenants:
-      - days: Présent tous les jours
+      - company: ProfileSoft Inc.
+        days: Présent tous les jours
         image: /img/marcel-boily.png
         name: Yves-Marcel Boily
     time: 15h00 - 16h00

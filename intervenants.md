@@ -52,66 +52,19 @@ intervenants:
     name: Guillaume Endo
     video: ''
   - bio: >-
-      Jason Moscovici se spécialise en litige de propriété intellectuelle et en
-      litige commercial. Il possède une formation juridique et scientifique qui
-      lui permet de conseiller ses clients sur ces deux plans dans leurs besoins
-      liés à la propriété intellectuelle et au litige.
-
-
-      Il œuvre également en matière de droit des affaires réglementaires dans le
-      domaine cosmétique, pharmaceutique, produits naturels, des instruments
-      médicaux, alimentation, boissons alcooliques, les produits de
-      consommation, ainsi que dans le domaine de la publicité et du
-      divertissement.
-
-
-      Jason Moscovici pratique aussi à titre de conseiller légal pour
-      l’industrie du cannabis au Canada. Il est souvent sollicité pour
-      participer à des conférences et fournir son avis légal sur les multiples
-      obstacles règlementaires et opportunités auxquels les intervenants de
-      cette industrie font face.
-
-
-      Les clients de Jason Moscovici sont d’importantes petites, moyennes et
-      grandes entreprises canadiennes et étrangères œuvrant dans différents
-      domaines, dont:
-
-
-      * Industrie pharmaceutique
-
-      * Dispositifs médicaux
-
-      * Industrie alimentaire
-
-      * Industrie chimique
-
-      * Produits de santé naturels
-
-      * Industrie du divertissement
-
-      * Produits cosmétiques
-
-      * Produits de consommation
-
-
-      Jason Moscovici a obtenu son baccalauréat en biochimie (régime coopératif)
-      à l’Université Concordia en 2005 avec distinction. Il a complété son
-      baccalauréat en droit civil (L.L.B.) à l’Université de Montréal et est
-      membre du Barreau du Québec depuis 2009. Il est aussi membre de l’Ordre
-      des chimistes du Québec.
-
-
-      Il a débuté sa carrière au sein du groupe des Affaires réglementaires de
-      l’une des plus grandes compagnies de produits et de soins de santé où il a
-      fourni des opinions et des approbations en matières de réglementation, de
-      brevets, de marques de commerce et de droits d’auteur. Il a ensuite
-      complété ses études en droit et a effectué un stage chez Robic.
-
-
-      Jason Moscovici est membre du comité des sciences de la vie de Robic.
+      Jason Moscovici est avocat chez ROBIC SENCRL et conseille ses clients sur
+      tout ce qui a trait à la propriété intellectuelle (marques de commerce,
+      brevets, droits d'auteur, dessins industriels, licences, secrets
+      commerciaux, obtentions végétales, etc.). Il agit également comme
+      conseiller auprès de l'industrie canadienne du cannabis et fournit des
+      conseils sur les nombreux enjeux auxquels elle est confrontée : stratégie,
+      affaires commerciales, financement, conformité réglementaire, étiquetage,
+      publicité, distribution, vente, marketing, recherche et développement,
+      transferts de technologie et vérification diligente.
     company: Robic
     conferences:
-      - name: >-
+      - date: Présent le 24 et le 25
+        name: >-
           Partez à la conquête de l'Or Vert et profitez de cette économie
           émergente
     image: /img/jason-moscovici-min.jpg

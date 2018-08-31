@@ -8,7 +8,7 @@ slogan2: Prenez une longueur d'avance dans l'industrie du cannabis
 cover_image: /img/bg-canna-conseils.jpg
 cover_link_text: Inscrivez-vous dès maintenant !
 cover_link: /inscriptions
-intro_title: Qu’est-ce que la semaine du Cannabis ?
+intro_title: Qu’est-ce que la Semaine du Cannabis ?
 intro_text: >-
   La Semaine du Cannabis est une formation sur mesure d’une durée de 6 jours.
   Cette semaine permet concrètement aux participants, 20 personnes par jour, de

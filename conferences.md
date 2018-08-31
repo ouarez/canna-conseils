@@ -41,7 +41,7 @@ schedules:
       - days: 'Présent le 26, 27, 28 et 29'
         image: /img/maxime-guerin.png
         name: Maxime Guérin
-      - days: Présent tous les jours
+      - days: Présent le 24 et le 25
         image: /img/jason-moscovici-min.jpg
         name: Jason Moscovici
     time: 8h30 - 9h30

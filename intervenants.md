@@ -119,7 +119,7 @@ intervenants:
     name: Jason Moscovici
     video: 'https://vimeo.com/287499042'
   - bio: >-
-      Maxime Guérin est associé de la firme Sarailis Avocats et est responsable
+      Maxime Guérin est associé de la firme Saraïlis Avocats et est responsable
       du département du cabinet en droit du travail et de l&#39;emploi et exerce
       aussi en litige civil et commercial, principalement dans le domaine
       immobilier en plus d&#39;avoir développé une pratique spécialisée dans

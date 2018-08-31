@@ -35,7 +35,8 @@ schedules:
 
       * La reconversion des producteurs de fruits et légumes
     intervenants:
-      - days: Présent tous les jours
+      - company: Endo & Associés
+        days: Présent tous les jours
         image: /img/Endo.png
         name: Guillaume Endo
       - days: 'Présent le 26, 27, 28 et 29'
@@ -255,3 +256,4 @@ schedules:
   - time: 18h00
     title: Cocktail de Clôture
 ---
+

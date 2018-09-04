@@ -143,6 +143,35 @@ intervenants:
     name: Stéphane Mailhiot
     video: 'https://vimeo.com/287316855'
   - bio: >-
+      Découvrir son chemin dans l’industrie du cannabis n’a pas à être aussi
+      mystérieux ou complexe. Avec les bons partenaires pour vous guider, votre
+      marque peut vraiment se démarquer dans ce secteur concurrentiel. Chez
+      Marijuana Marketing Gurus, nous proposons un puissant mélange d'image de
+      marque, d’expertise multimédia, de référencement et d’autres services
+      marketing pour aider votre entreprise à atteindre son plein potentiel.
+      Notre équipe de vétérans de l'industrie du marketing apporte déjà depuis
+      plusieurs années son expertise et ses tactiques de pointe au marketing du
+      cannabis dans plusieurs états américains dont le Colorado et la
+      Californie. Nous adoptons une approche dynamique pour l'optimisation des
+      moteurs de recherche pour entreprises de l'industrie. Nous avons des
+      décennies d'expérience combinée pour vous mettre à la une des résultats
+      des moteurs de recherche et accroître le trafic de votre site Web. Là où
+      les tactiques traditionnelles de marketing et de publicité de la marijuana
+      ont fait défaut aux propriétaires d’entreprise de marijuana, le marketing
+      numérique a ouvert un nouveau monde de possibilités pour permettre aux
+      marques de se développer et de se faire découvrir. Marijuana Marketing
+      Gurus combine le meilleur marketing numérique avec l'expertise de
+      l'industrie du cannabis pour offrir à ses clients une véritable croissance
+      organique.
+    company: Marijuana Marketing Gurus
+    conferences:
+      - date: Présent tous les jours
+        name: >-
+          S’approvisionner, distribuer et communiquer : les étapes clés pour
+          connaître un canna-succès
+    image: /img/marijuana-marketing-gurus.jpg
+    name: Stéphane Savoie
+  - bio: >-
       Marc-Antoine est un conseiller en planification financière au sein du
       Groupe Investors. Il est un professionnel des finances personnelles, un
       généraliste qui peut analyser les aspects stimulants et complexes de la
@@ -443,34 +472,5 @@ intervenants:
     job: Président-fondateur
     name: Yves-Marcel Boily
     video: 'https://vimeo.com/287318411'
-  - bio: >-
-      Découvrir son chemin dans l’industrie du cannabis n’a pas à être aussi
-      mystérieux ou complexe. Avec les bons partenaires pour vous guider, votre
-      marque peut vraiment se démarquer dans ce secteur concurrentiel. Chez
-      Marijuana Marketing Gurus, nous proposons un puissant mélange d'image de
-      marque, d’expertise multimédia, de référencement et d’autres services
-      marketing pour aider votre entreprise à atteindre son plein potentiel.
-      Notre équipe de vétérans de l'industrie du marketing apporte déjà depuis
-      plusieurs années son expertise et ses tactiques de pointe au marketing du
-      cannabis dans plusieurs états américains dont le Colorado et la
-      Californie. Nous adoptons une approche dynamique pour l'optimisation des
-      moteurs de recherche pour entreprises de l'industrie. Nous avons des
-      décennies d'expérience combinée pour vous mettre à la une des résultats
-      des moteurs de recherche et accroître le trafic de votre site Web. Là où
-      les tactiques traditionnelles de marketing et de publicité de la marijuana
-      ont fait défaut aux propriétaires d’entreprise de marijuana, le marketing
-      numérique a ouvert un nouveau monde de possibilités pour permettre aux
-      marques de se développer et de se faire découvrir. Marijuana Marketing
-      Gurus combine le meilleur marketing numérique avec l'expertise de
-      l'industrie du cannabis pour offrir à ses clients une véritable croissance
-      organique.
-    company: Marijuana Marketing Gurus
-    conferences:
-      - date: Présent tous les jours
-        name: >-
-          S’approvisionner, distribuer et communiquer : les étapes clés pour
-          connaître un canna-succès
-    image: /img/marijuana-marketing-gurus.jpg
-    name: Stéphane Savoie
 ---
 

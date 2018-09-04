@@ -113,7 +113,7 @@ intervenants:
     image: /img/patrick-leroux-1-min.jpg
     job: Administrateur délégué
     name: Patrick Leroux
-    video: 'https://vimeo.com/287316485'
+    video: 'https://vimeo.com/288168575'
   - bio: >-
       À titre de vice-président principal, stratégie de marque, Stéphane
       Mailhiot pilote la planification stratégique de Havas Montréal. Avec son

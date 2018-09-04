@@ -118,6 +118,10 @@ schedules:
         days: Présent tous les jours
         image: /img/smailhiot_side_low-min.jpg
         name: Stéphane Mailhiot
+      - company: Marijuana Marketing Gurus
+        days: Présent tous les jours
+        image: /img/marijuana-marketing-gurus.jpg
+        name: Stéphane Savoie
     time: 10h45 - 11h15
     title: >-
       S’approvisionner, distribuer et communiquer : les étapes clés pour

@@ -94,7 +94,7 @@ intervenants:
     image: /img/maxime-guerin.png
     job: 'Avocat et Consultant en cannabis '
     name: Maxime Guérin
-    video: 'https://vimeo.com/287315989'
+    video: 'https://vimeo.com/288166627'
   - bio: >-
       Patrick Leroux travaille au bureau de Marsh à Montréal depuis 1991 et est
       membre de l’équipe de direction. Il collabore étroitement avec

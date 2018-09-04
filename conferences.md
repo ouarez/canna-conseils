@@ -118,7 +118,7 @@ schedules:
         days: Présent tous les jours
         image: /img/smailhiot_side_low-min.jpg
         name: Stéphane Mailhiot
-      - company: Marijuana Marketing Gurus
+      - company: MMG
         days: Présent tous les jours
         image: /img/marijuana-marketing-gurus.jpg
         name: Stéphane Savoie

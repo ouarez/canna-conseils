@@ -265,6 +265,11 @@ intervenants:
       l'Université d'Aix-Marseille, le programme français de langue, de
       littérature et d'histoire de troisième cycle.
     company: Pritchard Network Inc.
+    conferences:
+      - date: Présent le 26 et le 27
+        name: >-
+          Quand la feuille de cannabis remplace la feuille d’érable, les actions
+          montent en flèche
     image: /img/Scott Pritchard.jpg
     job: Président
     name: Scott Pritchard

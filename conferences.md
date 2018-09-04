@@ -195,19 +195,8 @@ schedules:
     title: 'Produits dérivés : le cannabis sous toutes ses formes'
   - desc: ''
     intervenants: []
-    time: 12h15 - 12h45
+    time: 12h15 - 13h30
     title: 'Pause-déjeuner, présentation des produits'
-  - intervenants:
-      - company: Lift & Co
-        days: Lundi 24 septembre
-        image: /img/nick-pateras-min.png
-        name: Nick Pateras
-      - company: Faircourt Asset Management Inc.
-        days: Samedi 29 septembre
-        image: /img/charles-taerk-hi-res-min.jpg
-        name: Charles Taerk
-    time: 12h45-13h30
-    title: La conférence du jour
   - desc: >-
       La consommation du Cannabis récréatif n’est même pas encore légalisée que
       son utilisation à des fins dites médicales est pratiquée depuis plusieurs

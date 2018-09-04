@@ -149,6 +149,10 @@ schedules:
         days: Présent tous les jours
         image: /img/marc-antoine-chaput.jpeg
         name: Marc-Antoine Chaput
+      - company: Pritchard Network Inc.
+        days: Présent le 26 et le 27
+        image: /img/Scott Pritchard.jpg
+        name: Scott Pritchard
     time: 11h15 - 11h45
     title: >-
       Quand la feuille de cannabis remplace la feuille d’érable, les actions

@@ -464,7 +464,7 @@ intervenants:
       Gurus combine le meilleur marketing numérique avec l'expertise de
       l'industrie du cannabis pour offrir à ses clients une véritable croissance
       organique.
-    company: MMG
+    company: Marijuana Marketing Gurus
     conferences:
       - date: Présent tous les jours
         name: >-

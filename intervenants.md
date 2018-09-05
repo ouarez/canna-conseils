@@ -63,7 +63,7 @@ intervenants:
       transferts de technologie et vérification diligente.
     company: Robic
     conferences:
-      - date: Présent le 24 et le 25
+      - date: Présent le 25 et le 26
         name: >-
           Partez à la conquête de l'Or Vert et profitez de cette économie
           émergente

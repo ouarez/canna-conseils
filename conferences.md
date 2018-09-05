@@ -203,11 +203,8 @@ schedules:
     title: 'Produits dérivés : le cannabis sous toutes ses formes'
   - desc: ''
     intervenants: []
-    time: 12h15 - 12h45
+    time: 12h15 - 13h30
     title: 'Pause-déjeuner, présentation des produits'
-  - desc: conference
-    time: 12h45-13h30
-    title: La conférence du jour
   - desc: >-
       La consommation du Cannabis récréatif n’est même pas encore légalisée que
       son utilisation à des fins dites médicales est pratiquée depuis plusieurs

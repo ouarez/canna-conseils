@@ -215,7 +215,7 @@ schedules:
       * Santé et prévention
     intervenants:
       - company: Alco Prévention Canada
-        days: 'Présent le 24, 25, 26, et 27'
+        days: Présent tous les jours
         image: /img/stéphane-maurais.jpg
         name: Stéphane Maurais
       - company: Emerald Health Therapeutics Inc.

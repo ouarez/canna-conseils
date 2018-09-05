@@ -205,7 +205,12 @@ schedules:
     intervenants: []
     time: 12h15 - 12h45
     title: 'Pause-déjeuner, présentation des produits'
-  - time: 12h45-13h30
+  - intervenants:
+      - company: Lift & Co
+        days: Présent le lundi 24 septembre
+        image: /img/nick-pateras-min.png
+        name: Nick Pateras
+    time: 12h45-13h30
     title: La conférence du jour
   - desc: >-
       La consommation du Cannabis récréatif n’est même pas encore légalisée que

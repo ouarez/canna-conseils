@@ -293,5 +293,8 @@ schedules:
     title: Tables Rondes et exposition
   - time: 18h00
     title: Cocktail de Clôture
+  - desc: J'aime le cannabis
+    time: 18h-18h30
+    title: Fin de la journée
 ---
 

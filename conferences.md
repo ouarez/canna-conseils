@@ -286,5 +286,8 @@ schedules:
     title: Tables Rondes et exposition
   - time: 18h00
     title: Cocktail de Clôture
+  - desc: conference
+    time: 12h45-13h30
+    title: La conférence du jour
 ---
 

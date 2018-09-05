@@ -122,6 +122,14 @@ schedules:
         days: Présent tous les jours
         image: /img/marijuana-marketing-gurus.jpg
         name: Stéphane Savoie
+      - company: H2O Communication
+        days: Présente tous les jours
+        image: /img/isabelle-.jpg
+        name: Isabelle Boismenu
+      - company: H2O Communication
+        days: Présent tous les jours
+        image: /img/km.png
+        name: Kévin Morel
     time: 10h45 - 11h15
     title: >-
       S’approvisionner, distribuer et communiquer : les étapes clés pour

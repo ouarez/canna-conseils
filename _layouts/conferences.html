@@ -20,7 +20,8 @@ layout: default
       <div class="slider bg-light-gray black pa4 flex flex-wrap tc tl-l mv2 {% if schedule.desc %}pointer{%endif%}">
         <span class="w-100 w-20-l b mv2 f4 alt-font">{{schedule.time}}</span>
         <span class="w-100 w-60-l mv2 f4 alt-font">{{schedule.title}}</span>
-        {% if schedule.desc %}
+        {% unless schedule.desc == '' %}
+          {% if schedule.desc %}
           <div class="w-100 w-20-l tr dt mt1">
             <span class="dtc v-btm pv2 b">En savoir plus</span>
             <i class="fas fa-angle-down f4 mt2"></i>
@@ -40,6 +41,7 @@ layout: default
                   </div>
                 </div>
               {% endfor %}
+            {% endunless %}
             </div>
           </div>
         {% endif %}

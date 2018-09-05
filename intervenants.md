@@ -425,7 +425,7 @@ intervenants:
       consommateurs de savoir s’il dépasse la limite légale.
     company: Alco Prévention Canada
     conferences:
-      - date: 'Présent le 24, 25, 26 et 27'
+      - date: Présent tous les jours
         name: Les vertus thérapeutiques du cannabis
     image: /img/stéphane-maurais.jpg
     job: Directeur général

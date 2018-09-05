@@ -212,6 +212,9 @@ schedules:
         name: Nick Pateras
     time: 12h45-13h30
     title: La conférence du jour
+  - desc: J'aime le cannabis
+    time: 18h-18h30
+    title: Fin de la journée
   - desc: >-
       La consommation du Cannabis récréatif n’est même pas encore légalisée que
       son utilisation à des fins dites médicales est pratiquée depuis plusieurs
@@ -293,8 +296,5 @@ schedules:
     title: Tables Rondes et exposition
   - time: 18h00
     title: Cocktail de Clôture
-  - desc: J'aime le cannabis
-    time: 18h-18h30
-    title: Fin de la journée
 ---
 

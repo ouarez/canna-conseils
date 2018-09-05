@@ -171,6 +171,26 @@ intervenants:
           connaître un canna-succès
     image: /img/marijuana-marketing-gurus.jpg
     name: Stéphane Savoie
+  - bio: "Mme Isabelle Boismenu est directrice ventes & marketing et propriétaire associée chez H2O communication \rdepuis 2011. Elle est responsable des équipes de ventes & marketing à l’agence. Elle donne plusieurs\r conférences par année sur l’image de marque et la publicité. Mme Boismenu a été courtier immobilier agréé \rpendant plusieurs années, elle a fait partie d’une grande équipe immobilière, classée #1 RE/MAX, pour \rlaquelle elle a remporté plusieurs trophées de mérite chaque année. De plus, avocate de formation, Isabelle\r a aussi travaillé plusieurs années au sein d’un cabinet d’avocat renommé en droit corporatif et fiscal à Montréal.\r Ces années d’expérience lui ont permis de bien cerner les besoins des clients, bien comprendre le milieu \rjuridique et les besoins des entreprises, afin de les aider davantage dans leur progression d’affaires. Elle a\r ainsi accumulé plus de 20 ans d’expérience dans le domaine de la vente et du marketing et contribué au\r succès de plusieurs centaines d’entreprises au cours de sa carrière."
+    company: H20 Communication
+    conferences:
+      - date: Présente tous les jours
+        name: >-
+          S’approvisionner, distribuer et communiquer : les étapes clés pour
+          connaître un canna-succès
+    image: /img/isabelle-.jpg
+    job: Directrice Ventes & Marketing
+    name: Isabelle Boismenu
+  - bio: "M. Morel est le directeur du développement des affaires chez H2O communication, une agence avec plus de\rdix ans d’expérience spécialisée en image de marque, publicité et développement des affaires. M. Morel a\rplus de 15 années d’expérience à titre de directeur de comptes pour diverses institutions financières. Il a été\rsouscripteur analyste chez Financière First National au niveau des comptes commerciaux. De plus, M. Morel\ra été directeur des ventes pour plusieurs manufacturiers automobiles, où son rôle était d’accompagner les\rentreprises dans leur processus d’achat et de financement de véhicules. Ces activités lui ont permis de\rdévelopper de solides aptitudes à titre de conseiller en financement d’entreprise. M. Morel fut directeur de\rdéveloppement des affaires pour RD Capital, institution financière privée spécialisée dans le financement des\rcrédits d'impôt. Ces fortes aptitudes de ventes et sa personnalité font de lui une personne avec qui le succès\ret les défis de tailles sont relevés avec brio. Devenu formateur accrédité en approche client et en\rdéveloppement des affaires, M. Morel est un développeur d’affaires chevronné, spécialisé en développement\rdes affaires et image de marque."
+    company: H20 Communication
+    conferences:
+      - date: Présent tous les jours
+        name: >-
+          S’approvisionner, distribuer et communiquer : les étapes clés pour
+          connaître un canna-succès
+    image: /img/km.png
+    job: Directeur du développement des affaires
+    name: Kevin Morel
   - bio: >-
       Marc-Antoine est un conseiller en planification financière au sein du
       Groupe Investors. Il est un professionnel des finances personnelles, un

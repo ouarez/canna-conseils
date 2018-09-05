@@ -63,7 +63,7 @@ intervenants:
       transferts de technologie et vérification diligente.
     company: Robic
     conferences:
-      - date: Présent le 24 et le 25
+      - date: Présent le 25 et le 26
         name: >-
           Partez à la conquête de l'Or Vert et profitez de cette économie
           émergente
@@ -94,7 +94,7 @@ intervenants:
     image: /img/maxime-guerin.png
     job: 'Avocat et Consultant en cannabis '
     name: Maxime Guérin
-    video: 'https://vimeo.com/287315989'
+    video: 'https://vimeo.com/288166627'
   - bio: >-
       Patrick Leroux travaille au bureau de Marsh à Montréal depuis 1991 et est
       membre de l’équipe de direction. Il collabore étroitement avec
@@ -113,7 +113,7 @@ intervenants:
     image: /img/patrick-leroux-1-min.jpg
     job: Administrateur délégué
     name: Patrick Leroux
-    video: 'https://vimeo.com/287316485'
+    video: 'https://vimeo.com/288168575'
   - bio: >-
       À titre de vice-président principal, stratégie de marque, Stéphane
       Mailhiot pilote la planification stratégique de Havas Montréal. Avec son
@@ -142,6 +142,55 @@ intervenants:
     job: 'Vice-président principal, stratégie de marque'
     name: Stéphane Mailhiot
     video: 'https://vimeo.com/287316855'
+  - bio: >-
+      Découvrir son chemin dans l’industrie du cannabis n’a pas à être aussi
+      mystérieux ou complexe. Avec les bons partenaires pour vous guider, votre
+      marque peut vraiment se démarquer dans ce secteur concurrentiel. Chez
+      Marijuana Marketing Gurus, nous proposons un puissant mélange d'image de
+      marque, d’expertise multimédia, de référencement et d’autres services
+      marketing pour aider votre entreprise à atteindre son plein potentiel.
+      Notre équipe de vétérans de l'industrie du marketing apporte déjà depuis
+      plusieurs années son expertise et ses tactiques de pointe au marketing du
+      cannabis dans plusieurs états américains dont le Colorado et la
+      Californie. Nous adoptons une approche dynamique pour l'optimisation des
+      moteurs de recherche pour entreprises de l'industrie. Nous avons des
+      décennies d'expérience combinée pour vous mettre à la une des résultats
+      des moteurs de recherche et accroître le trafic de votre site Web. Là où
+      les tactiques traditionnelles de marketing et de publicité de la marijuana
+      ont fait défaut aux propriétaires d’entreprise de marijuana, le marketing
+      numérique a ouvert un nouveau monde de possibilités pour permettre aux
+      marques de se développer et de se faire découvrir. Marijuana Marketing
+      Gurus combine le meilleur marketing numérique avec l'expertise de
+      l'industrie du cannabis pour offrir à ses clients une véritable croissance
+      organique.
+    company: Marijuana Marketing Gurus
+    conferences:
+      - date: Présent tous les jours
+        name: >-
+          S’approvisionner, distribuer et communiquer : les étapes clés pour
+          connaître un canna-succès
+    image: /img/marijuana-marketing-gurus.jpg
+    name: Stéphane Savoie
+  - bio: "Mme Isabelle Boismenu est directrice ventes & marketing et propriétaire associée chez H2O communication \rdepuis 2011. Elle est responsable des équipes de ventes & marketing à l’agence. Elle donne plusieurs\r conférences par année sur l’image de marque et la publicité. Mme Boismenu a été courtier immobilier agréé \rpendant plusieurs années, elle a fait partie d’une grande équipe immobilière, classée #1 RE/MAX, pour \rlaquelle elle a remporté plusieurs trophées de mérite chaque année. De plus, avocate de formation, Isabelle\r a aussi travaillé plusieurs années au sein d’un cabinet d’avocat renommé en droit corporatif et fiscal à Montréal.\r Ces années d’expérience lui ont permis de bien cerner les besoins des clients, bien comprendre le milieu \rjuridique et les besoins des entreprises, afin de les aider davantage dans leur progression d’affaires. Elle a\r ainsi accumulé plus de 20 ans d’expérience dans le domaine de la vente et du marketing et contribué au\r succès de plusieurs centaines d’entreprises au cours de sa carrière."
+    company: H20 Communication
+    conferences:
+      - date: Présente tous les jours
+        name: >-
+          S’approvisionner, distribuer et communiquer : les étapes clés pour
+          connaître un canna-succès
+    image: /img/isabelle-.jpg
+    job: Directrice Ventes & Marketing
+    name: Isabelle Boismenu
+  - bio: "M. Morel est le directeur du développement des affaires chez H2O communication, une agence avec plus de\rdix ans d’expérience spécialisée en image de marque, publicité et développement des affaires. M. Morel a\rplus de 15 années d’expérience à titre de directeur de comptes pour diverses institutions financières. Il a été\rsouscripteur analyste chez Financière First National au niveau des comptes commerciaux. De plus, M. Morel\ra été directeur des ventes pour plusieurs manufacturiers automobiles, où son rôle était d’accompagner les\rentreprises dans leur processus d’achat et de financement de véhicules. Ces activités lui ont permis de\rdévelopper de solides aptitudes à titre de conseiller en financement d’entreprise. M. Morel fut directeur de\rdéveloppement des affaires pour RD Capital, institution financière privée spécialisée dans le financement des\rcrédits d'impôt. Ces fortes aptitudes de ventes et sa personnalité font de lui une personne avec qui le succès\ret les défis de tailles sont relevés avec brio. Devenu formateur accrédité en approche client et en\rdéveloppement des affaires, M. Morel est un développeur d’affaires chevronné, spécialisé en développement\rdes affaires et image de marque."
+    company: H20 Communication
+    conferences:
+      - date: Présent tous les jours
+        name: >-
+          S’approvisionner, distribuer et communiquer : les étapes clés pour
+          connaître un canna-succès
+    image: /img/km.png
+    job: Directeur du développement des affaires
+    name: Kevin Morel
   - bio: >-
       Marc-Antoine est un conseiller en planification financière au sein du
       Groupe Investors. Il est un professionnel des finances personnelles, un
@@ -181,7 +230,7 @@ intervenants:
     image: /img/marc-antoine-chaput.jpeg
     job: Conseiller en planification financière
     name: Marc-Antoine Chaput
-    video: 'https://vimeo.com/287315768'
+    video: 'https://vimeo.com/288169607'
   - bio: >-
       Charles Taerk est co-fondateur de Faircourt Asset Management Inc.,
       président et chef de la direction depuis la création de Faircourt en 2002,
@@ -265,6 +314,11 @@ intervenants:
       l'Université d'Aix-Marseille, le programme français de langue, de
       littérature et d'histoire de troisième cycle.
     company: Pritchard Network Inc.
+    conferences:
+      - date: Présent le 26 et le 27
+        name: >-
+          Quand la feuille de cannabis remplace la feuille d’érable, les actions
+          montent en flèche
     image: /img/Scott Pritchard.jpg
     job: Président
     name: Scott Pritchard
@@ -391,7 +445,7 @@ intervenants:
       consommateurs de savoir s’il dépasse la limite légale.
     company: Alco Prévention Canada
     conferences:
-      - date: 'Présent le 24, 25, 26 et 27'
+      - date: Présent tous les jours
         name: Les vertus thérapeutiques du cannabis
     image: /img/stéphane-maurais.jpg
     job: Directeur général

@@ -39,10 +39,12 @@ schedules:
         days: Présent tous les jours
         image: /img/Endo.png
         name: Guillaume Endo
-      - days: 'Présent le 26, 27, 28 et 29'
+      - company: Groupe SGF
+        days: 'Présent le 26, 27, 28 et 29'
         image: /img/maxime-guerin.png
         name: Maxime Guérin
-      - days: Présent le 24 et le 25
+      - company: Robic
+        days: Présent le 25 et le 26
         image: /img/jason-moscovici-min.jpg
         name: Jason Moscovici
     time: 8h30 - 9h30
@@ -72,7 +74,8 @@ schedules:
 
       * Le rôle d’une audit lors de la démarche de lancement
     intervenants:
-      - days: Présent tous les jours
+      - company: Marsh
+        days: Présent tous les jours
         image: /img/patrick-leroux-1-min.jpg
         name: Patrick Leroux
     time: 9h30 - 10h30
@@ -111,9 +114,22 @@ schedules:
 
       * Les tactiques de pointe de marketing dans l’industrie du cannabis
     intervenants:
-      - days: Présent tous les jours
+      - company: Havas
+        days: Présent tous les jours
         image: /img/smailhiot_side_low-min.jpg
         name: Stéphane Mailhiot
+      - company: MMG
+        days: Présent tous les jours
+        image: /img/marijuana-marketing-gurus.jpg
+        name: Stéphane Savoie
+      - company: H2O Communication
+        days: Présente tous les jours
+        image: /img/isabelle-.jpg
+        name: Isabelle Boismenu
+      - company: H2O Communication
+        days: Présent tous les jours
+        image: /img/km.png
+        name: Kévin Morel
     time: 10h45 - 11h15
     title: >-
       S’approvisionner, distribuer et communiquer : les étapes clés pour
@@ -137,9 +153,14 @@ schedules:
 
       * Les fonds d’investissements rentables sur le marché du cannabis
     intervenants:
-      - days: Présent tous les jours
+      - company: Groupe Investors
+        days: Présent tous les jours
         image: /img/marc-antoine-chaput.jpeg
         name: Marc-Antoine Chaput
+      - company: Pritchard Network Inc.
+        days: Présent le 26 et le 27
+        image: /img/Scott Pritchard.jpg
+        name: Scott Pritchard
     time: 11h15 - 11h45
     title: >-
       Quand la feuille de cannabis remplace la feuille d’érable, les actions
@@ -162,22 +183,28 @@ schedules:
 
       * Des niches pour tous les accessoires
     intervenants:
-      - days: Présent tous les jours
+      - company: Consult&Grow
+        days: Présent tous les jours
         image: /img/alexander-main-min.jpg
         name: Alexander Main
-      - days: Présent tous les jours
+      - company: Consult&Grow
+        days: Présent tous les jours
         image: /img/francis-hebert-min.jpg
         name: Francis Hébert
-      - days: Présente tous les jours
+      - company: Hush Kush
+        days: Présente tous les jours
         image: /img/karine-min.jpg
         name: Karine Clément
-      - days: Présente le 24 et le 29
+      - company: HighonLove
+        days: Présente le 24 et le 29
         image: /img/angela-mustone.png
         name: Angela Mustone
     time: 11h45 - 12h15
     title: 'Produits dérivés : le cannabis sous toutes ses formes'
-  - time: 12h15 - 13h30
-    title: Pause-déjeuner et présentation produits
+  - desc: ''
+    intervenants: []
+    time: 12h15 - 13h30
+    title: 'Pause-déjeuner, présentation des produits'
   - desc: >-
       La consommation du Cannabis récréatif n’est même pas encore légalisée que
       son utilisation à des fins dites médicales est pratiquée depuis plusieurs
@@ -195,10 +222,12 @@ schedules:
 
       * Santé et prévention
     intervenants:
-      - days: 'Présent le 24, 25, 26, et 27'
+      - company: Alco Prévention Canada
+        days: Présent tous les jours
         image: /img/stéphane-maurais.jpg
         name: Stéphane Maurais
-      - days: Présent le 28 et le 29
+      - company: Emerald Health Therapeutics Inc.
+        days: Présent le 28 et le 29
         image: /img/photo-maheep-dhillon.jpg
         name: Maheep Dhillon
     time: 13h30 - 14h00
@@ -222,7 +251,8 @@ schedules:
 
       * Les nouveaux circuits touristiques
     intervenants:
-      - days: Présent tous les jours
+      - company: Montréal 420 Tours
+        days: Présent tous les jours
         image: /img/alexis-turcotte-1-min.jpg
         name: Alexis Turcotte-Noël
     time: 14h00 - 15h00
@@ -242,7 +272,8 @@ schedules:
 
       * L’expérience professionnelle du marché noir : un atout ?
     intervenants:
-      - days: Présent tous les jours
+      - company: ProfileSoft Inc.
+        days: Présent tous les jours
         image: /img/marcel-boily.png
         name: Yves-Marcel Boily
     time: 15h00 - 16h00

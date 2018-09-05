@@ -44,7 +44,7 @@ schedules:
         image: /img/maxime-guerin.png
         name: Maxime Guérin
       - company: Robic
-        days: Présent le 24 et le 25
+        days: Présent le 25 et le 26
         image: /img/jason-moscovici-min.jpg
         name: Jason Moscovici
     time: 8h30 - 9h30

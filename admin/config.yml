@@ -105,14 +105,14 @@ collections:
             name: "schedules"
             widget: "list"
             fields:
-              - {label: Heure, name: time, widget: string}
               - {label: Titre, name: title, widget: string}
+              - {label: Heure, name: time, widget: string}
               - label: "Intervenants"
                 name: "intervenants"
                 widget: "list"
                 fields:
-                  - {label: Photo, name: image, widget: image}
                   - {label: Nom, name: name, widget: string}
+                  - {label: Photo, name: image, widget: image}
                   - {label: Compagnie, name: company, widget: string}
                   - {label: Journées, name: days, widget: string}
               - {label: Description, name: desc, widget: markdown}

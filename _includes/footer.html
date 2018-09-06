@@ -25,18 +25,18 @@
       <i class="fas fa-at mr2"></i><span class="lh-copy">{{site.data.settings.site_email}}</span>
     </div>
     <div class="mv3">
-      {% if site.data.settings.url_facebook %}
+      {% if site.data.settings.url_facebook %}{% unless site.data.settings.url_facebook == '' %}
         <a href="{{site.data.settings.url_facebook}}"><i class="fab fa-facebook-f mr3 moon-gray f3"></i></a>
-      {% endif %}
-      {% if site.data.settings.url_twitter %}
+      {% endunless %}{% endif %}
+      {% if site.data.settings.url_twitter %}{% unless site.data.settings.url_twitter == '' %}
         <a href="{{site.data.settings.url_twitter}}"><i class="fab fa-twitter mr3 moon-gray f3"></i></a>
-      {% endif %}
-      {% if site.data.settings.url_youtube %}
+      {% endunless %}{% endif %}
+      {% if site.data.settings.url_youtube %}{% unless site.data.settings.url_youtube == '' %}
         <a href="{{site.data.settings.url_youtube}}"><i class="fab fa-youtube mr3 moon-gray f3"></i></a>
-      {% endif %}
-      {% if site.data.settings.url_instagram %}
+      {% endunless %}{% endif %}
+      {% if site.data.settings.url_instagram %}{% unless site.data.settings.url_instagram == '' %}
         <a href="{{site.data.settings.url_instagram}}"><i class="fab fa-instagram mr3 moon-gray f3"></i></a>
-      {% endif %}
+      {% endunless %}{% endif %}
     </div>
 
   </div>

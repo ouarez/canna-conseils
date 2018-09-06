@@ -231,5 +231,18 @@ partenaires:
       première qualité.
     image: /img/highonlove.jpg
     title: HighonLove
+  - desc: >-
+      Montréal 420 Tours est un pionnier dans le tourisme du cannabis au Québec
+      et au Canada. Notre but est d'offrir une expérience hors du commun où le
+      client pourra consommer du cannabis dans un contexte légal tout en
+      découvrant Montréal, sa gastronomie et sa culture.
+
+
+      L'entreprise est le fruit de plusieurs années de recherche, de
+      développement, d'analyse de terrain et d'investissement. Nous proposerons,
+      si la loi le permet, plusieurs types de circuits où il sera possible de
+      consommer dans un environnement contrôlé.
+    image: /img/mtl_420_tours_logo_100x.png
+    title: Montréal 420 Tours
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

@@ -203,7 +203,7 @@ schedules:
     title: 'Produits dérivés : le cannabis sous toutes ses formes'
   - desc: ''
     intervenants: []
-    time: 12h15 - 13h30
+    time: 12h15 - 12h45
     title: 'Pause-déjeuner, présentation des produits'
   - desc: >-
       Canna-Conseils vous propose des conférences spéciales en anglais animées

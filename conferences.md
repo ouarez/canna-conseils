@@ -116,7 +116,7 @@ schedules:
     intervenants:
       - company: Havas
         days: Présent tous les jours
-        image: /img/smailhiot_side_low-min.jpg
+        image: /img/smailhiot_side_low.jpg
         name: Stéphane Mailhiot
       - company: MMG
         days: Présent tous les jours

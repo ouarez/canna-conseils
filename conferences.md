@@ -300,7 +300,7 @@ schedules:
       - company: ProfileSoft Inc.
         days: Présent tous les jours
         image: /img/marcel-boily.png
-        name: Yves-Marcel Boily
+        name: Yvan-Marcel Boily
     time: 15h00 - 16h00
     title: 'Le cannabis : remède contre le chômage ?'
   - desc: >-

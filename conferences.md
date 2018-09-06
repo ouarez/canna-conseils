@@ -221,10 +221,10 @@ schedules:
       d'investissement dans l'industrie du cannabis".
     intervenants:
       - company: Lift & Co
-        days: Présent le lundi 24 septembre
+        days: Lundi 24 septembre
         image: /img/nick-pateras-min.png
         name: Nick Pateras
-      - company: Faircourt Asset Management Inc.
+      - company: Faircourt
         days: Samedi 29 septembre
         image: /img/charles-taerk-hi-res-min.jpg
         name: Charles Taerk

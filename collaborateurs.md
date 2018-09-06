@@ -115,12 +115,22 @@ partenaires:
     image: /img/marsh.jpg
     title: Marsh
   - desc: >-
-      Emerald Health Therapeutics est un producteur de cannabis médical pour
-      Santé Canada. Emerald a combiné des compétences de base issues de
-      décennies d'expérience dans l'innovation pharmaceutique avec une expertise
-      agricole à grande échelle. Notre ambition est d'être à l'avant-garde du
-      développement de connaissances et de produits qui apportent bien-être et
-      bienfaits pour la santé grâce au cannabis.
+      Emerald Health Therapeutics Inc. est un producteur de cannabis médical
+      agréé par Santé Canada. Emerald accroît considérablement sa capacité de
+      production en vue de la légalisation au Canada du cannabis récréatif à
+      l’usage des adultes. Cette légalisation est prévue le 17 octobre 2018. Le
+      plan d'expansion progressif d'Emerald comprend une installation de
+      production de 1,1 million de pieds carrés, avec une expansion potentielle
+      de 3,7 millions de pieds carrés, détenue en co-entreprise, ainsi qu'une
+      seconde infrastructure de production de 75 000 pieds carrés avec un fort
+      potentiel d’expansion, Agro-Biotech au Québec, appartenant entièrement à
+      Emerald. Intégrée verticalement, de la production de semences à la mise en
+      vente de produits finis, Emerald appuie ses opérations et son
+      développement sur les compétences éprouvées de son équipe autant en
+      matière d’innovation pharmaceutique que d’agriculture extensive. Notre
+      ambition est d'être à l'avant-garde du développement des connaissances et
+      des produits de cannabis procurant des effets bénéfiques sur la santé et
+      le bien-être.
     image: /img/logo-emerald-health.jpg
     title: Emerald Therapeutics Inc.
 ---

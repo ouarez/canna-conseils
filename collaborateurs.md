@@ -206,5 +206,22 @@ partenaires:
       conformité avec Santé Canada. 
     image: /img/consult-and-grow.jpg
     title: Consult & Grow
+  - desc: >-
+      Reconnu pour la capacité de ses jeunes professionnels à mettre de l’avant
+      des solutions créatives et une approche de travail proactive, Endo &
+      Associés est à l’écoute des préoccupations économiques et financières de
+      ses clients. Endo & Associés s’assure avant tout d’établir des liens de
+      confiance solides et durables avec ces derniers, en faisant ainsi un
+      partenaire de premier plan pour les petites et moyennes entreprises (PME)
+      œuvrant dans divers secteurs d’activités tant au Canada qu’ailleurs dans
+      le monde.
+
+
+      La mission du cabinet est de créer un partenariat durable afin de
+      conseiller ses clients et d’en défendre les intérêts tant au canada qu’à
+      l’étranger, dans le but de les accompagner adéquatement dans leur
+      croissance.
+    image: /img/endo-logo.png
+    title: Endo & Associés
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

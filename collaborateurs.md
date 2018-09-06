@@ -60,5 +60,25 @@ partenaires:
       entourant le cannabis. 
     image: /img/lift-and-co.png
     title: Lift & Co
+  - desc: >-
+      Faircourt Asset Management Inc. est largement reconnu comme un innovateur
+      dans l'industrie canadienne des fonds.
+
+
+      Les administrateurs et les dirigeants du gestionnaire possèdent une grande
+      expérience de l'analyse et de la compréhension des risques associés aux
+      aspects commerciaux des fonds de revenu, de la gestion discrétionnaire des
+      placements, de la gestion des actifs ainsi que du processus global de
+      placement, et possèdent collectivement 63 ans d'expérience dans le secteur
+      des placements.
+
+
+      Nous croyons que les compétences de notre équipe de gestion, combinées à
+      l'expérience professionnelle de nos administrateurs, fournissent à
+      Faircourt l'expertise et la structure de gouvernance nécessaires pour
+      gérer nos Fonds conformément aux objectifs et à la stratégie de placement
+      de chaque Fonds.
+    image: /img/faircourt_asset_management_inc_cg11cvc-2-.jpg
+    title: Faircourt Asset Management Inc.
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

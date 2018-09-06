@@ -154,5 +154,12 @@ partenaires:
       des solutions concrètes. 
     image: /img/ninepoint_logo_2017_rgb.jpg
     title: 'Ninepoint Partners '
+  - desc: >-
+      Le Groupe SGF oeuvre comme consultants pour les entrepreneurs dans le
+      domaine du cannabis en offrant des services de coaching d'affaires,
+      d'accompagnement de producteurs ainsi que d'information sur la
+      légalisation du cannabis.
+    image: /img/groupe-sgf.png
+    title: Groupe SGF
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

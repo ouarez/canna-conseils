@@ -80,5 +80,21 @@ partenaires:
       de chaque Fonds.
     image: /img/faircourt_asset_management_inc_cg11cvc-2-.jpg
     title: Faircourt Asset Management Inc.
+  - desc: >
+      CSE est une solution de rechange aux bourses traditionnelles dont les
+      coûts élevés et les exigences en matière de capitalisation constituent
+      souvent des barrières aux négociations des titres d'une petite société. En
+      réponse à la consolidation des bourses du Canada, les fondateurs du CSE
+      ont déterminé qu'il existe un besoin pour un marché boursier rationalisé,
+      économique et doté de normes de divulgation extrêmement élevées. Le modèle
+      de marché unique du CSE combine la divulgation améliorée, la
+      réglementation rationalisée de l’émetteur au moyen de la technologie de
+      pointe, de façon à répondre aux besoins et aux caractéristiques des
+      sociétés ouvertes, de leurs investisseurs et des courtiers. Ce modèle,
+      combiné à une surveillance réglementaire exhaustive, propose un nouveau
+      marché efficace offrant intégrité, transparence et liquidités aux fins de
+      négociation de titres de participation.
+    image: /img/cse.png
+    title: CSE
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

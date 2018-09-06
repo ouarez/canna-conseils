@@ -43,5 +43,22 @@ partenaires:
       intangibles au Canada.
     image: /img/robic.png
     title: Robic
+  - desc: >-
+      Lift & Co s'engage à aider les Canadiens à s'implanter sur les marchés
+      émergents du cannabis médicale et récréatif. Nos recommandations sur les
+      souches de cannabis appuyées par des données et axées sur l'utilisateur,
+      notre contenu éducatif accessible et les nouvelles de l'industrie aideront
+      les débutants comme les experts du cannabis. Nous voulons vous aider à
+      découvrir les produits les plus innovants et les plus fiables, à faire des
+      choix sains et à obtenir des rabais grâce à Lift & Co. 
+
+
+      Nous nous sommes lancés pour la première fois en 2014 pour soutenir la
+      communauté médicale du cannabis, un groupe de plus en plus nombreux qui
+      s'est efforcé de légitimer les applications thérapeutiques du cannabis et
+      qui a été à l'avant-garde du mouvement pour réduire la stigmatisation
+      entourant le cannabis. 
+    image: /img/lift-and-co.png
+    title: Lift & Co
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

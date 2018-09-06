@@ -244,5 +244,27 @@ partenaires:
       consommer dans un environnement contrôlé.
     image: /img/mtl_420_tours_logo_100x.png
     title: Montréal 420 Tours
+  - desc: >
+      Fondée en 2006, l’agence H2O communication aide les entreprises à
+      progresser plus rapidement et à générer plus de profits en créant un
+      impact optimal dans leurs communications.  Elle se spécialise dans la
+      création de branding percutant et de campagnes publicitaires efficaces. 
+      Elle permet aux entreprises d’augmenter leur notoriété et leur
+      rayonnement.  Elle devient aujourd’hui un partenaire important pour ses
+      clients pour tout ce qui touche leur marque.
+
+
+      Nous mettons en valeur votre identité visuelle, afin de vous distinguer de
+      la concurrence et ainsi devenir une entreprise remarquée et remarquable.
+      Nous créons l’empreinte que votre marque laissera sur son passage, qui
+      inspira confiance et sera gage de succès.  H2O communication compte
+      plusieurs clients dans bon nombre de secteurs, notamment dans le domaine
+      de l’alimentation et de la santé, autant B2B que B2C.
+
+
+      Nos stratégies permettent d’augmenter vos ventes et d‘obtenir des
+      résultats concrets.
+    image: /img/h2o_communication_logo.jpg
+    title: H2O Communication
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

@@ -182,5 +182,29 @@ partenaires:
       régulièrement validé. 
     image: /img/profile-soft.gif
     title: ProfileSoft Inc.
+  - desc: >-
+      Depuis l'entrée en vigueur du MMAR, C&G a aidé des centaines de patients à
+      communiquer avec des professionnels de la santé afin de s'inscrire auprès
+      de producteurs autorisés et même de cultiver leur propre cannabis à des
+      fins médicales. Aujourd'hui, avec le programme ACMPR, nous continuons à
+      aider les patients canadiens d'un océan à l'autre, tout en mettant
+      l'accent sur les licences commerciales des entrepreneurs désirant se
+      lancer sur le marché canadien en pleine expansion du cannabis. 
+
+
+      La légalisation en cours au Canada est la plus grande expérience fédérale
+      de cannabis au monde et le plus grand changement de politique concernant
+      les substances contrôlées au pays depuis la prohibition. Ce changement de
+      marché suscite beaucoup d'intérêt chez les investisseurs au Canada et
+      ailleurs dans le monde qui cherchent à obtenir l'autorisation de Santé
+      Canada pour produire de la marijuana à des fins médicales. 
+
+
+      Notre équipe est composée d'experts juridiques, CPA, Phd, architectes et
+      ingénieurs, qui ont fait leurs preuves dans ce secteur. Nous prendrons
+      entièrement en charge votre projet afin d'assurer son approbation et sa
+      conformité avec Santé Canada. 
+    image: /img/consult-and-grow.jpg
+    title: Consult & Grow
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

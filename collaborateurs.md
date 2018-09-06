@@ -96,5 +96,23 @@ partenaires:
       négociation de titres de participation.
     image: /img/cse.png
     title: CSE
+  - desc: >-
+      Marsh s’appuie sur une approche d’équipe pour répondre aux besoins des
+      clients en matière de gestion des risques et d’assurance. Chaque relation
+      client est coordonnée par un chargé de clientèle qui puise ses
+      connaissances dans divers groupes d’expertise, afin de mettre en place les
+      ressources nécessaires pour analyser, mesurer et aider le client à gérer
+      ses risques variés.
+
+
+      Dans le but de soutenir les objectifs stratégiques et opérationnels de nos
+      clients en matière de gestion de risques, nous fournissons des services de
+      conseils, de courtage et d’assistance règlement par l’intermédiaire de nos
+      groupes d’expertises et services spécialisés mondiaux. Nos employés se
+      fondent sur une expérience et des connaissances approfondies du secteur
+      d’activité des clients pour offrir une protection étendue contre les
+      risques et réduire le coût total de risque de nos clients.
+    image: /img/marsh.jpg
+    title: Marsh
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

@@ -491,6 +491,6 @@ intervenants:
     image: /img/marcel-boily.png
     job: Président-fondateur
     name: Yvan-Marcel Boily
-    video: 'https://vimeo.com/287318411'
+    video: 'https://vimeo.com/288605439'
 ---
 

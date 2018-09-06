@@ -223,5 +223,13 @@ partenaires:
       croissance.
     image: /img/endo-logo.png
     title: Endo & Associés
+  - desc: >-
+      Puissant, progressif et repoussant les limites, High On Love redéfinit
+      l'intimité pour le 21ème siècle. Sous la vision d'Angela Mustone, la
+      marque de bien-être sexuel exploite le pouvoir du cannabis pour rapprocher
+      les couples sur un tout autre plan. Fabriqué avec du cannabis médical de
+      première qualité.
+    image: /img/highonlove.jpg
+    title: HighonLove
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

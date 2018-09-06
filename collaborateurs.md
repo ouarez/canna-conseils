@@ -114,5 +114,14 @@ partenaires:
       risques et réduire le coût total de risque de nos clients.
     image: /img/marsh.jpg
     title: Marsh
+  - desc: >-
+      Emerald Health Therapeutics est un producteur de cannabis médical pour
+      Santé Canada. Emerald a combiné des compétences de base issues de
+      décennies d'expérience dans l'innovation pharmaceutique avec une expertise
+      agricole à grande échelle. Notre ambition est d'être à l'avant-garde du
+      développement de connaissances et de produits qui apportent bien-être et
+      bienfaits pour la santé grâce au cannabis.
+    image: /img/logo-emerald-health.jpg
+    title: Emerald Therapeutics Inc.
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

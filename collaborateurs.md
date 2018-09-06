@@ -266,5 +266,14 @@ partenaires:
       résultats concrets.
     image: /img/h2o_communication_logo.jpg
     title: H2O Communication
+  - desc: >-
+      Hush-Kush crée, développe et promeut des accessoires raffinés destinés aux
+      amateurs de cannabis en alliant esthétisme, versatilité, discrétion et
+      sensibilité à l'environnement. Une technologie unique.
+
+      Une expérience qui se distingue, des produits artistiques et authentiques
+      qui font partie intégrante du quotidien.
+    image: /img/logo-hush-kush-3-1-.png
+    title: Hush-Kush
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

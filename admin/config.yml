@@ -185,7 +185,7 @@ collections:
          file: "_data/settings.yml"
          description: "Paramètres Généraux"
          fields:
-           - {label: "Titre du site", name: "site_title", widget: "string"}
+           - {label: "Titre du site", name: "site_name", widget: "string"}
            - {label: "Courriel de contact", name: "site_email", widget: "string", required: false}
            - {label: "Numéro de téléphone de contact", name: "site_tel", widget: "string", required: false}
            - {label: "Logo du site", name: "site_logo", widget: "image", required: false}

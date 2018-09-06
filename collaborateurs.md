@@ -161,5 +161,26 @@ partenaires:
       légalisation du cannabis.
     image: /img/groupe-sgf.png
     title: Groupe SGF
+  - desc: >-
+      En tant qu'entreprise spécialisée dans la gestion des ressources humaines,
+      ProfileSoft vous offre une variété de solutions pour tous vos besoins en
+      RH : relève, sélection, perfectionnement, promotion, etc.
+
+
+      Leur équipe multidisciplinaire possède une vaste expérience dans des
+      domaines aussi variés que le développement d'affaires, le marketing, la
+      formation ou la planification stratégique. Grâce à une solide formation et
+      à plus de vingt années d'expertise dans le domaine, leurs professionnels
+      sauront vous faire économiser argent, temps et énergie.
+
+
+      Leur mission est la suivante : " La bonne personne, à la bonne place, au
+      bon moment. " Pour ce faire, ils ont mis au point un outil d'appréciation
+      du potentiel humain. Grâce à leur équipe de chercheurs performants et à de
+      substantiels investissements en recherche et développement, ils peuvent
+      vous assurer de la fiabilité et de l'efficacité de notre outil, qui est
+      régulièrement validé. 
+    image: /img/profile-soft.gif
+    title: ProfileSoft Inc.
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

@@ -490,7 +490,7 @@ intervenants:
         name: 'Le cannabis: remède contre le chômage'
     image: /img/marcel-boily.png
     job: Président-fondateur
-    name: Yves-Marcel Boily
-    video: 'https://vimeo.com/287318411'
+    name: Yvan-Marcel Boily
+    video: 'https://vimeo.com/288605439'
 ---
 

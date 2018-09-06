@@ -206,6 +206,31 @@ schedules:
     time: 12h15 - 13h30
     title: 'Pause-déjeuner, présentation des produits'
   - desc: >-
+      Canna-Conseils vous propose des conférences spéciales en anglais animées
+      par des experts du monde du cannabis. 
+
+
+      Ainsi, le lundi 24 septembre, Nick Pateras (Lift & Co) donnera une
+      conférence sur l'émergence des marchés internationaux, l'importance des
+      marques et l'implication globale des entreprises canadiennes de cannabis
+      et des entrepreneurs qui envisagent de s'implanter dans cette industrie.
+
+
+      Le samedi 29 septembre, Charles Taerk (Faircourt Asset Management Inc.)
+      donnera une conférence intitulée "Les nouvelles possibilités
+      d'investissement dans l'industrie du cannabis".
+    intervenants:
+      - company: Lift & Co
+        days: Présent le lundi 24 septembre
+        image: /img/nick-pateras-min.png
+        name: Nick Pateras
+      - company: Faircourt Asset Management Inc.
+        days: Samedi 29 septembre
+        image: /img/charles-taerk-hi-res-min.jpg
+        name: Charles Taerk
+    time: 12h45 - 13h30
+    title: La conférence du jour (en anglais)
+  - desc: >-
       La consommation du Cannabis récréatif n’est même pas encore légalisée que
       son utilisation à des fins dites médicales est pratiquée depuis plusieurs
       années. De nombreuses études menées par des Laboratoires valident
@@ -275,7 +300,7 @@ schedules:
       - company: ProfileSoft Inc.
         days: Présent tous les jours
         image: /img/marcel-boily.png
-        name: Yves-Marcel Boily
+        name: Yvan-Marcel Boily
     time: 15h00 - 16h00
     title: 'Le cannabis : remède contre le chômage ?'
   - desc: >-

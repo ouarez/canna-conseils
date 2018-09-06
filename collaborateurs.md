@@ -7,4 +7,4 @@ slogan2: ''
 cover_image: /img/bg-page.jpg
 partenaires: []
 ---
-Texte d'introduction
+

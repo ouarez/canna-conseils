@@ -47,7 +47,7 @@ event_days: Lundi 24 Sept. - Samedi 29 Sept.
 event_time: '08:00 - 18:00'
 event_location: Novotel Montréal Centre
 event_address_1: 1180 Rue de la Montagne
-event_address_2: Montréal
+event_address_2: ''
 event_link: /inscriptions
 event_link_text: Inscription
 horaire_title: Programme de la journée

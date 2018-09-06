@@ -173,3 +173,46 @@ collections:
             widget: "list"
             fields:
               - {label: Type, name: type, widget: string}
+
+  - name: "settings"
+    label: "Paramètres du site"
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+     preview: false
+    files:
+       - name: "general"
+         label: "Général"
+         file: "_data/settings.yml"
+         description: "Paramètres Généraux"
+         fields:
+           - {label: "Titre du site", name: "site_title", widget: "string"}
+           - {label: "Courriel de contact", name: "site_email", widget: "string", required: false}
+           - {label: "Numéro de téléphone de contact", name: "site_tel", widget: "string", required: false}
+           - {label: "Logo du site", name: "site_logo", widget: "image", required: false}
+           - {label: "Adresse (ligne 1)", name: "site_address_1", widget: "string", required: false}
+           - {label: "Adresse (ligne 2)", name: "site_address_2", widget: "string", required: false}
+           - {label: "Lien vers page Facebook", name: "url_facebook", widget: "string", required: false}
+           - {label: "Lien vers page Instagram", name: "url_instagram", widget: "string", required: false}
+           - {label: "Lien vers page Twitter", name: "url_twitter", widget: "string", required: false}
+           - {label: "Lien vers page Youtube", name: "url_youtube", widget: "string", required: false}
+
+       - name: "navigation"
+         label: "Navigation"
+         file: "_data/navigation.yml"
+         description: "Navigation du site"
+         fields:
+          - label: "Liens navigation"
+            name: main_nav
+            widget: list
+            required: false
+            fields:
+              - {label: Titre, name: title, widget: string}
+              - {label: URL, name: url, widget: string}
+
+          - label: "Liens rapides (bas-de-page)"
+            name: footer_nav
+            widget: list
+            required: false
+            fields:
+              - {label: Titre, name: title, widget: string}
+              - {label: URL, name: url, widget: string}

@@ -5,6 +5,43 @@ description: Prenez une longueur d'avance dans l'industrie du cannabis
 slogan1: Nos Collaborateurs
 slogan2: ''
 cover_image: /img/bg-page.jpg
-partenaires: []
----
+partenaires:
+  - desc: >-
+      Fondé à Montréal en 1892, le cabinet ROBIC s’est taillé une réputation
+      d’excellence en propriété intellectuelle au Canada et jouit à présent
+      d’une renommée internationale. Nos bureaux de Montréal et de Québec
+      regroupent plus de 180 employés de soutien et professionnels hautement
+      qualifiés et spécialisés en propriété intellectuelle et en droit des
+      affaires.
 
+
+      À l’échelle nationale, ROBIC est le 4e plus important déposant de marques
+      de commerce. La qualité et le nombre de brevets déposés annuellement au
+      Canada lui ont valu une notoriété incontestable. En outre, nos avocats
+      spécialisés en litige, dont certains sont reconnus par leurs pairs comme
+      étant les meilleurs plaideurs en propriété intellectuelle au pays,
+      représentent nos clients devant les tribunaux, notamment la Cour fédérale
+      du Canada, les tribunaux provinciaux du Québec, la Cour suprême du Canada
+      ainsi que plusieurs tribunaux administratifs spécialisés.
+
+
+      En plus d’offrir tous les services en propriété intellectuelle, ROBIC
+      dispose d’une équipe chevronnée d’avocats en droit des affaires, dont
+      l’expertise est reconnue à l’échelle internationale. Notre équipe en droit
+      des affaires conseille nos clients sur la manière d’obtenir et de
+      maintenir un avantage concurrentiel sur le marché et offre des solutions à
+      la fois créatives et pragmatiques aux enjeux les plus complexes. Elle
+      s’est taillé une réputation enviable dans des domaines comme le droit
+      corporatif et le droit commercial ainsi que dans des domaines plus
+      spécialisés du droit des affaires, tels les transferts de technologie et
+      les licences, la concurrence, les télécommunications et les technologies
+      de l’information.
+
+
+      Depuis 125 ans, ROBIC est la référence en matière de protection et de
+      commercialisation des droits de propriété intellectuelle et autres actifs
+      intangibles au Canada.
+    image: /img/robic.png
+    title: Robic
+---
+Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

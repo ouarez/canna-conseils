@@ -286,5 +286,30 @@ schedules:
     title: Tables Rondes et exposition
   - time: 18h00
     title: Cocktail de Clôture
+  - desc: >-
+      Canna-Conseils vous propose des conférences spéciales en anglais animées
+      par des experts du monde du cannabis. 
+
+
+      Ainsi, le lundi 24 septembre, Nick Pateras (Lift & Co) donnera une
+      conférence sur l'émergence des marchés internationaux, l'importance des
+      marques et l'implication globale des entreprises canadiennes de cannabis
+      et des entrepreneurs qui envisagent de s'implanter dans cette industrie.
+
+
+      Le samedi 29 septembre, Charles Taerk (Faircourt Asset Management Inc.)
+      donnera une conférence intitulée "Les nouvelles possibilités
+      d'investissement dans l'industrie du cannabis".
+    intervenants:
+      - company: Lift & Co
+        days: Présent le lundi 24 septembre
+        image: /img/nick-pateras-min.png
+        name: Nick Pateras
+      - company: Faircourt Asset Management Inc.
+        days: Samedi 29 septembre
+        image: /img/charles-taerk-hi-res-min.jpg
+        name: Charles Taerk
+    time: 12h45 - 13h30
+    title: La conférence du jour (en anglais)
 ---
 

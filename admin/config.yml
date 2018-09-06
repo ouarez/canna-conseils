@@ -208,11 +208,3 @@ collections:
             fields:
               - {label: Titre, name: title, widget: string}
               - {label: URL, name: url, widget: string}
-
-          - label: "Liens rapides (bas-de-page)"
-            name: footer_nav
-            widget: list
-            required: false
-            fields:
-              - {label: Titre, name: title, widget: string}
-              - {label: URL, name: url, widget: string}

@@ -275,5 +275,16 @@ partenaires:
       qui font partie intégrante du quotidien.
     image: /img/logo-hush-kush-3-1-.png
     title: Hush-Kush
+  - desc: >-
+      Chez Marijuana Marketing Gurus, notre mission est simple. Nous croyons en
+      la prestation de services de marketing créatifs de pointe pour l'industrie
+      du cannabis à des fins récréatives et médicinales. Nous sommes ici pour
+      éclairer votre chemin et guider votre vision vers le succès dans le
+      nouveau marché du cannabis en pleine expansion. Combinant un design
+      visionnaire, un référencement puissant, des stratégies innovantes et des
+      analyses perspicaces, nous offrons à l'industrie du cannabis une publicité
+      et un marketing vraiment efficaces pour la marijuana.
+    image: /img/mmg.jpg
+    title: Marijuana Marketing Gurus
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

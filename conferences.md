@@ -251,7 +251,7 @@ schedules:
         days: Présent tous les jours
         image: /img/stéphane-maurais.jpg
         name: Stéphane Maurais
-      - company: Emerald Health Therapeutics Inc.
+      - company: Emerald
         days: Présent le 28 et le 29
         image: /img/photo-maheep-dhillon.jpg
         name: Maheep Dhillon

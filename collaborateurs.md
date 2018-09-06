@@ -133,5 +133,26 @@ partenaires:
       le bien-être.
     image: /img/logo-emerald-health.jpg
     title: Emerald Therapeutics Inc.
+  - desc: >-
+      Établie à Toronto, Ninepoint Partners a pris en charge la gestion de
+      portefeuille des actifs diversifiés canadiens de Sprott Asset Management
+      (SAM), y compris des fonds de couverture et des fonds communs de placement
+      gérés activement, tout en offrant des stratégies de pointe en matière de
+      ressources et de métaux précieux dans le cadre d'une relation exclusive
+      avec SAM. La nouvelle société supervise un actif sous gestion d'environ 3
+      milliards de dollars.
+
+
+      Ninepoint Partners est un gestionnaire de placements indépendant qui
+      s'engage à ajouter de la valeur aux portefeuilles des investisseurs tout
+      en aidant à différencier les activités des conseillers.
+
+
+      En tant qu'équipe, nous avons une longue expérience dans la gestion de
+      revenus alternatifs, d'actifs réels et de stratégies de base diversifiées.
+      Ce qui nous définit, c'est notre capacité d'innover et de l'appliquer à
+      des solutions concrètes. 
+    image: /img/ninepoint_logo_2017_rgb.jpg
+    title: 'Ninepoint Partners '
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

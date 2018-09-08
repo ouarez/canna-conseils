@@ -50,14 +50,14 @@ partenaires:
       notre contenu éducatif accessible et les nouvelles de l'industrie aideront
       les débutants comme les experts du cannabis. Nous voulons vous aider à
       découvrir les produits les plus innovants et les plus fiables, à faire des
-      choix sains et à obtenir des rabais grâce à Lift & Co. 
+      choix sains et à obtenir des rabais grâce à Lift & Co.
 
 
       Nous nous sommes lancés pour la première fois en 2014 pour soutenir la
       communauté médicale du cannabis, un groupe de plus en plus nombreux qui
       s'est efforcé de légitimer les applications thérapeutiques du cannabis et
       qui a été à l'avant-garde du mouvement pour réduire la stigmatisation
-      entourant le cannabis. 
+      entourant le cannabis.
     image: /img/lift-and-co.png
     title: Lift & Co
   - desc: >-
@@ -78,7 +78,7 @@ partenaires:
       Faircourt l'expertise et la structure de gouvernance nécessaires pour
       gérer nos Fonds conformément aux objectifs et à la stratégie de placement
       de chaque Fonds.
-    image: /img/faircourt_asset_management_inc_cg11cvc-2-.jpg
+    image: /img/faircourt_asset_management.png
     title: Faircourt Asset Management Inc.
   - desc: >
       CSE est une solution de rechange aux bourses traditionnelles dont les
@@ -151,7 +151,7 @@ partenaires:
       En tant qu'équipe, nous avons une longue expérience dans la gestion de
       revenus alternatifs, d'actifs réels et de stratégies de base diversifiées.
       Ce qui nous définit, c'est notre capacité d'innover et de l'appliquer à
-      des solutions concrètes. 
+      des solutions concrètes.
     image: /img/ninepoint_logo_2017_rgb.jpg
     title: 'Ninepoint Partners '
   - desc: >-
@@ -179,7 +179,7 @@ partenaires:
       du potentiel humain. Grâce à leur équipe de chercheurs performants et à de
       substantiels investissements en recherche et développement, ils peuvent
       vous assurer de la fiabilité et de l'efficacité de notre outil, qui est
-      régulièrement validé. 
+      régulièrement validé.
     image: /img/profile-soft.gif
     title: ProfileSoft Inc.
   - desc: >-
@@ -189,7 +189,7 @@ partenaires:
       fins médicales. Aujourd'hui, avec le programme ACMPR, nous continuons à
       aider les patients canadiens d'un océan à l'autre, tout en mettant
       l'accent sur les licences commerciales des entrepreneurs désirant se
-      lancer sur le marché canadien en pleine expansion du cannabis. 
+      lancer sur le marché canadien en pleine expansion du cannabis.
 
 
       La légalisation en cours au Canada est la plus grande expérience fédérale
@@ -197,13 +197,13 @@ partenaires:
       les substances contrôlées au pays depuis la prohibition. Ce changement de
       marché suscite beaucoup d'intérêt chez les investisseurs au Canada et
       ailleurs dans le monde qui cherchent à obtenir l'autorisation de Santé
-      Canada pour produire de la marijuana à des fins médicales. 
+      Canada pour produire de la marijuana à des fins médicales.
 
 
       Notre équipe est composée d'experts juridiques, CPA, Phd, architectes et
       ingénieurs, qui ont fait leurs preuves dans ce secteur. Nous prendrons
       entièrement en charge votre projet afin d'assurer son approbation et sa
-      conformité avec Santé Canada. 
+      conformité avec Santé Canada.
     image: /img/consult-and-grow.jpg
     title: Consult & Grow
   - desc: >-
@@ -242,13 +242,13 @@ partenaires:
       développement, d'analyse de terrain et d'investissement. Nous proposerons,
       si la loi le permet, plusieurs types de circuits où il sera possible de
       consommer dans un environnement contrôlé.
-    image: /img/mtl_420_tours_logo_100x.png
+    image: /img/montreal_420_tours.jpg
     title: Montréal 420 Tours
   - desc: >
       Fondée en 2006, l’agence H2O communication aide les entreprises à
       progresser plus rapidement et à générer plus de profits en créant un
       impact optimal dans leurs communications.  Elle se spécialise dans la
-      création de branding percutant et de campagnes publicitaires efficaces. 
+      création de branding percutant et de campagnes publicitaires efficaces.
       Elle permet aux entreprises d’augmenter leur notoriété et leur
       rayonnement.  Elle devient aujourd’hui un partenaire important pour ses
       clients pour tout ce qui touche leur marque.
@@ -284,7 +284,7 @@ partenaires:
       visionnaire, un référencement puissant, des stratégies innovantes et des
       analyses perspicaces, nous offrons à l'industrie du cannabis une publicité
       et un marketing vraiment efficaces pour la marijuana.
-    image: /img/mmg.jpg
+    image: /img/marijuana-marketing-gurus.jpg
     title: Marijuana Marketing Gurus
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

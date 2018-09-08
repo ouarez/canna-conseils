@@ -18,12 +18,19 @@ layout: default
         <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Courriel*" type="email" name="courriel" id="courriel" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$">
         <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Téléphone*" type="tel" name="tel" id="tel" pattern="^\d{3}-\d{3}-\d{4}$">
         <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Entreprise" type="text" name="entreprise" id="entreprise">
-        <select class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" required name="journee" id="journee">
-          <option value="" disabled selected>Journée*</option>
-          {% for item in page.days %}
-          <option value="{{item.day}}">{{item.day}}</option>
-          {% endfor %}
-        </select>
+
+        <fieldset class="w-100 pa3 mv2 input-reset flex flex-wrap">
+            <legend>Choisir une journée</legend>
+
+            {% for item in page.days %}
+            <div class="w-50 dib pb2 black">
+              <input type="checkbox" id="{{item.day}}" name="{{item.day}}" />
+              <label for="{{item.day}}">{{item.day}}</label>
+            </div>
+            {% endfor %}
+
+        </fieldset>
+
         <select class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" required  name="niveau" id="niveau">
           <option value="" disabled selected>Niveau*</option>
           {% for item in page.types %}

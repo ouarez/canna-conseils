@@ -61,7 +61,7 @@ reservation_box_1:
     - desc: Petit-déjeuner
     - desc: Connexion WIFI
     - desc: Taxes en sus
-  price: 250$
+  price: 80$
   subtext: Accès illimité
   title: Argent
 reservation_box_2:
@@ -71,9 +71,8 @@ reservation_box_2:
     - desc: Petit-déjeuner
     - desc: Connexion WIFI
     - desc: Une table d'exposition
-    - desc: Une carte de membre annuelle
     - desc: Taxes en sus
-  price: 295$
+  price: 100$
   subtext: Accès illimité
   title: Or
 ---

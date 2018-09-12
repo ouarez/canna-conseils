@@ -286,5 +286,18 @@ partenaires:
       et un marketing vraiment efficaces pour la marijuana.
     image: /img/marijuana-marketing-gurus.jpg
     title: Marijuana Marketing Gurus
+  - desc: >-
+      Entreprise manufacturière québécoise de produits biotechnologiques en
+      opération depuis 2007, Solutions Enbiotech Plus se spécialise dans la
+      fabrication de neutralisants d’odeurs et nettoyants depuis plus d’une
+      décennie. Par son expertise du domaine, cette société de chez nous située
+      sur la rive-sud de Montréal se démarque de la concurrence avec ses
+      applications hautes de gammes de très grandes efficacités. Commercialisant
+      sa gamme complète d’applications à l’intérieur de marchés au détail aussi
+      variés que ceux du sport, des animaux de compagnie et plus récemment les
+      centres hydroponiques, Solutions Enbiotech Plus dessert également
+      plusieurs distributeurs sanitaire partout en province.
+    image: /img/logo-solutions-enbiotech-plus.png
+    title: Solutions Enbiotech Plus
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

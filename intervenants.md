@@ -7,6 +7,50 @@ slogan2: ''
 cover_image: /img/bg-page.jpg
 intervenants:
   - bio: >-
+      Maxime Guérin est associé de la firme Saraïlis Avocats et est responsable
+      du département du cabinet en droit du travail et de l&#39;emploi et exerce
+      aussi en litige civil et commercial, principalement dans le domaine
+      immobilier en plus d&#39;avoir développé une pratique spécialisée dans
+      l'industrie du cannabis. Il est diplômé de l’université Laval en 2012 et
+      est membre du Barreau du Québec depuis 2014. C’est au sein de Groupe SGF -
+      Consultants en cannabis, une division de Saraïlis Avocats, que Me Guérin a
+      développé une expertise afin d’accompagner les demandeurs de licences de
+      producteurs autorisés auprès de Santé Canada en plus d’aider les
+      entrepreneurs de tous horizons à développer leurs projets d’affaires dans
+      l’industrie du cannabis. Il accompagne les entrepreneurs dans leurs
+      démarches administratives mais aussi dans celles relatives au financement
+      et aux partenariats stratégiques d’affaires.
+    company: Groupe SGF
+    conferences:
+      - date: 'Présent le 26, 27, 28 et 29'
+        name: >-
+          Partez à la conquête de l'Or Vert et profitez de cette économie
+          émergente
+    image: /img/maxime-guerin.png
+    job: 'Avocat et Consultant en cannabis '
+    name: Maxime Guérin
+    video: 'https://vimeo.com/288166627'
+  - bio: >-
+      Jason Moscovici est avocat chez ROBIC SENCRL et conseille ses clients sur
+      tout ce qui a trait à la propriété intellectuelle (marques de commerce,
+      brevets, droits d'auteur, dessins industriels, licences, secrets
+      commerciaux, obtentions végétales, etc.). Il agit également comme
+      conseiller auprès de l'industrie canadienne du cannabis et fournit des
+      conseils sur les nombreux enjeux auxquels elle est confrontée : stratégie,
+      affaires commerciales, financement, conformité réglementaire, étiquetage,
+      publicité, distribution, vente, marketing, recherche et développement,
+      transferts de technologie et vérification diligente.
+    company: Robic
+    conferences:
+      - date: Présent le 25 et le 26
+        name: >-
+          Partez à la conquête de l'Or Vert et profitez de cette économie
+          émergente
+    image: /img/jason-moscovici-min.jpg
+    job: Avocat et biochimiste
+    name: Jason Moscovici
+    video: 'https://vimeo.com/287499042'
+  - bio: >-
       Guillaume Endo est membre fondateur du cabinet Endo & Associés. Spécialisé
       en droit commercial et en droit des affaires, il possède une vaste
       expertise dans les domaines des fusions et acquisitions de PME, la
@@ -51,50 +95,6 @@ intervenants:
     job: Avocat et membre fondateur du cabinet
     name: Guillaume Endo
     video: ''
-  - bio: >-
-      Jason Moscovici est avocat chez ROBIC SENCRL et conseille ses clients sur
-      tout ce qui a trait à la propriété intellectuelle (marques de commerce,
-      brevets, droits d'auteur, dessins industriels, licences, secrets
-      commerciaux, obtentions végétales, etc.). Il agit également comme
-      conseiller auprès de l'industrie canadienne du cannabis et fournit des
-      conseils sur les nombreux enjeux auxquels elle est confrontée : stratégie,
-      affaires commerciales, financement, conformité réglementaire, étiquetage,
-      publicité, distribution, vente, marketing, recherche et développement,
-      transferts de technologie et vérification diligente.
-    company: Robic
-    conferences:
-      - date: Présent le 25 et le 26
-        name: >-
-          Partez à la conquête de l'Or Vert et profitez de cette économie
-          émergente
-    image: /img/jason-moscovici-min.jpg
-    job: Avocat et biochimiste
-    name: Jason Moscovici
-    video: 'https://vimeo.com/287499042'
-  - bio: >-
-      Maxime Guérin est associé de la firme Saraïlis Avocats et est responsable
-      du département du cabinet en droit du travail et de l&#39;emploi et exerce
-      aussi en litige civil et commercial, principalement dans le domaine
-      immobilier en plus d&#39;avoir développé une pratique spécialisée dans
-      l'industrie du cannabis. Il est diplômé de l’université Laval en 2012 et
-      est membre du Barreau du Québec depuis 2014. C’est au sein de Groupe SGF -
-      Consultants en cannabis, une division de Saraïlis Avocats, que Me Guérin a
-      développé une expertise afin d’accompagner les demandeurs de licences de
-      producteurs autorisés auprès de Santé Canada en plus d’aider les
-      entrepreneurs de tous horizons à développer leurs projets d’affaires dans
-      l’industrie du cannabis. Il accompagne les entrepreneurs dans leurs
-      démarches administratives mais aussi dans celles relatives au financement
-      et aux partenariats stratégiques d’affaires.
-    company: Groupe SGF
-    conferences:
-      - date: 'Présent le 26, 27, 28 et 29'
-        name: >-
-          Partez à la conquête de l'Or Vert et profitez de cette économie
-          émergente
-    image: /img/maxime-guerin.png
-    job: 'Avocat et Consultant en cannabis '
-    name: Maxime Guérin
-    video: 'https://vimeo.com/288166627'
   - bio: >-
       Patrick Leroux travaille au bureau de Marsh à Montréal depuis 1991 et est
       membre de l’équipe de direction. Il collabore étroitement avec

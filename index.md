@@ -36,7 +36,7 @@ intro_text: >-
 
   Ainsi, que vous soyez professionnels, investisseurs, assureurs, gestionnaires,
   recruteurs, médecins, restaurateurs, architectes, entrepreneurs en
-  construction, formateurs, étudiants, agriculteurs, fabricants de serres, à la
+  construction, formateurs, étudiants, agriculteurs, manufacturiers, à la
   recherche d'un emploi ou tout simplement curieux, nos formations s'adressent à
   vous !
 

@@ -38,21 +38,9 @@ collections:
           - {label: "Slogan de l'horaire", name: "horaire_slogan", widget: "string"}
           - {label: "Titre Intervenants", name: "intervenants_title", widget: "string"}
           - {label: "Titre Réservations", name: "reservation_title", widget: "string"}
-          - label: "Réservations Boîte 1"
-            name: "reservation_box_1"
-            widget: "object"
-            fields:
-              - {label: "Titre", name: "title", widget: "string"}
-              - {label: "Prix", name: "price", widget: "string"}
-              - {label: "Prix (sous-texte)", name: "subtext", widget: "string"}
-              - label: "Liste des forfaits inclus"
-                name: "features"
-                widget: "list"
-                fields:
-                  - {label: Description, name: desc, widget: string}
-          - label: "Réservations Boîte 2"
-            name: "reservation_box_2"
-            widget: "object"
+          - label: "Types de réservations"
+            name: "reservation_box"
+            widget: "list"
             fields:
               - {label: "Titre", name: "title", widget: "string"}
               - {label: "Prix", name: "price", widget: "string"}

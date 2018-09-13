@@ -133,7 +133,7 @@ schedules:
     time: 10h45 - 11h15
     title: >-
       S’approvisionner, distribuer et communiquer : les étapes clés pour
-      connaître un canna-succès
+      connaître un véritable succès
   - desc: >-
       Selon Statistique Canada, le marché du Cannabis récréatif est estimé à 6,5
       milliards de dollars. De nombreux investisseurs ont compris la « machine à

@@ -10,23 +10,23 @@ cover_link_text: Inscrivez-vous dès maintenant !
 cover_link: /inscriptions
 intro_title: Qu’est-ce que la Semaine du Cannabis ?
 intro_text: >-
-  La Semaine du Cannabis est une formation sur mesure d’une durée de 6 jours.
-  Cette semaine permet concrètement aux participants de prendre conscience en
-  une formation accélérée des tenants et aboutissants de l’industrie la plus
-  prometteuse de notre décennie. Les participants auront donc l’opportunité
-  d’étudier un large éventail de sujets tels que la culture,
-  l'approvisionnement, la distribution, la communication, les produits dérivés,
-  les financements & investissements, la santé, le tourisme, l'emploi et plus
-  encore. La diversité des thèmes abordés par nos conférenciers fait la force de
-  nos formations et nous autorise ainsi à étudier ce marché à forte valeur
-  ajoutée dans sa globalité.
+  La Semaine du Cannabis est une formation sur mesure d’une durée de 5 jours
+  avec un salon professionnel le samedi. Cette semaine permet concrètement aux
+  participants de prendre conscience en une formation accélérée des tenants et
+  aboutissants de l’industrie la plus prometteuse de notre décennie. Les
+  participants auront donc l’opportunité d’étudier un large éventail de sujets
+  tels que la culture, l'approvisionnement, la distribution, la communication,
+  les produits dérivés, les financements & investissements, la santé, le
+  tourisme, l'emploi et plus encore. La diversité des thèmes abordés par nos
+  conférenciers fait la force de nos formations et nous autorise ainsi à étudier
+  ce marché à forte valeur ajoutée dans sa globalité.
 
 
-  A l’aide d’experts confirmés, les participants apprendront à développer un
-  lourd avantage concurrentiel au sein d’un marché rempli d’opportunités. En
-  effet, d'après _Le Journal de Montréal_, pas moins de 77 Canadiens sont déjà
-  devenus millionnaires avant même que la consommation du cannabis récréatif
-  soit légalisée.
+  A l’aide d’experts, les participants apprendront à développer un avantage
+  comparatif au sein d’un marché rempli d’opportunités. En effet, d'après _Le
+  Journal de Montréal_, pas moins de 77 Canadiens sont déjà devenus
+  millionnaires avant même que la consommation du cannabis récréatif soit
+  légalisée.
 
 
   Cet événement va permettre à de nombreux corps de métier de mettre à profit

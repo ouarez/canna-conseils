@@ -50,6 +50,14 @@ collections:
                 widget: "list"
                 fields:
                   - {label: Description, name: desc, widget: string}
+          - {label: "Titre", name: "rectangle_title", widget: "string"}
+          - {label: "Prix", name: "rectangle_price", widget: "string"}
+          - {label: "Prix (sous-texte)", name: "rectangle_subtext", widget: "string"}
+          - label: "Liste des forfaits inclus"
+            name: "rectangle_features"
+            widget: "list"
+            fields:
+              - {label: Description, name: desc, widget: string}
 
       - name: "intervenants"
         file: "intervenants.md"

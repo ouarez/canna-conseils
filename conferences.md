@@ -308,8 +308,6 @@ schedules:
       vos projets et vos CV. Ils se feront un plaisir de vous aiguiller au mieux
       pour que vos attentes se réalisent.
     time: 16h00 - 18h00
-    title: Tables Rondes et exposition
-  - time: 18h00
-    title: Cocktail de Clôture
+    title: Exposition
 ---
 

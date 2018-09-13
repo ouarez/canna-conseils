@@ -91,4 +91,3 @@ rectangle:
   subtext: texte
   title: Test
 ---
-

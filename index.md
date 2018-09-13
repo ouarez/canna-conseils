@@ -36,8 +36,9 @@ intro_text: >-
 
   Ainsi, que vous soyez professionnels, investisseurs, assureurs, gestionnaires,
   recruteurs, médecins, restaurateurs, architectes, entrepreneurs en
-  construction, formateurs, agriculteurs, fabricants de serres ou tout
-  simplement curieux, nos formations s'adressent à vous !
+  construction, formateurs, étudiants, agriculteurs, fabricants de serres, à la
+  recherche d'un emploi ou tout simplement curieux, nos formations s'adressent à
+  vous !
 
 
   **Notre prochaine semaine de conférence débute le 24 septembre. Inscrivez-vous

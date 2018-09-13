@@ -390,7 +390,7 @@ intervenants:
       marques bien connues en Europe, aux Etats-Unis, en Russie et en Chine.
     company: HighonLove
     conferences:
-      - date: Présente le 24 et le 29
+      - date: Présente le 24 et le 25
         name: 'Produits dérivés: le cannabis sous toutes ses formes'
     image: /img/angela-mustone.png
     job: Présidente

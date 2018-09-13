@@ -267,6 +267,20 @@ partenaires:
     image: /img/h2o_communication_logo.jpg
     title: H2O Communication
   - desc: >-
+      Fondé en 1926, le Groupe Investors vend des produits et services de
+      gestion de placements, d'assurance, de valeurs mobilières, ainsi que des
+      produits et services bancaires et hypothécaires à ses clients au moyen
+      d'une planification financière intégrée.
+
+
+      Par l'entremise d'un réseau de plus de 4 600 conseillers, la société vend
+      des conseils et des services en planification financière, notamment en ce
+      qui a trait à la planification de placements et de la retraite, ainsi qu'à
+      la planification successorale et fiscale, à près d'un million de
+      Canadiens.
+    image: /img/groupe-investors.jpg
+    title: Groupe Investors
+  - desc: >-
       Hush-Kush crée, développe et promeut des accessoires raffinés destinés aux
       amateurs de cannabis en alliant esthétisme, versatilité, discrétion et
       sensibilité à l'environnement. Une technologie unique.

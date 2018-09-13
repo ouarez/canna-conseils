@@ -35,10 +35,9 @@ intro_text: >-
 
 
   Ainsi, que vous soyez professionnels, investisseurs, assureurs, gestionnaires,
-  recruteurs, médecins, restaurateurs, architectes, entrepreneurs en
-  construction, formateurs, étudiants, agriculteurs, manufacturiers, à la
-  recherche d'un emploi ou tout simplement curieux, nos formations s'adressent à
-  vous !
+  recruteurs, médecins, architectes, entrepreneurs en construction, formateurs,
+  étudiants, professionnels de l'agroalimentaire, manufacturiers, à la recherche
+  d'un emploi ou tout simplement curieux, nos formations s'adressent à vous !
 
 
   **Notre prochaine semaine de conférence débute le 24 septembre. Inscrivez-vous

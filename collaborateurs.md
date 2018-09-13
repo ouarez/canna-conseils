@@ -44,6 +44,20 @@ partenaires:
     image: /img/robic.png
     title: Robic
   - desc: >-
+      Fondé en 1926, le Groupe Investors vend des produits et services de
+      gestion de placements, d'assurance, de valeurs mobilières, ainsi que des
+      produits et services bancaires et hypothécaires à ses clients au moyen
+      d'une planification financière intégrée.
+
+
+      Par l'entremise d'un réseau de plus de 4 600 conseillers, la société vend
+      des conseils et des services en planification financière, notamment en ce
+      qui a trait à la planification de placements et de la retraite, ainsi qu'à
+      la planification successorale et fiscale, à près d'un million de
+      Canadiens.
+    image: /img/groupe-investors.jpg
+    title: Groupe Investors
+  - desc: >-
       Lift & Co s'engage à aider les Canadiens à s'implanter sur les marchés
       émergents du cannabis médicale et récréatif. Nos recommandations sur les
       souches de cannabis appuyées par des données et axées sur l'utilisateur,
@@ -286,5 +300,18 @@ partenaires:
       et un marketing vraiment efficaces pour la marijuana.
     image: /img/marijuana-marketing-gurus.jpg
     title: Marijuana Marketing Gurus
+  - desc: >-
+      Entreprise manufacturière québécoise de produits biotechnologiques en
+      opération depuis 2007, Solutions Enbiotech Plus se spécialise dans la
+      fabrication de neutralisants d’odeurs et nettoyants depuis plus d’une
+      décennie. Par son expertise du domaine, cette société de chez nous située
+      sur la rive-sud de Montréal se démarque de la concurrence avec ses
+      applications hautes de gammes de très grandes efficacités. Commercialisant
+      sa gamme complète d’applications à l’intérieur de marchés au détail aussi
+      variés que ceux du sport, des animaux de compagnie et plus récemment les
+      centres hydroponiques, Solutions Enbiotech Plus dessert également
+      plusieurs distributeurs sanitaire partout en province.
+    image: /img/logo-solutions-enbiotech-plus.png
+    title: Solutions Enbiotech Plus
 ---
 Canna-Conseils tient à remercier les entreprises collaboratrices qui participent à la Semaine du Cannabis en tant que conférencières.

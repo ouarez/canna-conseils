@@ -133,7 +133,7 @@ schedules:
     time: 10h45 - 11h15
     title: >-
       S’approvisionner, distribuer et communiquer : les étapes clés pour
-      connaître un canna-succès
+      connaître un véritable succès
   - desc: >-
       Selon Statistique Canada, le marché du Cannabis récréatif est estimé à 6,5
       milliards de dollars. De nombreux investisseurs ont compris la « machine à
@@ -166,41 +166,26 @@ schedules:
       Quand la feuille de cannabis remplace la feuille d’érable, les actions
       montent en flèche
   - desc: >-
-      En dépit de ce que l’on peut penser, la légalisation du Cannabis récréatif
-      ouvre bien plus de portes que la simple consommation traditionnelle. Les
-      entrepreneurs ne manquent pas de créativité pour faire fructifier leurs
-      investissements tout en élargissant leur gamme de produits. C’est le cas
-      par exemple d’un laboratoire de 15 600 m2 proche d’Ottawa qui développe
-      très sérieusement des solutions alternatives (crèmes, potions etc.…) à
-      base de Cannabis. Les opportunités sont infinies et ne dépendent que d’un
-      brin d’audace et d’une profonde imagination :
+      Au sein d’une industrie en plein essor, la création d’emploi est une
+      conséquence logique s’expliquant par un besoin en main d’œuvre afin de
+      répondre aux attentes des employeurs. Nos experts vous donneront toutes
+      les clefs pour travailler dans cette industrie
 
 
-      * De nouvelles habitudes de consommation : Vins, spiritueux, bière,
-      breuvages et friandises
+      * Ce que recherchent les employeurs
 
-      * De nouveaux horizons en cosmétiques : crèmes, lotions et maquillage
+      * Les diplômes nécessaires
 
-      * Des niches pour tous les accessoires
+      * Le plan de carrière
+
+      * L’expérience professionnelle du marché noir : un atout ?
     intervenants:
-      - company: Consult&Grow
+      - company: ProfileSoft Inc.
         days: Présent tous les jours
-        image: /img/alexander-main-min.jpg
-        name: Alexander Main
-      - company: Consult&Grow
-        days: Présent tous les jours
-        image: /img/francis-hebert-min.jpg
-        name: Francis Hébert
-      - company: Hush Kush
-        days: Présente tous les jours
-        image: /img/karine-min.jpg
-        name: Karine Clément
-      - company: HighonLove
-        days: Présente le 24 et le 29
-        image: /img/angela-mustone.png
-        name: Angela Mustone
+        image: /img/marcel-boily.png
+        name: Yvan-Marcel Boily
     time: 11h45 - 12h15
-    title: 'Produits dérivés : le cannabis sous toutes ses formes'
+    title: 'Le cannabis : remède contre le chômage ?'
   - desc: ''
     intervenants: []
     time: 12h15 - 12h45
@@ -283,33 +268,46 @@ schedules:
     time: 14h00 - 15h00
     title: Découvrez les opportunités du canna-tourisme
   - desc: >-
-      Au sein d’une industrie en plein essor, la création d’emploi est une
-      conséquence logique s’expliquant par un besoin en main d’œuvre afin de
-      répondre aux attentes des employeurs. Nos experts vous donneront toutes
-      les clefs pour travailler dans cette industrie
+      En dépit de ce que l’on peut penser, la légalisation du Cannabis récréatif
+      ouvre bien plus de portes que la simple consommation traditionnelle. Les
+      entrepreneurs ne manquent pas de créativité pour faire fructifier leurs
+      investissements tout en élargissant leur gamme de produits. C’est le cas
+      par exemple d’un laboratoire de 15 600 m2 proche d’Ottawa qui développe
+      très sérieusement des solutions alternatives (crèmes, potions etc.…) à
+      base de Cannabis. Les opportunités sont infinies et ne dépendent que d’un
+      brin d’audace et d’une profonde imagination :
 
 
-      * Ce que recherchent les employeurs
+      * De nouvelles habitudes de consommation : Vins, spiritueux, bière,
+      breuvages et friandises
 
-      * Les diplômes nécessaires
+      * De nouveaux horizons en cosmétiques : crèmes, lotions et maquillage
 
-      * Le plan de carrière
-
-      * L’expérience professionnelle du marché noir : un atout ?
+      * Des niches pour tous les accessoires
     intervenants:
-      - company: ProfileSoft Inc.
+      - company: Consult&Grow
         days: Présent tous les jours
-        image: /img/marcel-boily.png
-        name: Yvan-Marcel Boily
+        image: /img/alexander-main-min.jpg
+        name: Alexander Main
+      - company: Consult&Grow
+        days: Présent tous les jours
+        image: /img/francis-hebert-min.jpg
+        name: Francis Hébert
+      - company: Hush Kush
+        days: Présente tous les jours
+        image: /img/karine-min.jpg
+        name: Karine Clément
+      - company: HighonLove
+        days: Présente le 24 et le 29
+        image: /img/angela-mustone.png
+        name: Angela Mustone
     time: 15h00 - 16h00
-    title: 'Le cannabis : remède contre le chômage ?'
+    title: 'Produits dérivés : le cannabis sous toutes ses formes'
   - desc: >-
       Echangez avec nos experts, posez-leur toutes vos questions, présentez-leur
       vos projets et vos CV. Ils se feront un plaisir de vous aiguiller au mieux
       pour que vos attentes se réalisent.
     time: 16h00 - 18h00
-    title: Tables Rondes et exposition
-  - time: 18h00
-    title: Cocktail de Clôture
+    title: Exposition
 ---
 

@@ -84,11 +84,9 @@ reservation_box:
     subtext: Accès demi-journée
     title: Bronze
 rectangle:
-  features:
-    - desc: '1'
-    - desc: '2'
-  price: '50'
-  subtext: texte
-  title: Test
+  features: []
+  price: ''
+  subtext: ''
+  title: ''
 ---
 

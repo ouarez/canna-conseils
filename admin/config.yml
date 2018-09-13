@@ -50,15 +50,19 @@ collections:
                 widget: "list"
                 fields:
                   - {label: Description, name: desc, widget: string}
-          - {label: "Titre", name: "rectangle_title", widget: "string", required: false}
-          - {label: "Prix", name: "rectangle_price", widget: "string", required: false}
-          - {label: "Prix (sous-texte)", name: "rectangle_subtext", widget: "string", required: false}
-          - label: "Liste des forfaits inclus"
-            name: "rectangle_features"
-            widget: "list"
-            required: false
+          - label: "Boîte rectangulaire"
+            name: "rectangle"
+            widget: "object"
             fields:
-              - {label: Description, name: desc, widget: string, required: false}
+            - {label: "Titre", name: "title", widget: "string", required: false}
+            - {label: "Prix", name: "price", widget: "string", required: false}
+            - {label: "Prix (sous-texte)", name: "subtext", widget: "string", required: false}
+            - label: "Liste des forfaits inclus"
+              name: "features"
+              widget: "list"
+              required: false
+              fields:
+                - {label: Description, name: desc, widget: string, required: false}
 
       - name: "intervenants"
         file: "intervenants.md"

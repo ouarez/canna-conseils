@@ -55,19 +55,16 @@ horaire_slogan: Prenez une longueur d'avance dans l'industrie du cannabis
 intervenants_title: Nos intervenants
 reservation_title: Réservez dès à présent
 reservation_box:
-  - title: Argent
-    subtext: Accès illimité
-    price: 80$
-    features:
+  - features:
       - desc: Accès illimité aux conférences
       - desc: Journée complète
       - desc: Petit-déjeuner
       - desc: Connexion WIFI
       - desc: Taxes en sus
-  - title: Or
+    price: 80$
     subtext: Accès illimité
-    price: 100$
-    features:
+    title: Argent
+  - features:
       - desc: Accès illimité aux conférences
       - desc: Journée complète
       - desc: Petit-déjeuner
@@ -75,12 +72,23 @@ reservation_box:
       - desc: Une table d'exposition
       - desc: Une carte de membre annuelle
       - desc: Taxes en sus
-  - title: Bronze
-    subtext: Accès demi-journée
-    price: 60$
-    features:
+    price: 100$
+    subtext: Accès illimité
+    title: Or
+  - features:
       - desc: Demi-journée
       - desc: Petit-déjeuner
       - desc: Connexion WIFI
       - desc: Taxes en sus
+    price: 60$
+    subtext: Accès demi-journée
+    title: Bronze
+rectangle:
+  features:
+    - desc: '1'
+    - desc: '2'
+  price: '50'
+  subtext: texte
+  title: Test
 ---
+

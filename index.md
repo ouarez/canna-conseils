@@ -76,17 +76,17 @@ reservation_box:
     subtext: Accès illimité
     title: Or
   - features:
-      - desc: Demi-journée
+      - desc: Demi-journée - Matin ou Après-midi
       - desc: Petit-déjeuner
       - desc: Connexion WIFI
       - desc: Taxes en sus
-    price: 60$
+    price: 45$
     subtext: Accès demi-journée
     title: Bronze
 rectangle:
   features: []
-  price: ''
+  price: 20$
   subtext: ''
-  title: ''
+  title: Salon professionnel du samedi
 ---
 

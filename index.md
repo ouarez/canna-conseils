@@ -76,7 +76,7 @@ reservation_box:
     subtext: Accès illimité
     title: Or
   - features:
-      - desc: Demi-journée - Matin ou Après-midi
+      - desc: Demi-journée - Matin (8h-12h15) ou Après-midi (12h15-18h)
       - desc: Petit-déjeuner
       - desc: Connexion WIFI
       - desc: Taxes en sus

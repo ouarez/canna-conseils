@@ -29,9 +29,8 @@ intro_text: >-
   légalisée.
 
 
-  Cet événement va permettre à de nombreux corps de métier de mettre à profit
-  leur expertise dans l'industrie émergente du cannabis et d'élargir leur
-  clientèle.
+  Cet événement représente l'opportunité de rencontrer vos futurs partenaires
+  commerciaux, 20 jours avant la légalisation.
 
 
   Ainsi, que vous soyez professionnels, investisseurs, assureurs, gestionnaires,

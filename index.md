@@ -96,4 +96,3 @@ rectangle:
   subtext: De 8h30 à 18h
   title: Salon professionnel du samedi
 ---
-

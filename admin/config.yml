@@ -50,6 +50,16 @@ collections:
                 widget: "list"
                 fields:
                   - {label: Description, name: desc, widget: string}
+              - label: "Journées"
+                name: "days"
+                widget: "list"
+                fields:
+                  - {label: Journée, name: day, widget: string}
+              - label: "Heures"
+                name: "times"
+                widget: "list"
+                fields:
+                  - {label: Heure, name: time, widget: string}
           - label: "Boîte rectangulaire"
             name: "rectangle"
             widget: "object"

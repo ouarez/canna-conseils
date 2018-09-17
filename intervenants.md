@@ -426,6 +426,38 @@ intervenants:
     name: Maheep Dhillon
     video: Présent le 28 et le 29
   - bio: >-
+      Né à Montréal le 19 avril 1971, Luce Letendre carbure aux défis depuis son
+      plus jeune âge. Sportive aguerrie détenant un prestigieux titre de
+      championne du monde avec l’équipe canadienne d’hockey féminin en 1997,
+      elle détient un baccalauréat en éducation physique de l’Université de
+      Montréal.
+
+
+      Sa carrière d’athlète hockeyeuse ayant prit fin en 1998, ce n’est qu’à
+      l’aube de la trentaine qu’elle amorce sa vie sur le marché du travail.
+      C’est au travers différents emplois dans le domaine de la vente qu’elle
+      trouve alors sa voie professionnelle. À 35 ans, elle prend la décision de
+      plonger dans le monde des affaires en s’associant aux deux fondateurs de
+      l’entreprise Solutions Enbiotech Plus.
+
+       Vice-présidente de la société ayant comme principal mandat le développement des affaires, la résidente de Lacolle prend rapidement conscience de la féroce compétition existant dans l’industrie de fabrication des produits biotechnologiques. Elle réalise ainsi rapidement que la boîte devra diversifier ses activités commerciales si elle désire faire longue vie dans la jungle!
+
+       Visionnaire, au tournant de 2009 elle flaire un sérieux potentiel d’affaires pour le traitement des odeurs d’équipements sportifs, la formulation micro-organique de l’entreprise destiné à ce type de problématique aura alors pour effet de révolutionner cette catégorie de produits auprès des détaillants sportifs!
+
+      Entrepreneure participante de la 2e saison de l’émission Dans L’Oeil du
+      Dragon (2013), en passant par le développement du marché des animaux de
+      compagnie en 2015, l’industrie du cannabis lui ouvre maintenant de
+      nouveaux horizons. Énergique et dynamique à souhait, Luce Letendre
+      désormais marathonienne, fera courir les consommateurs pour s’approprier
+      WOO Weed Odor Out…
+    company: Solutions Enbiotech Plus
+    conferences:
+      - date: Présente tous les jours
+        name: 'Produits dérivés : le cannabis sous toutes ses formes'
+    image: /img/luce-letendre-min.jpg
+    job: Vice-Présidente
+    name: Luce Letendre
+  - bio: >-
       Stephane Maurais a fondé Alco Prévention Canada en 1989 après des études
       en administration (MBA) . Faisant figure de pionnier à cet époque en
       prônant l’utilisation des alcootests comme moyen de prévention, Alco
@@ -492,37 +524,5 @@ intervenants:
     job: Président-fondateur
     name: Yvan-Marcel Boily
     video: 'https://vimeo.com/288605439'
-  - bio: >-
-      Né à Montréal le 19 avril 1971, Luce Letendre carbure aux défis depuis son
-      plus jeune âge. Sportive aguerrie détenant un prestigieux titre de
-      championne du monde avec l’équipe canadienne d’hockey féminin en 1997,
-      elle détient un baccalauréat en éducation physique de l’Université de
-      Montréal.
-
-
-      Sa carrière d’athlète hockeyeuse ayant prit fin en 1998, ce n’est qu’à
-      l’aube de la trentaine qu’elle amorce sa vie sur le marché du travail.
-      C’est au travers différents emplois dans le domaine de la vente qu’elle
-      trouve alors sa voie professionnelle. À 35 ans, elle prend la décision de
-      plonger dans le monde des affaires en s’associant aux deux fondateurs de
-      l’entreprise Solutions Enbiotech Plus.
-
-       Vice-présidente de la société ayant comme principal mandat le développement des affaires, la résidente de Lacolle prend rapidement conscience de la féroce compétition existant dans l’industrie de fabrication des produits biotechnologiques. Elle réalise ainsi rapidement que la boîte devra diversifier ses activités commerciales si elle désire faire longue vie dans la jungle!
-
-       Visionnaire, au tournant de 2009 elle flaire un sérieux potentiel d’affaires pour le traitement des odeurs d’équipements sportifs, la formulation micro-organique de l’entreprise destiné à ce type de problématique aura alors pour effet de révolutionner cette catégorie de produits auprès des détaillants sportifs!
-
-      Entrepreneure participante de la 2e saison de l’émission Dans L’Oeil du
-      Dragon (2013), en passant par le développement du marché des animaux de
-      compagnie en 2015, l’industrie du cannabis lui ouvre maintenant de
-      nouveaux horizons. Énergique et dynamique à souhait, Luce Letendre
-      désormais marathonienne, fera courir les consommateurs pour s’approprier
-      WOO Weed Odor Out…
-    company: Solutions Enbiotech Plus
-    conferences:
-      - date: Présente tous les jours
-        name: 'Produits dérivés : le cannabis sous toutes ses formes'
-    image: /img/luce-letendre-min.jpg
-    job: Vice-Présidente
-    name: Luce Letendra
 ---
 

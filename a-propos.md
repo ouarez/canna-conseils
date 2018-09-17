@@ -65,6 +65,8 @@ thematiques:
   - icon: fas fa-briefcase
     text: ''
     title: Emploi
+  - icon: fas fa-comments
+    title: Communication
 facts_title: CHIFFRES CLÉS
 facts_bg: /img/bg-facts.png
 facts:

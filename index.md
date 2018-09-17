@@ -15,9 +15,9 @@ intro_text: >-
   participants de prendre conscience en une formation accélérée des tenants et
   aboutissants de l’industrie la plus prometteuse de notre décennie. Les
   participants auront donc l’opportunité d’étudier un large éventail de sujets
-  tels que la culture, l'approvisionnement, la distribution, la communication,
+  tels que **la culture, l'approvisionnement, la distribution, la communication,
   les produits dérivés, les financements & investissements, la santé, le
-  tourisme, l'emploi et plus encore. La diversité des thèmes abordés par nos
+  tourisme, l'emploi et plus encore**. La diversité des thèmes abordés par nos
   conférenciers fait la force de nos formations et nous autorise ainsi à étudier
   ce marché à forte valeur ajoutée dans sa globalité.
 
@@ -29,9 +29,8 @@ intro_text: >-
   légalisée.
 
 
-  Cet événement va permettre à de nombreux corps de métier de mettre à profit
-  leur expertise dans l'industrie émergente du cannabis et d'élargir leur
-  clientèle.
+  Cet événement représente l'opportunité de rencontrer vos futurs partenaires
+  commerciaux, 20 jours avant la légalisation.
 
 
   Ainsi, que vous soyez professionnels, investisseurs, assureurs, gestionnaires,
@@ -67,25 +66,24 @@ reservation_box:
   - features:
       - desc: Accès illimité aux conférences
       - desc: Journée complète
+      - desc: Une table d'exposition
       - desc: Petit-déjeuner
       - desc: Connexion WIFI
-      - desc: Une table d'exposition
-      - desc: Une carte de membre annuelle
       - desc: Taxes en sus
     price: 100$
     subtext: Accès illimité
     title: Or
   - features:
-      - desc: Demi-journée
+      - desc: Demi-journée - Matin (8h-12h15) ou Après-midi (12h45-18h)
       - desc: Petit-déjeuner
       - desc: Connexion WIFI
       - desc: Taxes en sus
-    price: 60$
+    price: 45$
     subtext: Accès demi-journée
     title: Bronze
 rectangle:
   features: []
-  price: ''
-  subtext: ''
-  title: ''
+  price: 20$
+  subtext: De 8h30 à 18h
+  title: Salon professionnel du samedi
 ---

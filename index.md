@@ -107,7 +107,12 @@ reservation_box:
       - time: 8h00-12h15 (avant-midi)
       - time: 12h45-18h00 (après-midi)
     title: Bronze
-  - price: 20$
+  - days:
+      - day: Samedi 29 septembre
+    price: 20$
     subtext: De 8h30 à 18h
+    times:
+      - time: 8h30-18h00
     title: Salon professionnel du samedi
 ---
+

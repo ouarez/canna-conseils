@@ -5,6 +5,15 @@ description: Prenez une longueur d'avance dans l'industrie du cannabis
 slogan1: Inscriptions
 slogan2: Réservez votre place dès maintenant !
 cover_image: /img/bg-page.jpg
+halfdays:
+  - day: Lundi 24 septembre
+  - day: Mardi 25 septembre
+  - day: Mercredi 26 septembre
+  - day: Jeudi 27 septembre
+  - day: Vendredi 28 septembre
+halfday_times:
+  - time: 8h00-12h15 (avant-midi)
+  - time: 12h45-18h00 (après-midi)
 days:
   - day: Lundi 24 septembre
   - day: Mardi 25 septembre
@@ -13,6 +22,7 @@ days:
   - day: Vendredi 28 septembre
   - day: Samedi 29 septembre
 types:
+  - type: Bronze
   - type: Argent
   - type: Or
 ---

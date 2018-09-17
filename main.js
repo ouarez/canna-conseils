@@ -1,5 +1,19 @@
 $(function() {
-  
+
+  // page inscriptions
+  $("#niveau").change(function () {
+    var selected_option = $('#niveau').val();
+
+    if (selected_option == 'Bronze') {
+      $('#argent').hide();
+      $('#bronze').show();
+    }
+    if (selected_option != 'Bronze') {
+      $('#bronze').hide();
+      $('#argent').show();
+    }
+  })
+
   $(".nav-button").click(function() {
     $(".mobile-nav").toggle();
   });

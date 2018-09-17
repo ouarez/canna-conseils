@@ -26,7 +26,26 @@ layout: default
           {% endfor %}
         </select>
 
-        <fieldset class="w-100 pa3 mv2 input-reset flex flex-wrap">
+        <fieldset id="bronze" class="w-100 pa3 mv2 input-reset flex flex-wrap hidden">
+            <legend>Choisir une demi-journée</legend>
+
+              <select class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" required  name="Demi-journée" id="halfdays">
+                <option value="" disabled selected>Journée*</option>
+                {% for item in page.halfdays %}
+                <option value="{{item.day}}">{{item.day}}</option>
+                {% endfor %}
+              </select>
+
+              {% for item in page.halfday_times %}
+                <div class="w-100 mv2">
+                  <input type="radio" id="{{item.time}}" name="halfday_times" value="{{item.time}}" />
+                  <label for="{{item.time}}">{{item.time}}</label>
+                </div>
+              {% endfor %}
+
+        </fieldset>
+
+        <fieldset id="argent" class="w-100 pa3 mv2 input-reset flex flex-wrap hidden">
             <legend>Choisir une journée</legend>
 
             {% for item in page.days %}

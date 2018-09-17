@@ -396,36 +396,6 @@ intervenants:
     job: Présidente
     name: Angela Mustone
   - bio: >-
-      Maheep Dhillon possède plus de 10 années d'expérience dans le
-      développement corporatif. Son expertise et ses compétences en gestion des
-      opérations, en administration et finances, en fusions et acquisitions
-      ainsi qu’en relations avec les investisseurs lui permettent de réaliser
-      des projets dès les phases préliminaires. Avant de travailler pour
-      Emerald, Maheep était responsable de projets de développement agricole de
-      plusieurs millions de dollars en Colombie-Britannique (CB) et a eu à
-      travailler en étroite collaboration avec Santé Canada dans le cadre
-      notamment du Règlement sur l'accès au cannabis à des fins médicales
-      (RACFM). En tant que membre fondateur du groupe Emerald, M. Dhillon a
-      contribué à rassembler plus de 75 millions de dollars, à gérer des
-      partenariats sensibles et à coordonner l’introduction en bourse d'Emerald
-      Health Therapeutics (EHT). En 2017, il a été nommé vice-président du
-      développement corporatif. Il est responsable de la gestion des opérations,
-      des partenariats stratégiques, du marketing ainsi que du développement
-      commercial. Il a récemment co-dirigé la conversion et l’obtention du
-      permis de production pour la serre hybride de 1,1 million de pieds carrés
-      détenue par EHT en joint-venture à Delta, CB. M. Dhillon se concentre
-      actuellement sur le développement d’Agro-Biotech au Québec, sur
-      l'acquisition d’opportunités, sur la recherche et la production du
-      cannabis ainsi que sur la création de propriété intellectuelle.
-    company: Emerald Health Therapeutics Inc.
-    conferences:
-      - date: Présent le 28 et le 29
-        name: Les vertus thérapeutiques du cannabis
-    image: /img/photo-maheep-dhillon.jpg
-    job: Vice-président développement corporatif
-    name: Maheep Dhillon
-    video: Présent le 28 et le 29
-  - bio: >-
       Né à Montréal le 19 avril 1971, Luce Letendre carbure aux défis depuis son
       plus jeune âge. Sportive aguerrie détenant un prestigieux titre de
       championne du monde avec l’équipe canadienne d’hockey féminin en 1997,
@@ -457,6 +427,36 @@ intervenants:
     image: /img/luce-letendre-min.jpg
     job: Vice-Présidente
     name: Luce Letendre
+  - bio: >-
+      Maheep Dhillon possède plus de 10 années d'expérience dans le
+      développement corporatif. Son expertise et ses compétences en gestion des
+      opérations, en administration et finances, en fusions et acquisitions
+      ainsi qu’en relations avec les investisseurs lui permettent de réaliser
+      des projets dès les phases préliminaires. Avant de travailler pour
+      Emerald, Maheep était responsable de projets de développement agricole de
+      plusieurs millions de dollars en Colombie-Britannique (CB) et a eu à
+      travailler en étroite collaboration avec Santé Canada dans le cadre
+      notamment du Règlement sur l'accès au cannabis à des fins médicales
+      (RACFM). En tant que membre fondateur du groupe Emerald, M. Dhillon a
+      contribué à rassembler plus de 75 millions de dollars, à gérer des
+      partenariats sensibles et à coordonner l’introduction en bourse d'Emerald
+      Health Therapeutics (EHT). En 2017, il a été nommé vice-président du
+      développement corporatif. Il est responsable de la gestion des opérations,
+      des partenariats stratégiques, du marketing ainsi que du développement
+      commercial. Il a récemment co-dirigé la conversion et l’obtention du
+      permis de production pour la serre hybride de 1,1 million de pieds carrés
+      détenue par EHT en joint-venture à Delta, CB. M. Dhillon se concentre
+      actuellement sur le développement d’Agro-Biotech au Québec, sur
+      l'acquisition d’opportunités, sur la recherche et la production du
+      cannabis ainsi que sur la création de propriété intellectuelle.
+    company: Emerald Health Therapeutics Inc.
+    conferences:
+      - date: Présent le 28 et le 29
+        name: Les vertus thérapeutiques du cannabis
+    image: /img/photo-maheep-dhillon.jpg
+    job: Vice-président développement corporatif
+    name: Maheep Dhillon
+    video: Présent le 28 et le 29
   - bio: >-
       Stephane Maurais a fondé Alco Prévention Canada en 1989 après des études
       en administration (MBA) . Faisant figure de pionnier à cet époque en

@@ -110,9 +110,4 @@ reservation_box:
   - price: 20$
     subtext: De 8h30 à 18h
     title: Salon professionnel du samedi
-rectangle:
-  features: []
-  price: 20$
-  subtext: De 8h30 à 18h
-  title: ''
 ---

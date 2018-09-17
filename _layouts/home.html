@@ -178,7 +178,7 @@ layout: default
 
     {% for box in page.reservation_box %}
 
-    <div class="w-100 w-third-l pointer grow mb3">
+    <div class="w-100 w-third-l pointer grow mv3 ml-auto mr-auto">
       <a class="no-underline" href="/inscriptions">
         <div class="bg-white br4 mr3 pa3 pa4-l tc">
           <span class="ttu b f3 black pv3 db">{{box.title}}</span>
@@ -194,27 +194,6 @@ layout: default
     </div>
 
     {% endfor %}
-
-    {% if page.rectangle.title %}
-    {% unless page.rectangle.title == '' %}
-
-      <div class="w-100 w-60-l ml-auto mr-auto pointer grow mb3 mt3 mt4-l">
-        <a class="no-underline" href="/inscriptions">
-          <div class="bg-white br4 mr3 pa3 pa4-l tc">
-            <span class="ttu b f2 black pv3 db">{{page.rectangle.title}}</span>
-            <div class="w-60 ml-auto mr-auto pa3 mv3 bg-green white br4">
-              <span class="db ttu b f-huge">{{page.rectangle.price}}</span>
-              <span class="db f4">{{page.rectangle.subtext}}</span>
-            </div>
-            {% for forfait in page.rectangle.features %}
-              <span class="gray ml-auto mr-auto db pv3 bb b--light-gray tl"><i class="far fa-check-square mr3"></i>{{forfait.desc}}</span>
-            {% endfor %}
-          </div>
-        </a>
-      </div>
-
-    {% endunless %}
-    {% endif %}
 
   </div>
 

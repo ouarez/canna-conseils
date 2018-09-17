@@ -54,7 +54,13 @@ horaire_slogan: Prenez une longueur d'avance dans l'industrie du cannabis
 intervenants_title: Nos intervenants
 reservation_title: Réservez dès à présent
 reservation_box:
-  - features:
+  - days:
+      - day: Lundi 24 septembre
+      - day: Mardi 25 septembre
+      - day: Mercredi 26 septembre
+      - day: Jeudi 27 septembre
+      - day: Vendredi 28 septembre
+    features:
       - desc: Accès illimité aux conférences
       - desc: Journée complète
       - desc: Petit-déjeuner
@@ -62,6 +68,9 @@ reservation_box:
       - desc: Taxes en sus
     price: 80$
     subtext: Accès illimité
+    times:
+      - time: 8h00-12h15 (avant-midi)
+      - time: 12h45-18h00 (après-midi)
     title: Argent
   - features:
       - desc: Accès illimité aux conférences
@@ -87,3 +96,4 @@ rectangle:
   subtext: De 8h30 à 18h
   title: Salon professionnel du samedi
 ---
+

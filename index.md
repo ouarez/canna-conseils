@@ -69,10 +69,16 @@ reservation_box:
     price: 80$
     subtext: Accès illimité
     times:
-      - time: 8h00-12h15 (avant-midi)
-      - time: 12h45-18h00 (après-midi)
+      - time: Toute la journée (8h00 à 18h00)
     title: Argent
-  - features:
+  - days:
+      - day: Lundi 24 septembre
+      - day: Mardi 25 septembre
+      - day: Mercredi 26 septembre
+      - day: Jeudi 27 septembre
+      - day: Vendredi 28 septembre
+      - day: Samedi 29 septembre
+    features:
       - desc: Accès illimité aux conférences
       - desc: Journée complète
       - desc: Une table d'exposition
@@ -81,18 +87,32 @@ reservation_box:
       - desc: Taxes en sus
     price: 100$
     subtext: Accès illimité
+    times:
+      - time: Toute la journée (8h00 à 18h00)
     title: Or
-  - features:
+  - days:
+      - day: Lundi 24 septembre
+      - day: Mardi 25 septembre
+      - day: Mercredi 26 septembre
+      - day: Jeudi 27 septembre
+      - day: Vendredi 28 septembre
+    features:
       - desc: Demi-journée - Matin (8h-12h15) ou Après-midi (12h45-18h)
       - desc: Petit-déjeuner
       - desc: Connexion WIFI
       - desc: Taxes en sus
     price: 45$
     subtext: Accès demi-journée
+    times:
+      - time: 8h00-12h15 (avant-midi)
+      - time: 12h45-18h00 (après-midi)
     title: Bronze
+  - price: 20$
+    subtext: De 8h30 à 18h
+    title: Salon professionnel du samedi
 rectangle:
   features: []
   price: 20$
   subtext: De 8h30 à 18h
-  title: Salon professionnel du samedi
+  title: ''
 ---

@@ -66,10 +66,9 @@ reservation_box:
   - features:
       - desc: Accès illimité aux conférences
       - desc: Journée complète
+      - desc: Une table d'exposition
       - desc: Petit-déjeuner
       - desc: Connexion WIFI
-      - desc: Une table d'exposition
-      - desc: Une carte de membre annuelle
       - desc: Taxes en sus
     price: 100$
     subtext: Accès illimité

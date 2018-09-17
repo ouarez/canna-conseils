@@ -15,9 +15,9 @@ intro_text: >-
   participants de prendre conscience en une formation accélérée des tenants et
   aboutissants de l’industrie la plus prometteuse de notre décennie. Les
   participants auront donc l’opportunité d’étudier un large éventail de sujets
-  tels que la culture, l'approvisionnement, la distribution, la communication,
+  tels que **la culture, l'approvisionnement, la distribution, la communication,
   les produits dérivés, les financements & investissements, la santé, le
-  tourisme, l'emploi et plus encore. La diversité des thèmes abordés par nos
+  tourisme, l'emploi et plus encore**. La diversité des thèmes abordés par nos
   conférenciers fait la force de nos formations et nous autorise ainsi à étudier
   ce marché à forte valeur ajoutée dans sa globalité.
 

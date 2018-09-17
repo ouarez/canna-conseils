@@ -69,8 +69,7 @@ reservation_box:
     price: 80$
     subtext: Accès illimité
     times:
-      - time: 8h00-12h15 (avant-midi)
-      - time: 12h45-18h00 (après-midi)
+      - time: Toute la journée (8h00 à 18h00)
     title: Argent
   - days:
       - day: Lundi 24 septembre
@@ -105,13 +104,16 @@ reservation_box:
     price: 45$
     subtext: Accès demi-journée
     times:
-      - {}
-      - {}
+      - time: 8h00-12h15 (avant-midi)
+      - time: 12h45-18h00 (après-midi)
     title: Bronze
+  - price: 20$
+    subtext: De 8h30 à 18h
+    title: Salon professionnel du samedi
 rectangle:
   features: []
   price: 20$
   subtext: De 8h30 à 18h
-  title: Salon professionnel du samedi
+  title: ''
 ---
 

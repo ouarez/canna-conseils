@@ -44,8 +44,8 @@ layout: default
                   </select>
 
                   {% for time in item.times %}
-                    <div class="w-100 mv2">
-                      <input type="radio" id="{{time.time}}" name="Heure" value="{{time.time}}"/>
+                    <div class="w-100 mv2 radios">
+                      <input type="radio" id="{{time.time}}" name="{{item.title}}" value="{{time.time}}" {% if forloop.first == true %} checked {% endif %}/>
                       <label for="{{time.time}}">{{time.time}}</label>
                     </div>
                   {% endfor %}

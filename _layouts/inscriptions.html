@@ -47,7 +47,7 @@ layout: default
 
                 {% else %}
 
-                  <select class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" name="Journée" id="halfdays">
+                  <select class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" name="Journée">
                     <option value="" disabled selected>Journée*</option>
                     {% for day in item.days %}
                       <option value="{{day.day}}">{{day.day}}</option>
@@ -56,12 +56,13 @@ layout: default
 
                 {% endif %}
 
-                  {% for time in item.times %}
-                    <div class="w-100 mv3 radios">
-                      <input type="radio" id="{{time.time}}" name="{{item.title}}" value="{{time.time}}"/>
-                      <label for="{{time.time}}">{{time.time}}</label>
-                    </div>
-                  {% endfor %}
+
+              <select class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" name="Heure">
+                <option value="" disabled selected>Heure*</option>
+                {% for time in item.times %}
+                  <option value="{{time.time}}">{{time.time}}</option>
+                {% endfor %}
+              </select>
 
             </fieldset>
 

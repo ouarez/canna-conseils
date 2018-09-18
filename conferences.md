@@ -285,7 +285,7 @@ schedules:
 
       * Des niches pour tous les accessoires
     intervenants:
-      - company: Solutions Enbiotech Plus
+      - company: Solutions Enbiotech
         days: Présente tous les jours
         image: /img/luce-letendre-min.jpg
         name: Luce Letendre

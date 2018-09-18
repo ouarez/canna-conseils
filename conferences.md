@@ -291,10 +291,6 @@ schedules:
         name: Luce Letendre
       - company: Consult&Grow
         days: Présent tous les jours
-        image: /img/alexander-main-min.jpg
-        name: Alexander Main
-      - company: Consult&Grow
-        days: Présent tous les jours
         image: /img/francis-hebert-min.jpg
         name: Francis Hébert
       - company: Hush Kush

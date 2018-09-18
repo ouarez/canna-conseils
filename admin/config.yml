@@ -181,26 +181,6 @@ collections:
           - {label: "Slogan 2", name: "slogan2", widget: "string", required: false}
           - {label: "Image de couverture", name: "cover_image", widget: "image"}
           - {label: "Texte", name: "body", widget: "markdown"}
-          - label: "Demi-journées"
-            name: "halfdays"
-            widget: "list"
-            fields:
-              - {label: Journée, name: day, widget: string}
-          - label: "Heures pour demi-journées"
-            name: "halfday_times"
-            widget: "list"
-            fields:
-              - {label: Heures, name: time, widget: string}
-          - label: "Journées"
-            name: "days"
-            widget: "list"
-            fields:
-              - {label: Journée, name: day, widget: string}
-          - label: "Types"
-            name: "types"
-            widget: "list"
-            fields:
-              - {label: Type, name: type, widget: string}
 
   - name: "settings"
     label: "Paramètres du site"

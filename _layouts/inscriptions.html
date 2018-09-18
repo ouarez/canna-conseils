@@ -18,14 +18,14 @@ layout: default
       <div class="w-100 w-50-l fl mv3 pr3">
         <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Nom, Prénom*" type="text" name="nom" id="nom" required>
         <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Courriel*" type="email" name="courriel" id="courriel" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$">
-        <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Téléphone*" type="tel" name="tel" id="tel" pattern="^\d{3}-\d{3}-\d{4}$">
+        <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Téléphone*" type="tel" name="tel" id="tel" pattern="^(\+\d{1,2}\s)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}$">
         <input class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" placeholder="Entreprise" type="text" name="entreprise" id="entreprise">
 
         <select class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" required  name="niveau" id="niveau">
           <option value="" disabled selected>Niveau*</option>
           {% for result in fetch_page %}
             {% for item in result.reservation_box %}
-              <option value="{{item.title}}">{{item.title}}</option>
+              <option value="{{item.title | slugify}}">{{item.title}}</option>
             {% endfor %}
           {% endfor %}
         </select>
@@ -33,8 +33,19 @@ layout: default
         {% for result in fetch_page %}
           {% for item in result.reservation_box %}
 
-            <fieldset id="{{item.title}}" class="w-100 pa3 mv2 input-reset flex flex-wrap hidden">
+            <fieldset id="{{item.title | slugify}}" class="w-100 pa3 mv2 input-reset flex flex-wrap hidden">
                 <legend>{{item.title}} - Choisir une journée</legend>
+
+                {% if item.multiple_days == true %}
+
+                {% for day in item.days %}
+                  <div class="w-100 w-40-l pv2 dib">
+                    <input type="checkbox" name="{{day.day}}" value="{{day.day}}" />
+                    <label for="{{day.day}}">{{day.day}}</label>
+                  </div>
+                {% endfor %}
+
+                {% else %}
 
                   <select class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" required  name="Journée" id="halfdays">
                     <option value="" disabled selected>Journée*</option>
@@ -43,8 +54,10 @@ layout: default
                     {% endfor %}
                   </select>
 
+                {% endif %}
+
                   {% for time in item.times %}
-                    <div class="w-100 mv2 radios">
+                    <div class="w-100 mv3 radios">
                       <input type="radio" id="{{time.time}}" name="{{item.title}}" value="{{time.time}}" {% if forloop.first == true %} checked {% endif %}/>
                       <label for="{{time.time}}">{{time.time}}</label>
                     </div>
@@ -56,9 +69,10 @@ layout: default
 
             $("#niveau").change(function () {
               var selected_option = $('#niveau').val();
-              if (selected_option == '{{item.title}}') {
+              console.log(selected_option);
+              if (selected_option == '{{item.title | slugify}}') {
                 $('.hidden').hide();
-                $('#{{item.title}}').show();
+                $('#{{item.title | slugify}}').show();
               }
             })
 

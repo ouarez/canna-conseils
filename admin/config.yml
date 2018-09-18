@@ -55,6 +55,7 @@ collections:
                 widget: "list"
                 fields:
                   - {label: Journée, name: day, widget: string}
+              - {label: Plusieurs journées?, name: multiple_days, widget: boolean}
               - label: "Heures"
                 name: "times"
                 widget: "list"

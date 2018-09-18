@@ -71,6 +71,7 @@ reservation_box:
     times:
       - time: Toute la journée (8h00 à 18h00)
     title: Argent
+    multiple_days: true
   - days:
       - day: Lundi 24 septembre
       - day: Mardi 25 septembre
@@ -90,6 +91,7 @@ reservation_box:
     times:
       - time: Toute la journée (8h00 à 18h00)
     title: Or
+    multiple_days: true
   - days:
       - day: Lundi 24 septembre
       - day: Mardi 25 septembre
@@ -108,6 +110,7 @@ reservation_box:
       - time: 8h00-12h15 (avant-midi)
       - time: 12h45-18h00 (après-midi)
     title: Bronze
+    multiple_days: false
   - days:
       - day: Samedi 29 septembre
     price: 20$
@@ -115,5 +118,5 @@ reservation_box:
     times:
       - time: 8h30-18h00
     title: Salon professionnel du samedi
+    multiple_days: false
 ---
-

@@ -47,7 +47,7 @@ layout: default
 
                 {% else %}
 
-                  <select class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" required  name="Journée" id="halfdays">
+                  <select class="w-100 pa3 mv2 input-reset ba b--light-gray bg-near-white br2 black b f5" name="Journée" id="halfdays">
                     <option value="" disabled selected>Journée*</option>
                     {% for day in item.days %}
                       <option value="{{day.day}}">{{day.day}}</option>

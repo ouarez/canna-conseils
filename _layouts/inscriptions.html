@@ -40,7 +40,7 @@ layout: default
 
                 {% for day in item.days %}
                   <div class="w-100 w-40-l pv2 dib">
-                    <input type="checkbox" name="{{day.day}}" value="{{day.day}}" />
+                    <input type="checkbox" name="{{day.day}}" value="SÉLECTIONNÉ" />
                     <label for="{{day.day}}">{{day.day}}</label>
                   </div>
                 {% endfor %}
@@ -58,7 +58,7 @@ layout: default
 
                   {% for time in item.times %}
                     <div class="w-100 mv3 radios">
-                      <input type="radio" id="{{time.time}}" name="{{item.title}}" value="{{time.time}}" {% if forloop.first == true %} checked {% endif %}/>
+                      <input type="radio" id="{{time.time}}" name="{{item.title}}" value="{{time.time}}"/>
                       <label for="{{time.time}}">{{time.time}}</label>
                     </div>
                   {% endfor %}

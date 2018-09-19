@@ -63,7 +63,7 @@ reservation_box:
       - day: Vendredi 28 septembre
     features:
       - desc: Accès illimité aux conférences
-      - desc: Journée complète
+      - desc: Journée complète (8h-18h)
       - desc: Petit-déjeuner
       - desc: Connexion WIFI
       - desc: Taxes en sus
@@ -82,7 +82,7 @@ reservation_box:
       - day: Samedi 29 septembre
     features:
       - desc: Accès illimité aux conférences
-      - desc: Journée complète
+      - desc: Journée complète (8h-18h)
       - desc: Une table d'exposition
       - desc: Petit-déjeuner
       - desc: Connexion WIFI

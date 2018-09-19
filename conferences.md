@@ -294,7 +294,7 @@ schedules:
         image: /img/karine-min.jpg
         name: Karine Clément
       - company: HighonLove
-        days: Présente le 24 et le 29
+        days: Présente le 24 et le 25
         image: /img/angela-mustone.png
         name: Angela Mustone
     time: 15h00 - 16h00

@@ -11,8 +11,8 @@ cover_link: /inscriptions
 intro_title: Qu’est-ce que la Semaine du Cannabis ?
 intro_text: >-
   La Semaine du Cannabis est une formation sur mesure d’une durée de 5 jours
-  avec un salon professionnel le samedi. La programmation d'une journée à
-  l'autre est identique. Cette semaine permet concrètement aux participants de
+  avec un salon professionnel le samedi. **La programmation d'une journée à
+  l'autre est identique**. Cette semaine permet concrètement aux participants de
   prendre conscience en une formation accélérée des tenants et aboutissants de
   l’industrie la plus prometteuse de notre décennie. Les participants auront
   donc l’opportunité d’étudier un large éventail de sujets tels que **la

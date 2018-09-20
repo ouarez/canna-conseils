@@ -80,7 +80,7 @@ schedules:
         name: Patrick Leroux
     time: 9h30 - 10h15
     title: 'Assurances et sources de financement '
-  - time: 10h30 - 10h45
+  - time: 10h15 - 10h30
     title: Pause Café-Réseau
   - desc: >-
       Du processus de fabrication jusqu’à la vente du produit, tant de questions

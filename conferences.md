@@ -130,7 +130,7 @@ schedules:
         days: Présent tous les jours
         image: /img/km.png
         name: Kévin Morel
-    time: 10h45 - 11h15
+    time: 10h30 - 11h15
     title: >-
       S’approvisionner, distribuer et communiquer : les étapes clés pour
       connaître un véritable succès

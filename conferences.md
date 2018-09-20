@@ -78,7 +78,7 @@ schedules:
         days: Présent tous les jours
         image: /img/patrick-leroux-1-min.jpg
         name: Patrick Leroux
-    time: 9h30 - 10h30
+    time: 9h30 - 10h15
     title: 'Assurances et sources de financement '
   - time: 10h30 - 10h45
     title: Pause Café-Réseau

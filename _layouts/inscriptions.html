@@ -25,7 +25,7 @@ layout: default
           <option value="" disabled selected>Niveau*</option>
           {% for result in fetch_page %}
             {% for item in result.reservation_box %}
-              <option value="{{item.title | slugify}}">{{item.title}}</option>
+              <option value="{{item.title | slugify}}">{{item.title}} - {{item.price}}</option>
             {% endfor %}
           {% endfor %}
         </select>

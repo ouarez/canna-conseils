@@ -197,6 +197,10 @@ schedules:
       et des entrepreneurs qui envisagent de s'implanter dans cette industrie.
 
 
+      Le vendredi 28 septembre, Maheep Dhillon (Emerald Health Therapeutics)
+      donnera une conférence sur le cannabis médical.
+
+
       Le samedi 29 septembre, Charles Taerk (Faircourt Asset Management Inc.)
       donnera une conférence intitulée "Les nouvelles possibilités
       d'investissement dans l'industrie du cannabis".

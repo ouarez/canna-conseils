@@ -209,6 +209,10 @@ schedules:
         days: Samedi 29 septembre
         image: /img/charles-taerk-hi-res-min.jpg
         name: Charles Taerk
+      - company: Emerald Health Therapeutics
+        days: Vendredi 28 septembre
+        image: /img/photo-maheep-dhillon.jpg
+        name: Maheep Dhillon
     time: 12h45 - 13h30
     title: La conférence du jour (en anglais)
   - desc: >-

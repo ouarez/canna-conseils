@@ -451,12 +451,12 @@ intervenants:
       cannabis ainsi que sur la création de propriété intellectuelle.
     company: Emerald Health Therapeutics Inc.
     conferences:
-      - date: Présent le 28 et le 29
-        name: Les vertus thérapeutiques du cannabis
+      - date: Présent le 28
+        name: La conférence du jour (en anglais)
     image: /img/photo-maheep-dhillon.jpg
     job: Vice-président développement corporatif
     name: Maheep Dhillon
-    video: Présent le 28 et le 29
+    video: Présent le 28
   - bio: >-
       Stephane Maurais a fondé Alco Prévention Canada en 1989 après des études
       en administration (MBA) . Faisant figure de pionnier à cet époque en

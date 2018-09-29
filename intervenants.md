@@ -114,35 +114,6 @@ intervenants:
     job: Administrateur délégué
     name: Patrick Leroux
     video: 'https://vimeo.com/288168575'
-  - bio: >-
-      Découvrir son chemin dans l’industrie du cannabis n’a pas à être aussi
-      mystérieux ou complexe. Avec les bons partenaires pour vous guider, votre
-      marque peut vraiment se démarquer dans ce secteur concurrentiel. Chez
-      Marijuana Marketing Gurus, nous proposons un puissant mélange d'image de
-      marque, d’expertise multimédia, de référencement et d’autres services
-      marketing pour aider votre entreprise à atteindre son plein potentiel.
-      Notre équipe de vétérans de l'industrie du marketing apporte déjà depuis
-      plusieurs années son expertise et ses tactiques de pointe au marketing du
-      cannabis dans plusieurs états américains dont le Colorado et la
-      Californie. Nous adoptons une approche dynamique pour l'optimisation des
-      moteurs de recherche pour entreprises de l'industrie. Nous avons des
-      décennies d'expérience combinée pour vous mettre à la une des résultats
-      des moteurs de recherche et accroître le trafic de votre site Web. Là où
-      les tactiques traditionnelles de marketing et de publicité de la marijuana
-      ont fait défaut aux propriétaires d’entreprise de marijuana, le marketing
-      numérique a ouvert un nouveau monde de possibilités pour permettre aux
-      marques de se développer et de se faire découvrir. Marijuana Marketing
-      Gurus combine le meilleur marketing numérique avec l'expertise de
-      l'industrie du cannabis pour offrir à ses clients une véritable croissance
-      organique.
-    company: Marijuana Marketing Gurus
-    conferences:
-      - date: Présent tous les jours
-        name: >-
-          S’approvisionner, distribuer et communiquer : les étapes clés pour
-          connaître un canna-succès
-    image: /img/marijuana-marketing-gurus.jpg
-    name: Stéphane Savoie
   - bio: "Mme Isabelle Boismenu est directrice ventes & marketing et propriétaire associée chez H2O communication \rdepuis 2011. Elle est responsable des équipes de ventes & marketing à l’agence. Elle donne plusieurs\r conférences par année sur l’image de marque et la publicité. Mme Boismenu a été courtier immobilier agréé \rpendant plusieurs années, elle a fait partie d’une grande équipe immobilière, classée #1 RE/MAX, pour \rlaquelle elle a remporté plusieurs trophées de mérite chaque année. De plus, avocate de formation, Isabelle\r a aussi travaillé plusieurs années au sein d’un cabinet d’avocat renommé en droit corporatif et fiscal à Montréal.\r Ces années d’expérience lui ont permis de bien cerner les besoins des clients, bien comprendre le milieu \rjuridique et les besoins des entreprises, afin de les aider davantage dans leur progression d’affaires. Elle a\r ainsi accumulé plus de 20 ans d’expérience dans le domaine de la vente et du marketing et contribué au\r succès de plusieurs centaines d’entreprises au cours de sa carrière."
     company: H20 Communication
     conferences:

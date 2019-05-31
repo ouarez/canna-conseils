@@ -335,7 +335,7 @@ intervenants:
     conferences:
       - date: Présente le 24 et le 25
         name: 'Produits dérivés: le cannabis sous toutes ses formes'
-    image: /img/angela-mustone.png
+    image: /img/angela-mustone.jpg
     job: Présidente
     name: Angela Mustone
   - bio: >-
@@ -468,4 +468,3 @@ intervenants:
     name: Yvan-Marcel Boily
     video: 'https://vimeo.com/288605439'
 ---
-
